@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Flet](https://img.shields.io/badge/Flet-UI-purple?style=for-the-badge&logo=flet&logoColor=white)](https://flet.dev/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 Este es un **Administrador de Archivos** completo desarrollado con **Flet**, diseñado para simplificar y automatizar diversas tareas de gestión de archivos en tu sistema. Desde la organización de tu librería multimedia hasta la limpieza de duplicados y el procesamiento de imágenes, esta herramienta centraliza varias utilidades esenciales en una interfaz de usuario intuitiva y moderna.
 
@@ -41,30 +40,21 @@ El proyecto está modularizado para una mejor organización y mantenimiento:
 
 .
 ├── project.py                # Archivo principal de la aplicación Flet
+
 ├── organizador_archivos.py   # Lógica para organizar archivos y generar resúmenes
+
 ├── buscador_duplicados.py    # Lógica para encontrar y eliminar archivos duplicados
+
 ├── procesador_imagenes.py    # Lógica para redimensionar y convertir imágenes
+
 ├── config.py                 # Configuraciones por defecto (extensiones de carpetas, rutas de logs)
+
 └── assets/                   # Directorio para recursos de la aplicación (ej. logs)
+
 └── file_manager.log      # Archivo de registro de la aplicación
 
 
-## 🛠️ Requisitos e Instalación
-
-Asegúrate de tener **Python 3.9 o superior** instalado en tu sistema.
-
-Para instalar las bibliotecas necesarias, ejecuta el siguiente comando en tu terminal:
-
-```bash
-pip install flet Pillow PyPDF2 matplotlib numpy
-
-flet: Framework para construir la interfaz de usuario.
-Pillow (PIL Fork): Biblioteca de procesamiento de imágenes.
-PyPDF2: Para la manipulación de archivos PDF (fusión).
-matplotlib: Para la generación de gráficos de resumen.
-numpy: Dependencia numérica de matplotlib.
-
-🚀 Uso
+## 🚀 Uso
 Clona o descarga este repositorio en tu máquina local.
 
 Navega al directorio del proyecto en tu terminal.
@@ -76,7 +66,7 @@ python main.py
 Una ventana de la aplicación de escritorio se abrirá, presentándote la interfaz con todas las funcionalidades.
 
 
-Guía Rápida de Funcionalidades:
+## Guía Rápida de Funcionalidades:
 Organizar Archivos: Selecciona la "Ruta de Origen", define tus preferencias de carpetas (por defecto o personalizadas) y haz clic en "Organizar Archivos".
 
 Eliminar Duplicados: Elige la "Carpeta para Duplicados", "Escanear Duplicados", revisa la lista y selecciona los archivos a "Eliminar Seleccionados".
@@ -151,8 +141,23 @@ Formato de Destino: Elige el formato al que deseas convertir las imágenes (ej. 
 
 Haz clic en "Convertir Imágenes".
 
-📝 Registro de Actividades
+## 📝 Registro de Actividades
 Todas las operaciones importantes y errores son registrados en el archivo assets/file_manager.log. Esto es útil para la depuración y para mantener un registro de las acciones realizadas por la aplicación.
 
-📄 Licencia
+## 📄 Licencia
 Este proyecto está distribuido bajo la licencia [SAVC16, MundoCode777].
+
+## 🛠️ Requisitos e Instalación
+
+Asegúrate de tener **Python 3.9 o superior** instalado en tu sistema.
+
+Para instalar las bibliotecas necesarias, ejecuta el siguiente comando en tu terminal:
+
+```bash
+pip install flet Pillow PyPDF2 matplotlib numpy
+
+flet: Framework para construir la interfaz de usuario.
+Pillow (PIL Fork): Biblioteca de procesamiento de imágenes.
+PyPDF2: Para la manipulación de archivos PDF (fusión).
+matplotlib: Para la generación de gráficos de resumen.
+numpy: Dependencia numérica de matplotlib.
