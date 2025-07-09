@@ -7,7 +7,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 import io
 import base64
-from moviepy import VideoFileClip
 import hashlib # Import hashlib for file hashing
 import asyncio # Import asyncio for run_in_executor
 from PIL import Image # Import Pillow for image processing
@@ -927,44 +926,31 @@ class FileManagerApp:
         self.perform_resize_button.disabled = True
         self.page.update()
 
-        # Lógica para redimensionar imágenes usando Pillow
-        supported_exts = ('.png', '.jpg', '.jpeg', '.gif', '.bmp', '.webp')
-        resized_count = 0
-        for filename in os.listdir(input_dir):
-            if filename.lower().endswith(supported_exts):
-                filepath = os.path.join(input_dir, filename)
-                try:
-                    with Image.open(filepath) as img:
-                        # Determinar nuevas dimensiones
-                        if target_percentage:
-                            new_width = int(img.width * target_percentage)
-                            new_height = int(img.height * target_percentage)
-                        else:
-                            # Si solo uno de los valores está dado, mantener la proporción
-                            if target_width and target_height:
-                                new_width = target_width
-                                new_height = target_height
-                            elif target_width and not target_height:
-                                new_width = target_width
-                                new_height = int(img.height * (target_width / img.width))
-                            elif target_height and not target_width:
-                                new_height = target_height
-                                new_width = int(img.width * (target_height / img.height))
-                            else:
-                                new_width = img.width
-                                new_height = img.height
+        # Aquí iría la lógica para redimensionar imágenes usando Pillow
+        # Ejemplo:
+        # from PIL import Image
+        # for filename in os.listdir(input_dir):
+        #     if filename.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.bmp')):
+        #         filepath = os.path.join(input_dir, filename)
+        #         try:
+        #             with Image.open(filepath) as img:
+        #                 if target_percentage:
+        #                     new_width = int(img.width * target_percentage)
+        #                     new_height = int(img.height * target_percentage)
+        #                 else:
+        #                     new_width = target_width if target_width else img.width
+        #                     new_height = target_height if target_height else img.height
+        #                     if not target_width and target_height: # Calcular ancho si solo hay alto
+        #                         new_width = int(img.width * (new_height / img.height))
+        #                     elif target_width and not target_height: # Calcular alto si solo hay ancho
+        #                         new_height = int(img.height * (new_width / img.width))
 
-                        resized_img = img.resize((new_width, new_height), Image.LANCZOS)
-                        output_filepath = os.path.join(output_dir, filename)
-                        # Mantener formato original
-                        save_format = img.format if img.format else "PNG"
-                        resized_img.save(output_filepath, format=save_format)
-                        logging.info(f"Redimensionado {filename} a {new_width}x{new_height}")
-                        resized_count += 1
-                except Exception as ex:
-                    logging.error(f"Error al redimensionar {filename}: {ex}")
-                
-        self.resize_status_text.value = f"Redimensionado completado. Se procesaron {resized_count} imágenes."
+        #                 resized_img = img.resize((new_width, new_height))
+        #                 output_filepath = os.path.join(output_dir, filename)
+        #                 resized_img.save(output_filepath)
+        #                 logging.info(f"Redimensionado {filename} a {new_width}x{new_height}")
+        #         except Exception as ex:
+        #             logging.error(f"Error al redimensionar {filename}: {ex}")
 
         self.resize_status_text.value = "Redimensionado completado."
         self.page.snack_bar = ft.SnackBar(ft.Text("Imágenes redimensionadas exitosamente."), open=True)
@@ -997,28 +983,20 @@ class FileManagerApp:
         self.perform_convert_button.disabled = True
         self.page.update()
 
-        # Lógica para convertir imágenes usando Pillow
-        supported_exts = ('.png', '.jpg', '.jpeg', '.gif', '.bmp', '.webp')
-        converted_count = 0
-        for filename in os.listdir(input_dir):
-            name, ext = os.path.splitext(filename)
-            if ext.lower() in supported_exts:
-                filepath = os.path.join(input_dir, filename)
-                try:
-                    with Image.open(filepath) as img:
-                        # Convertir a modo compatible si es necesario
-                        save_format = target_format.upper()
-                        out_name = f"{name}.{target_format.lower()}"
-                        output_filepath = os.path.join(output_dir, out_name)
-                        # Para JPEG, convertir a RGB si es necesario
-                        if save_format == "JPEG" and img.mode in ("RGBA", "P"):
-                            img = img.convert("RGB")
-                        img.save(output_filepath, format=save_format)
-                        logging.info(f"Convertido {filename} a {target_format}")
-                        converted_count += 1
-                except Exception as ex:
-                    logging.error(f"Error al convertir {filename}: {ex}")
-        self.convert_status_text.value = f"Conversión completada. Se procesaron {converted_count} imágenes."
+        # Aquí iría la lógica para convertir imágenes usando Pillow
+        # Ejemplo:
+        # from PIL import Image
+        # for filename in os.listdir(input_dir):
+        #     name, ext = os.path.splitext(filename)
+        #     if ext.lower() in ['.png', '.jpg', '.jpeg', '.gif', '.bmp', '.webp']:
+        #         filepath = os.path.join(input_dir, filename)
+        #         try:
+        #             with Image.open(filepath) as img:
+        #                 output_filepath = os.path.join(output_dir, f"{name}.{target_format.lower()}")
+        #                 img.save(output_filepath)
+        #                 logging.info(f"Convertido {filename} a {target_format}")
+        #         except Exception as ex:
+        #             logging.error(f"Error al convertir {filename}: {ex}")
 
         self.convert_status_text.value = "Conversión completada."
         self.page.snack_bar = ft.SnackBar(ft.Text("Imágenes convertidas exitosamente."), open=True)
@@ -1058,27 +1036,22 @@ class FileManagerApp:
         self.perform_audio_extract_button.disabled = True
         self.page.update()
 
-        # Lógica para extraer audio usando moviepy
-        try:
-            clip = VideoFileClip(video_path)
-            audio = clip.audio
-            if audio is None:
-                self.extract_audio_status_text.value = "El video no contiene pista de audio."
-                self.page.snack_bar = ft.SnackBar(ft.Text("El video no tiene audio para extraer."), open=True)
-                logging.warning(f"El video {video_path} no tiene pista de audio.")
-            else:
-                audio_filename = os.path.splitext(os.path.basename(video_path))[0] + ".mp3"
-                output_audio_path = os.path.join(output_dir, audio_filename)
-                audio.write_audiofile(output_audio_path)
-                audio.close()
-                self.extract_audio_status_text.value = f"Audio extraído a {output_audio_path}"
-                self.page.snack_bar = ft.SnackBar(ft.Text("Audio extraído exitosamente."), open=True)
-                logging.info(f"Audio extraído de {video_path} a {output_audio_path}")
-            clip.close()
-        except Exception as ex:
-            self.extract_audio_status_text.value = f"Error al extraer audio: {ex}"
-            self.page.snack_bar = ft.SnackBar(ft.Text(f"Error al extraer audio: {ex}"), open=True)
-            logging.error(f"Error al extraer audio de {video_path}: {ex}")
+        # Aquí iría la lógica para extraer audio usando moviepy
+        # Ejemplo:
+        # from moviepy.editor import VideoFileClip
+        # try:
+        #     clip = VideoFileClip(video_path)
+        #     audio_filename = os.path.splitext(os.path.basename(video_path))[0] + ".mp3"
+        #     output_audio_path = os.path.join(output_dir, audio_filename)
+        #     clip.audio.write_audiofile(output_audio_path)
+        #     clip.close()
+        #     self.extract_audio_status_text.value = f"Audio extraído a {output_audio_path}"
+        #     self.page.snack_bar = ft.SnackBar(ft.Text("Audio extraído exitosamente."), open=True)
+        #     logging.info(f"Audio extraído de {video_path} a {output_audio_path}")
+        # except Exception as ex:
+        #     self.extract_audio_status_text.value = f"Error al extraer audio: {ex}"
+        #     self.page.snack_bar = ft.SnackBar(ft.Text(f"Error al extraer audio: {ex}"), open=True)
+        #     logging.error(f"Error al extraer audio de {video_path}: {ex}")
 
         self.extract_audio_status_text.value = "Extracción de audio completada."
         self.perform_audio_extract_button.disabled = False

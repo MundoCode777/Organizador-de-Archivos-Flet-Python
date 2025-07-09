@@ -5035,3 +5035,1041 @@ AttributeError: module 'flet' has no attribute 'colors'
 2025-07-08 17:39:03,869 - INFO - Convertido 9b1cfe57-b54e-41b8-b312-4a63640b3274.jpg a BMP
 2025-07-08 17:39:03,962 - INFO - Convertido AndresDev.png a BMP
 2025-07-08 17:39:03,976 - INFO - Convertido f4806d78-7202-4721-b655-0e603530b6b7.jpg a BMP
+2025-07-08 21:30:44,075 - INFO - Assets path configured: C:\Users\villa\OneDrive\Documentos\GitHub\Organizador-de-Archivos-Flet-Python\assets
+2025-07-08 21:30:44,079 - INFO - Starting up TCP server on localhost:63183
+2025-07-08 21:30:44,097 - INFO - Flet app has started...
+2025-07-08 21:30:44,108 - INFO - App URL: tcp://localhost:63183
+2025-07-08 21:30:44,109 - INFO - Starting Flet View app...
+2025-07-08 21:30:44,111 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-08 21:30:44,112 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-08 21:30:44,561 - INFO - App session started
+2025-07-09 07:47:41,554 - INFO - Assets path configured: C:\Users\villa\OneDrive\Documentos\GitHub\Organizador-de-Archivos-Flet-Python\assets
+2025-07-09 07:47:41,854 - INFO - Starting up TCP server on localhost:51860
+2025-07-09 07:47:41,889 - INFO - Flet app has started...
+2025-07-09 07:47:41,922 - INFO - App URL: tcp://localhost:51860
+2025-07-09 07:47:41,922 - INFO - Starting Flet View app...
+2025-07-09 07:47:41,924 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 07:47:41,925 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 07:47:42,691 - INFO - App session started
+2025-07-09 08:19:16,423 - INFO - Assets path configured: C:\Users\villa\Downloads\FILE-MANAGER-main\assets
+2025-07-09 08:19:16,440 - INFO - Starting up TCP server on localhost:52881
+2025-07-09 08:19:16,451 - INFO - Flet app has started...
+2025-07-09 08:19:16,458 - INFO - App URL: tcp://localhost:52881
+2025-07-09 08:19:16,458 - INFO - Starting Flet View app...
+2025-07-09 08:19:16,459 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 08:19:16,460 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 08:19:16,724 - INFO - App session started
+2025-07-09 08:21:15,654 - INFO - Assets path configured: C:\Users\villa\Downloads\FILE-MANAGER-main\assets
+2025-07-09 08:21:15,656 - INFO - Starting up TCP server on localhost:52944
+2025-07-09 08:21:15,665 - INFO - Flet app has started...
+2025-07-09 08:21:15,670 - INFO - App URL: tcp://localhost:52944
+2025-07-09 08:21:15,670 - INFO - Starting Flet View app...
+2025-07-09 08:21:15,671 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 08:21:15,671 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 08:21:15,904 - INFO - App session started
+2025-07-09 08:22:07,151 - INFO - Assets path configured: C:\Users\villa\Downloads\FILE-MANAGER-main\assets
+2025-07-09 08:22:07,154 - INFO - Starting up TCP server on localhost:52983
+2025-07-09 08:22:07,166 - INFO - Flet app has started...
+2025-07-09 08:22:07,172 - INFO - App URL: tcp://localhost:52983
+2025-07-09 08:22:07,172 - INFO - Starting Flet View app...
+2025-07-09 08:22:07,174 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 08:22:07,174 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 08:22:07,436 - INFO - App session started
+2025-07-09 08:28:04,199 - INFO - Assets path configured: C:\Users\villa\Downloads\FILE-MANAGER-main\assets
+2025-07-09 08:28:04,205 - INFO - Starting up TCP server on localhost:53126
+2025-07-09 08:28:04,226 - INFO - Flet app has started...
+2025-07-09 08:28:04,236 - INFO - App URL: tcp://localhost:53126
+2025-07-09 08:28:04,237 - INFO - Starting Flet View app...
+2025-07-09 08:28:04,240 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 08:28:04,240 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 08:28:04,602 - INFO - App session started
+2025-07-09 08:30:30,199 - INFO - Assets path configured: C:\Users\villa\Downloads\FILE-MANAGER-main\assets
+2025-07-09 08:30:30,203 - INFO - Starting up TCP server on localhost:53171
+2025-07-09 08:30:30,214 - INFO - Flet app has started...
+2025-07-09 08:30:30,220 - INFO - App URL: tcp://localhost:53171
+2025-07-09 08:30:30,220 - INFO - Starting Flet View app...
+2025-07-09 08:30:30,221 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 08:30:30,221 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 08:30:30,500 - INFO - App session started
+2025-07-09 08:31:04,307 - INFO - Assets path configured: C:\Users\villa\Downloads\FILE-MANAGER-main\assets
+2025-07-09 08:31:04,309 - INFO - Starting up TCP server on localhost:53185
+2025-07-09 08:31:04,317 - INFO - Flet app has started...
+2025-07-09 08:31:04,322 - INFO - App URL: tcp://localhost:53185
+2025-07-09 08:31:04,322 - INFO - Starting Flet View app...
+2025-07-09 08:31:04,323 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 08:31:04,323 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 08:31:04,559 - INFO - App session started
+2025-07-09 08:31:39,847 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TypeError("SnackBar.__init__() got an unexpected keyword argument 'show_close_button'. Did you mean 'show_close_icon'?")>
+Traceback (most recent call last):
+  File "C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet\core\page.py", line 906, in wrapper
+    handler(*args)
+    ~~~~~~~^^^^^^^
+  File "c:\Users\villa\Downloads\FILE-MANAGER-main\main.py", line 472, in _al_hacer_click_anadir_personalizada
+    self._mostrar_snackbar(f"Carpeta personalizada '{nombre_carpeta}' añadida.")
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\villa\Downloads\FILE-MANAGER-main\main.py", line 841, in _mostrar_snackbar
+    self.pagina.snack_bar = ft.SnackBar(
+                            ~~~~~~~~~~~^
+        ft.Text(mensaje),
+        ^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        action="Ok"
+        ^^^^^^^^^^^
+    )
+    ^
+TypeError: SnackBar.__init__() got an unexpected keyword argument 'show_close_button'. Did you mean 'show_close_icon'?
+2025-07-09 08:31:42,893 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (4)\PDFs
+2025-07-09 08:31:42,894 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (4)\Música
+2025-07-09 08:31:42,895 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (4)\Fotos
+2025-07-09 08:31:42,895 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (4)\Documentos
+2025-07-09 08:31:42,895 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (4)\Videos
+2025-07-09 08:31:42,896 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (4)\Otros
+2025-07-09 08:31:42,917 - INFO - Iniciando organización de 54 archivos en C:\Users\villa\Downloads\COSAS DE ANGEL - copia (4)
+2025-07-09 08:31:42,919 - INFO - Movido '010.NIC 1 Presentación de estados financieros (1).pdf' a 'PDFs'
+2025-07-09 08:31:42,925 - ERROR - Error durante la organización de archivos: 'Page' object has no attribute 'run_async'
+2025-07-09 08:31:42,934 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-58' coro=<__run_socket_server.<locals>.on_event() done, defined at C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet\app.py:220> exception=TypeError("SnackBar.__init__() got an unexpected keyword argument 'show_close_button'. Did you mean 'show_close_icon'?")>
+Traceback (most recent call last):
+  File "c:\Users\villa\Downloads\FILE-MANAGER-main\main.py", line 427, in _al_hacer_click_organizar
+    await asyncio.to_thread(
+    ...<4 lines>...
+    )
+  File "C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\asyncio\threads.py", line 25, in to_thread
+    return await loop.run_in_executor(None, func_call)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "c:\Users\villa\Downloads\FILE-MANAGER-main\organizador_archivos.py", line 136, in organizar_archivos_en_directorio
+    en_progreso((i + 1), total_archivos)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\villa\Downloads\FILE-MANAGER-main\main.py", line 431, in <lambda>
+    lambda actual, total: self.pagina.run_async(self._actualizar_progreso_organizacion, actual, total)
+                          ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Page' object has no attribute 'run_async'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet\app.py", line 222, in on_event
+    await conn.sessions[e.sessionID].on_event_async(
+        Event(e.eventTarget, e.eventName, e.eventData)
+    )
+  File "C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet\core\page.py", line 866, in on_event_async
+    await handler(ce)
+  File "c:\Users\villa\Downloads\FILE-MANAGER-main\main.py", line 447, in _al_hacer_click_organizar
+    self._mostrar_snackbar(f"Error al organizar archivos: {ex}")
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\villa\Downloads\FILE-MANAGER-main\main.py", line 841, in _mostrar_snackbar
+    self.pagina.snack_bar = ft.SnackBar(
+                            ~~~~~~~~~~~^
+        ft.Text(mensaje),
+        ^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        action="Ok"
+        ^^^^^^^^^^^
+    )
+    ^
+TypeError: SnackBar.__init__() got an unexpected keyword argument 'show_close_button'. Did you mean 'show_close_icon'?
+2025-07-09 08:34:02,943 - INFO - Escaneando 24 archivos en busca de duplicados en C:\Users\villa\Downloads\HECTOR - copia\Fotos
+2025-07-09 08:34:02,958 - ERROR - Error al escanear duplicados: 'Page' object has no attribute 'run_async'
+2025-07-09 08:34:02,970 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-128' coro=<__run_socket_server.<locals>.on_event() done, defined at C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet\app.py:220> exception=TypeError("SnackBar.__init__() got an unexpected keyword argument 'show_close_button'. Did you mean 'show_close_icon'?")>
+Traceback (most recent call last):
+  File "c:\Users\villa\Downloads\FILE-MANAGER-main\main.py", line 491, in _al_hacer_click_escanear_duplicados
+    self.mapa_archivos_duplicados = await encontrar_archivos_duplicados(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+    )
+    ^
+  File "c:\Users\villa\Downloads\FILE-MANAGER-main\buscador_duplicados.py", line 70, in encontrar_archivos_duplicados
+    en_progreso((i + 1), total_archivos)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\villa\Downloads\FILE-MANAGER-main\main.py", line 493, in <lambda>
+    lambda actual, total: self.pagina.run_async(self._actualizar_progreso_escaneo_duplicados, actual, total)
+                          ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Page' object has no attribute 'run_async'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet\app.py", line 222, in on_event
+    await conn.sessions[e.sessionID].on_event_async(
+        Event(e.eventTarget, e.eventName, e.eventData)
+    )
+  File "C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet\core\page.py", line 866, in on_event_async
+    await handler(ce)
+  File "c:\Users\villa\Downloads\FILE-MANAGER-main\main.py", line 508, in _al_hacer_click_escanear_duplicados
+    self._mostrar_snackbar(f"Error al escanear duplicados: {ex}")
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\villa\Downloads\FILE-MANAGER-main\main.py", line 841, in _mostrar_snackbar
+    self.pagina.snack_bar = ft.SnackBar(
+                            ~~~~~~~~~~~^
+        ft.Text(mensaje),
+        ^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        action="Ok"
+        ^^^^^^^^^^^
+    )
+    ^
+TypeError: SnackBar.__init__() got an unexpected keyword argument 'show_close_button'. Did you mean 'show_close_icon'?
+2025-07-09 08:34:04,779 - INFO - Escaneando 24 archivos en busca de duplicados en C:\Users\villa\Downloads\HECTOR - copia\Fotos
+2025-07-09 08:34:04,786 - ERROR - Error al escanear duplicados: 'Page' object has no attribute 'run_async'
+2025-07-09 08:34:04,797 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-131' coro=<__run_socket_server.<locals>.on_event() done, defined at C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet\app.py:220> exception=TypeError("SnackBar.__init__() got an unexpected keyword argument 'show_close_button'. Did you mean 'show_close_icon'?")>
+Traceback (most recent call last):
+  File "c:\Users\villa\Downloads\FILE-MANAGER-main\main.py", line 491, in _al_hacer_click_escanear_duplicados
+    self.mapa_archivos_duplicados = await encontrar_archivos_duplicados(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+    )
+    ^
+  File "c:\Users\villa\Downloads\FILE-MANAGER-main\buscador_duplicados.py", line 70, in encontrar_archivos_duplicados
+    en_progreso((i + 1), total_archivos)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\villa\Downloads\FILE-MANAGER-main\main.py", line 493, in <lambda>
+    lambda actual, total: self.pagina.run_async(self._actualizar_progreso_escaneo_duplicados, actual, total)
+                          ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Page' object has no attribute 'run_async'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet\app.py", line 222, in on_event
+    await conn.sessions[e.sessionID].on_event_async(
+        Event(e.eventTarget, e.eventName, e.eventData)
+    )
+  File "C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet\core\page.py", line 866, in on_event_async
+    await handler(ce)
+  File "c:\Users\villa\Downloads\FILE-MANAGER-main\main.py", line 508, in _al_hacer_click_escanear_duplicados
+    self._mostrar_snackbar(f"Error al escanear duplicados: {ex}")
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\villa\Downloads\FILE-MANAGER-main\main.py", line 841, in _mostrar_snackbar
+    self.pagina.snack_bar = ft.SnackBar(
+                            ~~~~~~~~~~~^
+        ft.Text(mensaje),
+        ^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        action="Ok"
+        ^^^^^^^^^^^
+    )
+    ^
+TypeError: SnackBar.__init__() got an unexpected keyword argument 'show_close_button'. Did you mean 'show_close_icon'?
+2025-07-09 08:35:52,464 - INFO - Assets path configured: C:\Users\villa\Downloads\FILE-MANAGER-main\assets
+2025-07-09 08:35:52,467 - INFO - Starting up TCP server on localhost:53336
+2025-07-09 08:35:52,477 - INFO - Flet app has started...
+2025-07-09 08:35:52,482 - INFO - App URL: tcp://localhost:53336
+2025-07-09 08:35:52,482 - INFO - Starting Flet View app...
+2025-07-09 08:35:52,484 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 08:35:52,484 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 08:35:52,728 - INFO - App session started
+2025-07-09 08:36:07,038 - INFO - Assets path configured: C:\Users\villa\Downloads\FILE-MANAGER-main\assets
+2025-07-09 08:36:07,040 - INFO - Starting up TCP server on localhost:53353
+2025-07-09 08:36:07,049 - INFO - Flet app has started...
+2025-07-09 08:36:07,053 - INFO - App URL: tcp://localhost:53353
+2025-07-09 08:36:07,053 - INFO - Starting Flet View app...
+2025-07-09 08:36:07,054 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 08:36:07,054 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 08:36:07,306 - INFO - App session started
+2025-07-09 08:36:20,954 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TypeError("SnackBar.__init__() got an unexpected keyword argument 'show_close_button'. Did you mean 'show_close_icon'?")>
+Traceback (most recent call last):
+  File "C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet\core\page.py", line 906, in wrapper
+    handler(*args)
+    ~~~~~~~^^^^^^^
+  File "c:\Users\villa\Downloads\FILE-MANAGER-main\main.py", line 473, in _al_hacer_click_anadir_personalizada
+    self._mostrar_snackbar(f"Carpeta personalizada '{nombre_carpeta}' añadida.")
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\villa\Downloads\FILE-MANAGER-main\main.py", line 843, in _mostrar_snackbar
+    self.pagina.snack_bar = ft.SnackBar(
+                            ~~~~~~~~~~~^
+        ft.Text(mensaje),
+        ^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        action="Ok"
+        ^^^^^^^^^^^
+    )
+    ^
+TypeError: SnackBar.__init__() got an unexpected keyword argument 'show_close_button'. Did you mean 'show_close_icon'?
+2025-07-09 08:36:23,208 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (4)\PDFs
+2025-07-09 08:36:23,208 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (4)\Música
+2025-07-09 08:36:23,209 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (4)\Fotos
+2025-07-09 08:36:23,210 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (4)\Documentos
+2025-07-09 08:36:23,210 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (4)\Videos
+2025-07-09 08:36:23,211 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (4)\Otros
+2025-07-09 08:36:23,216 - INFO - Iniciando organización de 53 archivos en C:\Users\villa\Downloads\COSAS DE ANGEL - copia (4)
+2025-07-09 08:36:23,219 - INFO - Movido '010.NIC 1 Presentación de estados financieros.pdf' a 'PDFs'
+2025-07-09 08:36:23,239 - INFO - Movido '109012024RDEV1103268080924.pdf' a 'PDFs'
+2025-07-09 08:36:23,249 - INFO - Movido 'Angel Referencia personal .docx' a 'Documentos'
+2025-07-09 08:36:23,257 - INFO - Movido 'Angel.docx' a 'Documentos'
+2025-07-09 08:36:23,267 - INFO - Movido 'archivodiapositiva_2023514182731.pptx' a 'Documentos'
+2025-07-09 08:36:23,279 - INFO - Movido 'CLASES MAYOR GENERAL.xlsx' a 'Documentos'
+2025-07-09 08:36:23,290 - INFO - Movido 'COSAS DE ANGEL.rar' a 'Otros'
+2025-07-09 08:36:23,299 - INFO - Movido 'Derecho.pdf' a 'PDFs'
+2025-07-09 08:36:23,310 - INFO - Movido 'Dialnet-LasRetencionesDelIVAYLaFuenteYSuIncidenciaEnElFunc-8219351.pdf' a 'PDFs'
+2025-07-09 08:36:23,319 - INFO - Movido 'economia ( trabajo investigativo) .pdf' a 'PDFs'
+2025-07-09 08:36:23,327 - INFO - Movido 'Economia.docx' a 'Documentos'
+2025-07-09 08:36:23,337 - INFO - Movido 'Exposicion .docx' a 'Documentos'
+2025-07-09 08:36:23,347 - INFO - Movido 'Exposicion.docx' a 'Documentos'
+2025-07-09 08:36:23,359 - INFO - Movido 'Exposición .pdf' a 'PDFs'
+2025-07-09 08:36:23,371 - INFO - Movido 'hoja de vida.pdf' a 'PDFs'
+2025-07-09 08:36:23,383 - INFO - Movido 'kardex(1).xlsx' a 'Documentos'
+2025-07-09 08:36:23,393 - INFO - Movido 'Libro DEVIES.docx' a 'Documentos'
+2025-07-09 08:36:23,407 - INFO - Movido 'Libro1.xlsx' a 'Documentos'
+2025-07-09 08:36:23,420 - INFO - Movido 'Libro2.xlsx' a 'Documentos'
+2025-07-09 08:36:23,431 - INFO - Movido 'Lista Angel.docx' a 'Documentos'
+2025-07-09 08:36:23,442 - INFO - Movido 'NAC-DGERCGC20-00000061.pdf' a 'PDFs'
+2025-07-09 08:36:23,455 - INFO - Movido 'photo_2024-10-06_18-34-33.jpg' a 'Fotos'
+2025-07-09 08:36:23,469 - INFO - Movido 'PLANTILLA TAREAS UNEMI - copia.docx' a 'Documentos'
+2025-07-09 08:36:23,484 - INFO - Movido 'PLANTILLA TAREAS UNEMI - Copy.docx' a 'Documentos'
+2025-07-09 08:36:23,494 - INFO - Movido 'Practico.pdf' a 'PDFs'
+2025-07-09 08:36:23,510 - INFO - Movido 'st.png' a 'Fotos'
+2025-07-09 08:36:23,526 - INFO - Movido 'TALLER 1.pdf' a 'PDFs'
+2025-07-09 08:36:23,542 - INFO - Movido 'TALLER 1.xlsx' a 'Documentos'
+2025-07-09 08:36:23,553 - INFO - Movido 'TALLER 2.xlsx' a 'Documentos'
+2025-07-09 08:36:23,570 - INFO - Movido 'TALLER PRACTICO - EXAMEN.docx' a 'Documentos'
+2025-07-09 08:36:23,583 - INFO - Movido 'Taller.pdf' a 'PDFs'
+2025-07-09 08:36:23,597 - INFO - Movido 'talleres.pdf' a 'PDFs'
+2025-07-09 08:36:23,624 - INFO - Movido 'Tarea 1 de mate.docx' a 'Documentos'
+2025-07-09 08:36:23,637 - INFO - Movido 'Tarea 1 de mate.pdf' a 'PDFs'
+2025-07-09 08:36:23,649 - INFO - Movido 'Tarea 1.pdf' a 'PDFs'
+2025-07-09 08:36:23,666 - INFO - Movido 'TAREA 2.docx' a 'Documentos'
+2025-07-09 08:36:23,682 - INFO - Movido 'TAREA 2.pdf' a 'PDFs'
+2025-07-09 08:36:23,694 - INFO - Movido 'Trabajo de investigacion .pdf' a 'PDFs'
+2025-07-09 08:36:23,710 - INFO - Movido 'Trabajo de investigacion edit.docx' a 'Documentos'
+2025-07-09 08:36:23,725 - INFO - Movido 'Trabajo de investigacion edit.pdf' a 'PDFs'
+2025-07-09 08:36:23,737 - INFO - Movido 'Trabajo experimental.docx' a 'Documentos'
+2025-07-09 08:36:23,750 - INFO - Movido 'Trabajo experimental.pdf' a 'PDFs'
+2025-07-09 08:36:23,765 - INFO - Movido 'Trabajo experimental.xlsx' a 'Documentos'
+2025-07-09 08:36:23,777 - INFO - Movido 'Trabajo investigativo economia.docx' a 'Documentos'
+2025-07-09 08:36:23,787 - INFO - Movido 'Trabajo investigativo economia.pdf' a 'PDFs'
+2025-07-09 08:36:23,799 - INFO - Movido 'Trabajo investigativo matematica.pdf' a 'PDFs'
+2025-07-09 08:36:23,809 - INFO - Movido 'Trabajo practivo experimental.docx' a 'Documentos'
+2025-07-09 08:36:23,825 - INFO - Movido 'TRABAJO PRÁCTICO.docx' a 'Documentos'
+2025-07-09 08:36:23,839 - INFO - Movido 'U1 TEMA 1 CUENTAS CONTABLES.pdf' a 'PDFs'
+2025-07-09 08:36:23,851 - INFO - Movido 'U1 TEMA 2 LA ECUACION CONTABLE.pdf' a 'PDFs'
+2025-07-09 08:36:23,865 - INFO - Movido 'U1 TEMA 3 REGISTROS CONTABLE.pdf' a 'PDFs'
+2025-07-09 08:36:23,880 - INFO - Movido 'WIN_20241127_11_25_30_Pro.jpg' a 'Fotos'
+2025-07-09 08:36:23,907 - INFO - Movido 'スティーブン.jpg' a 'Fotos'
+2025-07-09 08:36:23,918 - INFO - Organización de archivos completada.
+2025-07-09 08:36:24,718 - INFO - Gráfico generado como cadena base64.
+2025-07-09 08:36:24,719 - ERROR - Error durante la organización de archivos: SnackBar.__init__() got an unexpected keyword argument 'show_close_button'. Did you mean 'show_close_icon'?
+2025-07-09 08:36:24,731 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-34' coro=<__run_socket_server.<locals>.on_event() done, defined at C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet\app.py:220> exception=TypeError("SnackBar.__init__() got an unexpected keyword argument 'show_close_button'. Did you mean 'show_close_icon'?")>
+Traceback (most recent call last):
+  File "c:\Users\villa\Downloads\FILE-MANAGER-main\main.py", line 442, in _al_hacer_click_organizar
+    self._mostrar_snackbar("Organización completada.")
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\villa\Downloads\FILE-MANAGER-main\main.py", line 843, in _mostrar_snackbar
+    self.pagina.snack_bar = ft.SnackBar(
+                            ~~~~~~~~~~~^
+        ft.Text(mensaje),
+        ^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        action="Ok"
+        ^^^^^^^^^^^
+    )
+    ^
+TypeError: SnackBar.__init__() got an unexpected keyword argument 'show_close_button'. Did you mean 'show_close_icon'?
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet\app.py", line 222, in on_event
+    await conn.sessions[e.sessionID].on_event_async(
+        Event(e.eventTarget, e.eventName, e.eventData)
+    )
+  File "C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet\core\page.py", line 866, in on_event_async
+    await handler(ce)
+  File "c:\Users\villa\Downloads\FILE-MANAGER-main\main.py", line 448, in _al_hacer_click_organizar
+    self._mostrar_snackbar(f"Error al organizar archivos: {ex}")
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\villa\Downloads\FILE-MANAGER-main\main.py", line 843, in _mostrar_snackbar
+    self.pagina.snack_bar = ft.SnackBar(
+                            ~~~~~~~~~~~^
+        ft.Text(mensaje),
+        ^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        action="Ok"
+        ^^^^^^^^^^^
+    )
+    ^
+TypeError: SnackBar.__init__() got an unexpected keyword argument 'show_close_button'. Did you mean 'show_close_icon'?
+2025-07-09 08:37:46,750 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (7)\PDFs
+2025-07-09 08:37:46,751 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (7)\Música
+2025-07-09 08:37:46,752 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (7)\Fotos
+2025-07-09 08:37:46,754 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (7)\Documentos
+2025-07-09 08:37:46,755 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (7)\Videos
+2025-07-09 08:37:46,757 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (7)\Otros
+2025-07-09 08:37:46,787 - INFO - Iniciando organización de 54 archivos en C:\Users\villa\Downloads\COSAS DE ANGEL - copia (7)
+2025-07-09 08:37:46,790 - INFO - Movido '010.NIC 1 Presentación de estados financieros (1).pdf' a 'PDFs'
+2025-07-09 08:37:46,802 - INFO - Movido '010.NIC 1 Presentación de estados financieros.pdf' a 'PDFs'
+2025-07-09 08:37:46,815 - INFO - Movido '109012024RDEV1103268080924.pdf' a 'PDFs'
+2025-07-09 08:37:46,833 - INFO - Movido 'Angel Referencia personal .docx' a 'Documentos'
+2025-07-09 08:37:46,845 - INFO - Movido 'Angel.docx' a 'Documentos'
+2025-07-09 08:37:46,861 - INFO - Movido 'archivodiapositiva_2023514182731.pptx' a 'Documentos'
+2025-07-09 08:37:46,873 - INFO - Movido 'CLASES MAYOR GENERAL.xlsx' a 'Documentos'
+2025-07-09 08:37:46,890 - INFO - Movido 'COSAS DE ANGEL.rar' a 'Otros'
+2025-07-09 08:37:46,902 - INFO - Movido 'Derecho.pdf' a 'PDFs'
+2025-07-09 08:37:46,916 - INFO - Movido 'Dialnet-LasRetencionesDelIVAYLaFuenteYSuIncidenciaEnElFunc-8219351.pdf' a 'PDFs'
+2025-07-09 08:37:46,928 - INFO - Movido 'economia ( trabajo investigativo) .pdf' a 'PDFs'
+2025-07-09 08:37:46,944 - INFO - Movido 'Economia.docx' a 'Documentos'
+2025-07-09 08:37:46,956 - INFO - Movido 'Exposicion .docx' a 'Documentos'
+2025-07-09 08:37:46,970 - INFO - Movido 'Exposicion.docx' a 'Documentos'
+2025-07-09 08:37:46,986 - INFO - Movido 'Exposición .pdf' a 'PDFs'
+2025-07-09 08:37:46,998 - INFO - Movido 'hoja de vida.pdf' a 'PDFs'
+2025-07-09 08:37:47,008 - INFO - Movido 'kardex(1).xlsx' a 'Documentos'
+2025-07-09 08:37:47,019 - INFO - Movido 'Libro DEVIES.docx' a 'Documentos'
+2025-07-09 08:37:47,030 - INFO - Movido 'Libro1.xlsx' a 'Documentos'
+2025-07-09 08:37:47,049 - INFO - Movido 'Libro2.xlsx' a 'Documentos'
+2025-07-09 08:37:47,081 - INFO - Movido 'Lista Angel.docx' a 'Documentos'
+2025-07-09 08:37:47,098 - INFO - Movido 'NAC-DGERCGC20-00000061.pdf' a 'PDFs'
+2025-07-09 08:37:47,114 - INFO - Movido 'photo_2024-10-06_18-34-33.jpg' a 'Fotos'
+2025-07-09 08:37:47,125 - INFO - Movido 'PLANTILLA TAREAS UNEMI - copia.docx' a 'Documentos'
+2025-07-09 08:37:47,141 - INFO - Movido 'PLANTILLA TAREAS UNEMI - Copy.docx' a 'Documentos'
+2025-07-09 08:37:47,158 - INFO - Movido 'Practico.pdf' a 'PDFs'
+2025-07-09 08:37:47,172 - INFO - Movido 'st.png' a 'Fotos'
+2025-07-09 08:37:47,185 - INFO - Movido 'TALLER 1.pdf' a 'PDFs'
+2025-07-09 08:37:47,198 - INFO - Movido 'TALLER 1.xlsx' a 'Documentos'
+2025-07-09 08:37:47,213 - INFO - Movido 'TALLER 2.xlsx' a 'Documentos'
+2025-07-09 08:37:47,230 - INFO - Movido 'TALLER PRACTICO - EXAMEN.docx' a 'Documentos'
+2025-07-09 08:37:47,243 - INFO - Movido 'Taller.pdf' a 'PDFs'
+2025-07-09 08:37:47,259 - INFO - Movido 'talleres.pdf' a 'PDFs'
+2025-07-09 08:37:47,285 - INFO - Movido 'Tarea 1 de mate.docx' a 'Documentos'
+2025-07-09 08:37:47,299 - INFO - Movido 'Tarea 1 de mate.pdf' a 'PDFs'
+2025-07-09 08:37:47,309 - INFO - Movido 'Tarea 1.pdf' a 'PDFs'
+2025-07-09 08:37:47,323 - INFO - Movido 'TAREA 2.docx' a 'Documentos'
+2025-07-09 08:37:47,331 - INFO - Movido 'TAREA 2.pdf' a 'PDFs'
+2025-07-09 08:37:47,346 - INFO - Movido 'Trabajo de investigacion .pdf' a 'PDFs'
+2025-07-09 08:37:47,362 - INFO - Movido 'Trabajo de investigacion edit.docx' a 'Documentos'
+2025-07-09 08:37:47,373 - INFO - Movido 'Trabajo de investigacion edit.pdf' a 'PDFs'
+2025-07-09 08:37:47,389 - INFO - Movido 'Trabajo experimental.docx' a 'Documentos'
+2025-07-09 08:37:47,406 - INFO - Movido 'Trabajo experimental.pdf' a 'PDFs'
+2025-07-09 08:37:47,419 - INFO - Movido 'Trabajo experimental.xlsx' a 'Documentos'
+2025-07-09 08:37:47,428 - INFO - Movido 'Trabajo investigativo economia.docx' a 'Documentos'
+2025-07-09 08:37:47,446 - INFO - Movido 'Trabajo investigativo economia.pdf' a 'PDFs'
+2025-07-09 08:37:47,460 - INFO - Movido 'Trabajo investigativo matematica.pdf' a 'PDFs'
+2025-07-09 08:37:47,474 - INFO - Movido 'Trabajo practivo experimental.docx' a 'Documentos'
+2025-07-09 08:37:47,490 - INFO - Movido 'TRABAJO PRÁCTICO.docx' a 'Documentos'
+2025-07-09 08:37:47,505 - INFO - Movido 'U1 TEMA 1 CUENTAS CONTABLES.pdf' a 'PDFs'
+2025-07-09 08:37:47,518 - INFO - Movido 'U1 TEMA 2 LA ECUACION CONTABLE.pdf' a 'PDFs'
+2025-07-09 08:37:47,534 - INFO - Movido 'U1 TEMA 3 REGISTROS CONTABLE.pdf' a 'PDFs'
+2025-07-09 08:37:47,554 - INFO - Movido 'WIN_20241127_11_25_30_Pro.jpg' a 'Fotos'
+2025-07-09 08:37:47,568 - INFO - Movido 'スティーブン.jpg' a 'Fotos'
+2025-07-09 08:37:47,581 - INFO - Organización de archivos completada.
+2025-07-09 08:37:48,165 - INFO - Gráfico generado como cadena base64.
+2025-07-09 08:37:48,166 - ERROR - Error durante la organización de archivos: SnackBar.__init__() got an unexpected keyword argument 'show_close_button'. Did you mean 'show_close_icon'?
+2025-07-09 08:37:48,180 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-64' coro=<__run_socket_server.<locals>.on_event() done, defined at C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet\app.py:220> exception=TypeError("SnackBar.__init__() got an unexpected keyword argument 'show_close_button'. Did you mean 'show_close_icon'?")>
+Traceback (most recent call last):
+  File "c:\Users\villa\Downloads\FILE-MANAGER-main\main.py", line 442, in _al_hacer_click_organizar
+    self._mostrar_snackbar("Organización completada.")
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\villa\Downloads\FILE-MANAGER-main\main.py", line 843, in _mostrar_snackbar
+    self.pagina.snack_bar = ft.SnackBar(
+                            ~~~~~~~~~~~^
+        ft.Text(mensaje),
+        ^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        action="Ok"
+        ^^^^^^^^^^^
+    )
+    ^
+TypeError: SnackBar.__init__() got an unexpected keyword argument 'show_close_button'. Did you mean 'show_close_icon'?
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet\app.py", line 222, in on_event
+    await conn.sessions[e.sessionID].on_event_async(
+        Event(e.eventTarget, e.eventName, e.eventData)
+    )
+  File "C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet\core\page.py", line 866, in on_event_async
+    await handler(ce)
+  File "c:\Users\villa\Downloads\FILE-MANAGER-main\main.py", line 448, in _al_hacer_click_organizar
+    self._mostrar_snackbar(f"Error al organizar archivos: {ex}")
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\villa\Downloads\FILE-MANAGER-main\main.py", line 843, in _mostrar_snackbar
+    self.pagina.snack_bar = ft.SnackBar(
+                            ~~~~~~~~~~~^
+        ft.Text(mensaje),
+        ^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        action="Ok"
+        ^^^^^^^^^^^
+    )
+    ^
+TypeError: SnackBar.__init__() got an unexpected keyword argument 'show_close_button'. Did you mean 'show_close_icon'?
+2025-07-09 08:40:39,552 - INFO - Assets path configured: C:\Users\villa\Downloads\FILE-MANAGER-main\assets
+2025-07-09 08:40:39,554 - INFO - Starting up TCP server on localhost:53501
+2025-07-09 08:40:39,562 - INFO - Flet app has started...
+2025-07-09 08:40:39,566 - INFO - App URL: tcp://localhost:53501
+2025-07-09 08:40:39,566 - INFO - Starting Flet View app...
+2025-07-09 08:40:39,567 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 08:40:39,567 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 08:40:39,803 - INFO - App session started
+2025-07-09 08:41:06,903 - INFO - Carpeta personalizada añadida: PDFs con extensiones ['pdf']
+2025-07-09 08:41:10,360 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (6)\PDFs
+2025-07-09 08:41:10,362 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (6)\Música
+2025-07-09 08:41:10,364 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (6)\Fotos
+2025-07-09 08:41:10,365 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (6)\Documentos
+2025-07-09 08:41:10,366 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (6)\Videos
+2025-07-09 08:41:10,368 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (6)\Otros
+2025-07-09 08:41:10,392 - INFO - Iniciando organización de 54 archivos en C:\Users\villa\Downloads\COSAS DE ANGEL - copia (6)
+2025-07-09 08:41:10,395 - INFO - Movido '010.NIC 1 Presentación de estados financieros (1).pdf' a 'PDFs'
+2025-07-09 08:41:10,408 - INFO - Movido '010.NIC 1 Presentación de estados financieros.pdf' a 'PDFs'
+2025-07-09 08:41:10,425 - INFO - Movido '109012024RDEV1103268080924.pdf' a 'PDFs'
+2025-07-09 08:41:10,435 - INFO - Movido 'Angel Referencia personal .docx' a 'Documentos'
+2025-07-09 08:41:10,452 - INFO - Movido 'Angel.docx' a 'Documentos'
+2025-07-09 08:41:10,468 - INFO - Movido 'archivodiapositiva_2023514182731.pptx' a 'Documentos'
+2025-07-09 08:41:10,481 - INFO - Movido 'CLASES MAYOR GENERAL.xlsx' a 'Documentos'
+2025-07-09 08:41:10,489 - INFO - Movido 'COSAS DE ANGEL.rar' a 'Otros'
+2025-07-09 08:41:10,503 - INFO - Movido 'Derecho.pdf' a 'PDFs'
+2025-07-09 08:41:10,517 - INFO - Movido 'Dialnet-LasRetencionesDelIVAYLaFuenteYSuIncidenciaEnElFunc-8219351.pdf' a 'PDFs'
+2025-07-09 08:41:10,530 - INFO - Movido 'economia ( trabajo investigativo) .pdf' a 'PDFs'
+2025-07-09 08:41:10,538 - INFO - Movido 'Economia.docx' a 'Documentos'
+2025-07-09 08:41:10,552 - INFO - Movido 'Exposicion .docx' a 'Documentos'
+2025-07-09 08:41:10,563 - INFO - Movido 'Exposicion.docx' a 'Documentos'
+2025-07-09 08:41:10,576 - INFO - Movido 'Exposición .pdf' a 'PDFs'
+2025-07-09 08:41:10,592 - INFO - Movido 'hoja de vida.pdf' a 'PDFs'
+2025-07-09 08:41:10,604 - INFO - Movido 'kardex(1).xlsx' a 'Documentos'
+2025-07-09 08:41:10,615 - INFO - Movido 'Libro DEVIES.docx' a 'Documentos'
+2025-07-09 08:41:10,628 - INFO - Movido 'Libro1.xlsx' a 'Documentos'
+2025-07-09 08:41:10,641 - INFO - Movido 'Libro2.xlsx' a 'Documentos'
+2025-07-09 08:41:10,654 - INFO - Movido 'Lista Angel.docx' a 'Documentos'
+2025-07-09 08:41:10,668 - INFO - Movido 'NAC-DGERCGC20-00000061.pdf' a 'PDFs'
+2025-07-09 08:41:10,679 - INFO - Movido 'photo_2024-10-06_18-34-33.jpg' a 'Fotos'
+2025-07-09 08:41:10,691 - INFO - Movido 'PLANTILLA TAREAS UNEMI - copia.docx' a 'Documentos'
+2025-07-09 08:41:10,708 - INFO - Movido 'PLANTILLA TAREAS UNEMI - Copy.docx' a 'Documentos'
+2025-07-09 08:41:10,719 - INFO - Movido 'Practico.pdf' a 'PDFs'
+2025-07-09 08:41:10,732 - INFO - Movido 'st.png' a 'Fotos'
+2025-07-09 08:41:10,746 - INFO - Movido 'TALLER 1.pdf' a 'PDFs'
+2025-07-09 08:41:10,758 - INFO - Movido 'TALLER 1.xlsx' a 'Documentos'
+2025-07-09 08:41:10,771 - INFO - Movido 'TALLER 2.xlsx' a 'Documentos'
+2025-07-09 08:41:10,785 - INFO - Movido 'TALLER PRACTICO - EXAMEN.docx' a 'Documentos'
+2025-07-09 08:41:10,797 - INFO - Movido 'Taller.pdf' a 'PDFs'
+2025-07-09 08:41:10,806 - INFO - Movido 'talleres.pdf' a 'PDFs'
+2025-07-09 08:41:10,832 - INFO - Movido 'Tarea 1 de mate.docx' a 'Documentos'
+2025-07-09 08:41:10,844 - INFO - Movido 'Tarea 1 de mate.pdf' a 'PDFs'
+2025-07-09 08:41:10,857 - INFO - Movido 'Tarea 1.pdf' a 'PDFs'
+2025-07-09 08:41:10,872 - INFO - Movido 'TAREA 2.docx' a 'Documentos'
+2025-07-09 08:41:10,887 - INFO - Movido 'TAREA 2.pdf' a 'PDFs'
+2025-07-09 08:41:10,901 - INFO - Movido 'Trabajo de investigacion .pdf' a 'PDFs'
+2025-07-09 08:41:10,913 - INFO - Movido 'Trabajo de investigacion edit.docx' a 'Documentos'
+2025-07-09 08:41:10,924 - INFO - Movido 'Trabajo de investigacion edit.pdf' a 'PDFs'
+2025-07-09 08:41:10,936 - INFO - Movido 'Trabajo experimental.docx' a 'Documentos'
+2025-07-09 08:41:10,965 - INFO - Movido 'Trabajo experimental.pdf' a 'PDFs'
+2025-07-09 08:41:10,982 - INFO - Movido 'Trabajo experimental.xlsx' a 'Documentos'
+2025-07-09 08:41:10,998 - INFO - Movido 'Trabajo investigativo economia.docx' a 'Documentos'
+2025-07-09 08:41:11,012 - INFO - Movido 'Trabajo investigativo economia.pdf' a 'PDFs'
+2025-07-09 08:41:11,026 - INFO - Movido 'Trabajo investigativo matematica.pdf' a 'PDFs'
+2025-07-09 08:41:11,039 - INFO - Movido 'Trabajo practivo experimental.docx' a 'Documentos'
+2025-07-09 08:41:11,051 - INFO - Movido 'TRABAJO PRÁCTICO.docx' a 'Documentos'
+2025-07-09 08:41:11,068 - INFO - Movido 'U1 TEMA 1 CUENTAS CONTABLES.pdf' a 'PDFs'
+2025-07-09 08:41:11,080 - INFO - Movido 'U1 TEMA 2 LA ECUACION CONTABLE.pdf' a 'PDFs'
+2025-07-09 08:41:11,091 - INFO - Movido 'U1 TEMA 3 REGISTROS CONTABLE.pdf' a 'PDFs'
+2025-07-09 08:41:11,104 - INFO - Movido 'WIN_20241127_11_25_30_Pro.jpg' a 'Fotos'
+2025-07-09 08:41:11,132 - INFO - Movido 'スティーブン.jpg' a 'Fotos'
+2025-07-09 08:41:11,141 - INFO - Organización de archivos completada.
+2025-07-09 08:41:11,743 - INFO - Gráfico generado como cadena base64.
+2025-07-09 08:41:11,753 - INFO - Organización de archivos completada exitosamente.
+2025-07-09 08:41:42,951 - INFO - Escaneando 24 archivos en busca de duplicados en C:\Users\villa\Downloads\HECTOR - copia\Fotos
+2025-07-09 08:41:43,584 - INFO - Escaneo de duplicados completado. Encontrados 6 grupos de duplicados.
+2025-07-09 08:44:59,876 - INFO - Assets path configured: C:\Users\villa\OneDrive\Documentos\GitHub\Organizador-de-Archivos-Flet-Python\assets
+2025-07-09 08:44:59,878 - INFO - Starting up TCP server on localhost:53694
+2025-07-09 08:44:59,889 - INFO - Flet app has started...
+2025-07-09 08:44:59,895 - INFO - App URL: tcp://localhost:53694
+2025-07-09 08:44:59,895 - INFO - Starting Flet View app...
+2025-07-09 08:44:59,897 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 08:44:59,897 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 08:45:00,148 - INFO - App session started
+2025-07-09 08:46:58,340 - INFO - Assets path configured: C:\Users\villa\Downloads\FILE-MANAGER-main\assets
+2025-07-09 08:46:58,343 - INFO - Starting up TCP server on localhost:53761
+2025-07-09 08:46:58,356 - INFO - Flet app has started...
+2025-07-09 08:46:58,364 - INFO - App URL: tcp://localhost:53761
+2025-07-09 08:46:58,365 - INFO - Starting Flet View app...
+2025-07-09 08:46:58,367 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 08:46:58,367 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 08:46:58,617 - INFO - App session started
+2025-07-09 08:47:37,414 - INFO - Assets path configured: C:\Users\villa\Downloads\FILE-MANAGER-main\assets
+2025-07-09 08:47:37,416 - INFO - Starting up TCP server on localhost:53799
+2025-07-09 08:47:37,424 - INFO - Flet app has started...
+2025-07-09 08:47:37,428 - INFO - App URL: tcp://localhost:53799
+2025-07-09 08:47:37,428 - INFO - Starting Flet View app...
+2025-07-09 08:47:37,429 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 08:47:37,430 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 08:47:37,665 - INFO - App session started
+2025-07-09 08:47:47,086 - INFO - Escaneando 24 archivos en busca de duplicados en C:\Users\villa\Downloads\HECTOR - copia\Fotos
+2025-07-09 08:47:47,571 - INFO - Escaneo de duplicados completado. Encontrados 6 grupos de duplicados.
+2025-07-09 08:47:59,100 - INFO - Archivo eliminado: C:\Users\villa\Downloads\HECTOR - copia\Fotos\Imagen de WhatsApp 2025-05-26 a las 20.35.35_0771a197.jpg
+2025-07-09 08:47:59,101 - INFO - Archivo eliminado: C:\Users\villa\Downloads\HECTOR - copia\Fotos\Imagen de WhatsApp 2025-05-26 a las 20.35.35_0771a197.png
+2025-07-09 08:47:59,102 - INFO - Archivo eliminado: C:\Users\villa\Downloads\HECTOR - copia\Fotos\Imagen de WhatsApp 2025-05-26 a las 20.35.35_faa62f64.jpg
+2025-07-09 08:47:59,104 - INFO - Archivo eliminado: C:\Users\villa\Downloads\HECTOR - copia\Fotos\Imagen de WhatsApp 2025-05-26 a las 20.35.35_faa62f64.png
+2025-07-09 08:47:59,105 - INFO - Archivo eliminado: C:\Users\villa\Downloads\HECTOR - copia\Fotos\Interrupto diferencial.jpeg
+2025-07-09 08:47:59,106 - INFO - Archivo eliminado: C:\Users\villa\Downloads\HECTOR - copia\Fotos\sfasfas.jpeg
+2025-07-09 08:47:59,107 - INFO - Archivo eliminado: C:\Users\villa\Downloads\HECTOR - copia\Fotos\Interrupto diferencial.png
+2025-07-09 08:47:59,109 - INFO - Archivo eliminado: C:\Users\villa\Downloads\HECTOR - copia\Fotos\sfasfas.png
+2025-07-09 08:47:59,129 - INFO - Escaneando 16 archivos en busca de duplicados en C:\Users\villa\Downloads\HECTOR - copia\Fotos
+2025-07-09 08:47:59,404 - INFO - Escaneo de duplicados completado. Encontrados 0 grupos de duplicados.
+2025-07-09 08:48:02,768 - INFO - Escaneando 16 archivos en busca de duplicados en C:\Users\villa\Downloads\HECTOR - copia\Fotos
+2025-07-09 08:48:03,130 - INFO - Escaneo de duplicados completado. Encontrados 0 grupos de duplicados.
+2025-07-09 08:50:03,633 - INFO - Escaneando 17 archivos en busca de duplicados en C:\Users\villa\Downloads\HECTOR - copia\Fotos
+2025-07-09 08:50:03,948 - INFO - Escaneo de duplicados completado. Encontrados 1 grupos de duplicados.
+2025-07-09 08:50:08,025 - INFO - Archivo eliminado: C:\Users\villa\Downloads\HECTOR - copia\Fotos\Interrupto diferencial - copia.jpeg
+2025-07-09 08:50:08,048 - INFO - Escaneando 16 archivos en busca de duplicados en C:\Users\villa\Downloads\HECTOR - copia\Fotos
+2025-07-09 08:50:08,346 - INFO - Escaneo de duplicados completado. Encontrados 0 grupos de duplicados.
+2025-07-09 09:07:17,360 - INFO - Assets path configured: C:\Users\villa\Downloads\FILE-MANAGER-main\assets
+2025-07-09 09:07:17,362 - INFO - Starting up TCP server on localhost:54203
+2025-07-09 09:07:17,371 - INFO - Flet app has started...
+2025-07-09 09:07:17,376 - INFO - App URL: tcp://localhost:54203
+2025-07-09 09:07:17,376 - INFO - Starting Flet View app...
+2025-07-09 09:07:17,377 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 09:07:17,377 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 09:07:17,624 - INFO - App session started
+2025-07-09 09:09:06,880 - INFO - Carpeta personalizada añadida: DOC de pdf con extensiones ['pdf']
+2025-07-09 09:09:10,278 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (5)\DOC de pdf
+2025-07-09 09:09:10,279 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (5)\Música
+2025-07-09 09:09:10,279 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (5)\Fotos
+2025-07-09 09:09:10,280 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (5)\Documentos
+2025-07-09 09:09:10,284 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (5)\Videos
+2025-07-09 09:09:10,285 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (5)\Otros
+2025-07-09 09:09:10,381 - INFO - Iniciando organización de 54 archivos en C:\Users\villa\Downloads\COSAS DE ANGEL - copia (5)
+2025-07-09 09:09:10,383 - INFO - Movido '010.NIC 1 Presentación de estados financieros (1).pdf' a 'DOC de pdf'
+2025-07-09 09:09:10,395 - INFO - Movido '010.NIC 1 Presentación de estados financieros.pdf' a 'DOC de pdf'
+2025-07-09 09:09:10,409 - INFO - Movido '109012024RDEV1103268080924.pdf' a 'DOC de pdf'
+2025-07-09 09:09:10,421 - INFO - Movido 'Angel Referencia personal .docx' a 'Documentos'
+2025-07-09 09:09:10,433 - INFO - Movido 'Angel.docx' a 'Documentos'
+2025-07-09 09:09:10,448 - INFO - Movido 'archivodiapositiva_2023514182731.pptx' a 'Documentos'
+2025-07-09 09:09:10,464 - INFO - Movido 'CLASES MAYOR GENERAL.xlsx' a 'Documentos'
+2025-07-09 09:09:10,473 - INFO - Movido 'COSAS DE ANGEL.rar' a 'Otros'
+2025-07-09 09:09:10,481 - INFO - Movido 'Derecho.pdf' a 'DOC de pdf'
+2025-07-09 09:09:10,590 - INFO - Movido 'Dialnet-LasRetencionesDelIVAYLaFuenteYSuIncidenciaEnElFunc-8219351.pdf' a 'DOC de pdf'
+2025-07-09 09:09:10,753 - INFO - Movido 'economia ( trabajo investigativo) .pdf' a 'DOC de pdf'
+2025-07-09 09:09:10,823 - INFO - Movido 'Economia.docx' a 'Documentos'
+2025-07-09 09:09:10,878 - INFO - Movido 'Exposicion .docx' a 'Documentos'
+2025-07-09 09:09:10,969 - INFO - Movido 'Exposicion.docx' a 'Documentos'
+2025-07-09 09:09:11,055 - INFO - Movido 'Exposición .pdf' a 'DOC de pdf'
+2025-07-09 09:09:11,114 - INFO - Movido 'hoja de vida.pdf' a 'DOC de pdf'
+2025-07-09 09:09:11,165 - INFO - Movido 'kardex(1).xlsx' a 'Documentos'
+2025-07-09 09:09:11,257 - INFO - Movido 'Libro DEVIES.docx' a 'Documentos'
+2025-07-09 09:09:11,280 - INFO - Movido 'Libro1.xlsx' a 'Documentos'
+2025-07-09 09:09:11,293 - INFO - Movido 'Libro2.xlsx' a 'Documentos'
+2025-07-09 09:09:11,302 - INFO - Movido 'Lista Angel.docx' a 'Documentos'
+2025-07-09 09:09:11,316 - INFO - Movido 'NAC-DGERCGC20-00000061.pdf' a 'DOC de pdf'
+2025-07-09 09:09:11,333 - INFO - Movido 'photo_2024-10-06_18-34-33.jpg' a 'Fotos'
+2025-07-09 09:09:11,343 - INFO - Movido 'PLANTILLA TAREAS UNEMI - copia.docx' a 'Documentos'
+2025-07-09 09:09:11,354 - INFO - Movido 'PLANTILLA TAREAS UNEMI - Copy.docx' a 'Documentos'
+2025-07-09 09:09:11,365 - INFO - Movido 'Practico.pdf' a 'DOC de pdf'
+2025-07-09 09:09:11,376 - INFO - Movido 'st.png' a 'Fotos'
+2025-07-09 09:09:11,384 - INFO - Movido 'TALLER 1.pdf' a 'DOC de pdf'
+2025-07-09 09:09:11,395 - INFO - Movido 'TALLER 1.xlsx' a 'Documentos'
+2025-07-09 09:09:11,405 - INFO - Movido 'TALLER 2.xlsx' a 'Documentos'
+2025-07-09 09:09:11,412 - INFO - Movido 'TALLER PRACTICO - EXAMEN.docx' a 'Documentos'
+2025-07-09 09:09:11,421 - INFO - Movido 'Taller.pdf' a 'DOC de pdf'
+2025-07-09 09:09:11,429 - INFO - Movido 'talleres.pdf' a 'DOC de pdf'
+2025-07-09 09:09:11,440 - INFO - Movido 'Tarea 1 de mate.docx' a 'Documentos'
+2025-07-09 09:09:11,448 - INFO - Movido 'Tarea 1 de mate.pdf' a 'DOC de pdf'
+2025-07-09 09:09:11,456 - INFO - Movido 'Tarea 1.pdf' a 'DOC de pdf'
+2025-07-09 09:09:11,467 - INFO - Movido 'TAREA 2.docx' a 'Documentos'
+2025-07-09 09:09:11,476 - INFO - Movido 'TAREA 2.pdf' a 'DOC de pdf'
+2025-07-09 09:09:11,484 - INFO - Movido 'Trabajo de investigacion .pdf' a 'DOC de pdf'
+2025-07-09 09:09:11,491 - INFO - Movido 'Trabajo de investigacion edit.docx' a 'Documentos'
+2025-07-09 09:09:11,499 - INFO - Movido 'Trabajo de investigacion edit.pdf' a 'DOC de pdf'
+2025-07-09 09:09:11,511 - INFO - Movido 'Trabajo experimental.docx' a 'Documentos'
+2025-07-09 09:09:11,521 - INFO - Movido 'Trabajo experimental.pdf' a 'DOC de pdf'
+2025-07-09 09:09:11,533 - INFO - Movido 'Trabajo experimental.xlsx' a 'Documentos'
+2025-07-09 09:09:11,543 - INFO - Movido 'Trabajo investigativo economia.docx' a 'Documentos'
+2025-07-09 09:09:11,557 - INFO - Movido 'Trabajo investigativo economia.pdf' a 'DOC de pdf'
+2025-07-09 09:09:11,569 - INFO - Movido 'Trabajo investigativo matematica.pdf' a 'DOC de pdf'
+2025-07-09 09:09:11,578 - INFO - Movido 'Trabajo practivo experimental.docx' a 'Documentos'
+2025-07-09 09:09:11,588 - INFO - Movido 'TRABAJO PRÁCTICO.docx' a 'Documentos'
+2025-07-09 09:09:11,599 - INFO - Movido 'U1 TEMA 1 CUENTAS CONTABLES.pdf' a 'DOC de pdf'
+2025-07-09 09:09:11,611 - INFO - Movido 'U1 TEMA 2 LA ECUACION CONTABLE.pdf' a 'DOC de pdf'
+2025-07-09 09:09:11,622 - INFO - Movido 'U1 TEMA 3 REGISTROS CONTABLE.pdf' a 'DOC de pdf'
+2025-07-09 09:09:11,632 - INFO - Movido 'WIN_20241127_11_25_30_Pro.jpg' a 'Fotos'
+2025-07-09 09:09:11,641 - INFO - Movido 'スティーブン.jpg' a 'Fotos'
+2025-07-09 09:09:11,649 - INFO - Organización de archivos completada.
+2025-07-09 09:09:12,074 - INFO - Gráfico generado como cadena base64.
+2025-07-09 09:09:12,084 - INFO - Organización de archivos completada exitosamente.
+2025-07-09 09:09:58,120 - INFO - Escaneando 13 archivos en busca de duplicados en C:\Users\villa\Downloads\COSAS DE ANGEL - copia (5)\Fotos
+2025-07-09 09:09:58,307 - INFO - Escaneo de duplicados completado. Encontrados 1 grupos de duplicados.
+2025-07-09 09:10:10,227 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (5)\Fotos\スティーブン - copia (3).jpg
+2025-07-09 09:10:10,228 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (5)\Fotos\スティーブン - copia (4).jpg
+2025-07-09 09:10:10,229 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (5)\Fotos\スティーブン - copia (5).jpg
+2025-07-09 09:10:10,230 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (5)\Fotos\スティーブン - copia (6).jpg
+2025-07-09 09:10:10,230 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (5)\Fotos\スティーブン - copia (7).jpg
+2025-07-09 09:10:10,231 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (5)\Fotos\スティーブン - copia (8).jpg
+2025-07-09 09:10:10,231 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (5)\Fotos\スティーブン - copia (9).jpg
+2025-07-09 09:10:10,231 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (5)\Fotos\スティーブン - copia.jpg
+2025-07-09 09:10:10,232 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (5)\Fotos\スティーブン.jpg
+2025-07-09 09:10:10,251 - INFO - Escaneando 4 archivos en busca de duplicados en C:\Users\villa\Downloads\COSAS DE ANGEL - copia (5)\Fotos
+2025-07-09 09:10:10,299 - INFO - Escaneo de duplicados completado. Encontrados 0 grupos de duplicados.
+2025-07-09 09:14:12,773 - INFO - Assets path configured: C:\Users\villa\Downloads\FILE-MANAGER-main\assets
+2025-07-09 09:14:12,776 - INFO - Starting up TCP server on localhost:54379
+2025-07-09 09:14:12,790 - INFO - Flet app has started...
+2025-07-09 09:14:12,796 - INFO - App URL: tcp://localhost:54379
+2025-07-09 09:14:12,796 - INFO - Starting Flet View app...
+2025-07-09 09:14:12,797 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 09:14:12,798 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 09:14:13,048 - INFO - App session started
+2025-07-09 09:14:31,769 - INFO - Assets path configured: C:\Users\villa\Downloads\FILE-MANAGER-main\assets
+2025-07-09 09:14:31,772 - INFO - Starting up TCP server on localhost:54396
+2025-07-09 09:14:31,780 - INFO - Flet app has started...
+2025-07-09 09:14:31,785 - INFO - App URL: tcp://localhost:54396
+2025-07-09 09:14:31,785 - INFO - Starting Flet View app...
+2025-07-09 09:14:31,786 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 09:14:31,786 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 09:14:32,032 - INFO - App session started
+2025-07-09 09:15:18,788 - INFO - Carpeta personalizada añadida: PDFs con extensiones ['pdf']
+2025-07-09 09:15:19,702 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (3)\PDFs
+2025-07-09 09:15:19,703 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (3)\Música
+2025-07-09 09:15:19,704 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (3)\Fotos
+2025-07-09 09:15:19,705 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (3)\Documentos
+2025-07-09 09:15:19,706 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (3)\Videos
+2025-07-09 09:15:19,708 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (3)\Otros
+2025-07-09 09:15:19,729 - INFO - Iniciando organización de 54 archivos en C:\Users\villa\Downloads\COSAS DE ANGEL - copia (3)
+2025-07-09 09:15:19,731 - INFO - Movido '010.NIC 1 Presentación de estados financieros (1).pdf' a 'PDFs'
+2025-07-09 09:15:19,741 - INFO - Movido '010.NIC 1 Presentación de estados financieros.pdf' a 'PDFs'
+2025-07-09 09:15:19,759 - INFO - Movido '109012024RDEV1103268080924.pdf' a 'PDFs'
+2025-07-09 09:15:19,772 - INFO - Movido 'Angel Referencia personal .docx' a 'Documentos'
+2025-07-09 09:15:19,783 - INFO - Movido 'Angel.docx' a 'Documentos'
+2025-07-09 09:15:19,793 - INFO - Movido 'archivodiapositiva_2023514182731.pptx' a 'Documentos'
+2025-07-09 09:15:19,802 - INFO - Movido 'CLASES MAYOR GENERAL.xlsx' a 'Documentos'
+2025-07-09 09:15:19,814 - INFO - Movido 'COSAS DE ANGEL.rar' a 'Otros'
+2025-07-09 09:15:19,826 - INFO - Movido 'Derecho.pdf' a 'PDFs'
+2025-07-09 09:15:19,838 - INFO - Movido 'Dialnet-LasRetencionesDelIVAYLaFuenteYSuIncidenciaEnElFunc-8219351.pdf' a 'PDFs'
+2025-07-09 09:15:19,849 - INFO - Movido 'economia ( trabajo investigativo) .pdf' a 'PDFs'
+2025-07-09 09:15:19,857 - INFO - Movido 'Economia.docx' a 'Documentos'
+2025-07-09 09:15:19,867 - INFO - Movido 'Exposicion .docx' a 'Documentos'
+2025-07-09 09:15:19,877 - INFO - Movido 'Exposicion.docx' a 'Documentos'
+2025-07-09 09:15:19,888 - INFO - Movido 'Exposición .pdf' a 'PDFs'
+2025-07-09 09:15:19,900 - INFO - Movido 'hoja de vida.pdf' a 'PDFs'
+2025-07-09 09:15:19,910 - INFO - Movido 'kardex(1).xlsx' a 'Documentos'
+2025-07-09 09:15:19,921 - INFO - Movido 'Libro DEVIES.docx' a 'Documentos'
+2025-07-09 09:15:19,931 - INFO - Movido 'Libro1.xlsx' a 'Documentos'
+2025-07-09 09:15:19,940 - INFO - Movido 'Libro2.xlsx' a 'Documentos'
+2025-07-09 09:15:19,949 - INFO - Movido 'Lista Angel.docx' a 'Documentos'
+2025-07-09 09:15:19,957 - INFO - Movido 'NAC-DGERCGC20-00000061.pdf' a 'PDFs'
+2025-07-09 09:15:19,968 - INFO - Movido 'photo_2024-10-06_18-34-33.jpg' a 'Fotos'
+2025-07-09 09:15:19,978 - INFO - Movido 'PLANTILLA TAREAS UNEMI - copia.docx' a 'Documentos'
+2025-07-09 09:15:19,991 - INFO - Movido 'PLANTILLA TAREAS UNEMI - Copy.docx' a 'Documentos'
+2025-07-09 09:15:20,000 - INFO - Movido 'Practico.pdf' a 'PDFs'
+2025-07-09 09:15:20,012 - INFO - Movido 'st.png' a 'Fotos'
+2025-07-09 09:15:20,022 - INFO - Movido 'TALLER 1.pdf' a 'PDFs'
+2025-07-09 09:15:20,032 - INFO - Movido 'TALLER 1.xlsx' a 'Documentos'
+2025-07-09 09:15:20,046 - INFO - Movido 'TALLER 2.xlsx' a 'Documentos'
+2025-07-09 09:15:20,057 - INFO - Movido 'TALLER PRACTICO - EXAMEN.docx' a 'Documentos'
+2025-07-09 09:15:20,069 - INFO - Movido 'Taller.pdf' a 'PDFs'
+2025-07-09 09:15:20,081 - INFO - Movido 'talleres.pdf' a 'PDFs'
+2025-07-09 09:15:20,104 - INFO - Movido 'Tarea 1 de mate.docx' a 'Documentos'
+2025-07-09 09:15:20,118 - INFO - Movido 'Tarea 1 de mate.pdf' a 'PDFs'
+2025-07-09 09:15:20,129 - INFO - Movido 'Tarea 1.pdf' a 'PDFs'
+2025-07-09 09:15:20,139 - INFO - Movido 'TAREA 2.docx' a 'Documentos'
+2025-07-09 09:15:20,154 - INFO - Movido 'TAREA 2.pdf' a 'PDFs'
+2025-07-09 09:15:20,165 - INFO - Movido 'Trabajo de investigacion .pdf' a 'PDFs'
+2025-07-09 09:15:20,178 - INFO - Movido 'Trabajo de investigacion edit.docx' a 'Documentos'
+2025-07-09 09:15:20,190 - INFO - Movido 'Trabajo de investigacion edit.pdf' a 'PDFs'
+2025-07-09 09:15:20,199 - INFO - Movido 'Trabajo experimental.docx' a 'Documentos'
+2025-07-09 09:15:20,212 - INFO - Movido 'Trabajo experimental.pdf' a 'PDFs'
+2025-07-09 09:15:20,221 - INFO - Movido 'Trabajo experimental.xlsx' a 'Documentos'
+2025-07-09 09:15:20,230 - INFO - Movido 'Trabajo investigativo economia.docx' a 'Documentos'
+2025-07-09 09:15:20,240 - INFO - Movido 'Trabajo investigativo economia.pdf' a 'PDFs'
+2025-07-09 09:15:20,250 - INFO - Movido 'Trabajo investigativo matematica.pdf' a 'PDFs'
+2025-07-09 09:15:20,260 - INFO - Movido 'Trabajo practivo experimental.docx' a 'Documentos'
+2025-07-09 09:15:20,269 - INFO - Movido 'TRABAJO PRÁCTICO.docx' a 'Documentos'
+2025-07-09 09:15:20,278 - INFO - Movido 'U1 TEMA 1 CUENTAS CONTABLES.pdf' a 'PDFs'
+2025-07-09 09:15:20,288 - INFO - Movido 'U1 TEMA 2 LA ECUACION CONTABLE.pdf' a 'PDFs'
+2025-07-09 09:15:20,301 - INFO - Movido 'U1 TEMA 3 REGISTROS CONTABLE.pdf' a 'PDFs'
+2025-07-09 09:15:20,312 - INFO - Movido 'WIN_20241127_11_25_30_Pro.jpg' a 'Fotos'
+2025-07-09 09:15:20,343 - INFO - Movido 'スティーブン.jpg' a 'Fotos'
+2025-07-09 09:15:20,352 - INFO - Organización de archivos completada.
+2025-07-09 09:15:20,818 - INFO - Gráfico generado como cadena base64.
+2025-07-09 09:15:20,834 - INFO - Organización de archivos completada exitosamente.
+2025-07-09 09:15:41,081 - INFO - Escaneando 8 archivos en busca de duplicados en C:\Users\villa\Downloads\COSAS DE ANGEL - copia (3)\Fotos
+2025-07-09 09:15:41,199 - INFO - Escaneo de duplicados completado. Encontrados 1 grupos de duplicados.
+2025-07-09 09:15:45,374 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (3)\Fotos\st - copia (3).png
+2025-07-09 09:15:45,375 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (3)\Fotos\st - copia (4).png
+2025-07-09 09:15:45,376 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (3)\Fotos\st - copia.png
+2025-07-09 09:15:45,377 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (3)\Fotos\st.png
+2025-07-09 09:15:45,399 - INFO - Escaneando 4 archivos en busca de duplicados en C:\Users\villa\Downloads\COSAS DE ANGEL - copia (3)\Fotos
+2025-07-09 09:15:45,447 - INFO - Escaneo de duplicados completado. Encontrados 0 grupos de duplicados.
+2025-07-09 09:20:52,391 - INFO - Assets path configured: C:\Users\villa\Downloads\FILE-MANAGER-main\assets
+2025-07-09 09:20:52,394 - INFO - Starting up TCP server on localhost:54528
+2025-07-09 09:20:52,403 - INFO - Flet app has started...
+2025-07-09 09:20:52,408 - INFO - App URL: tcp://localhost:54528
+2025-07-09 09:20:52,408 - INFO - Starting Flet View app...
+2025-07-09 09:20:52,409 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 09:20:52,409 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 09:20:52,651 - INFO - App session started
+2025-07-09 09:21:09,671 - INFO - Carpeta personalizada añadida: PDFs con extensiones ['pdf']
+2025-07-09 09:21:11,025 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (2)\PDFs
+2025-07-09 09:21:11,026 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (2)\Música
+2025-07-09 09:21:11,027 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (2)\Fotos
+2025-07-09 09:21:11,028 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (2)\Documentos
+2025-07-09 09:21:11,029 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (2)\Videos
+2025-07-09 09:21:11,030 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (2)\Otros
+2025-07-09 09:21:11,052 - INFO - Iniciando organización de 54 archivos en C:\Users\villa\Downloads\COSAS DE ANGEL - copia (2)
+2025-07-09 09:21:11,054 - INFO - Movido '010.NIC 1 Presentación de estados financieros (1).pdf' a 'PDFs'
+2025-07-09 09:21:11,066 - INFO - Movido '010.NIC 1 Presentación de estados financieros.pdf' a 'PDFs'
+2025-07-09 09:21:11,084 - INFO - Movido '109012024RDEV1103268080924.pdf' a 'PDFs'
+2025-07-09 09:21:11,100 - INFO - Movido 'Angel Referencia personal .docx' a 'Documentos'
+2025-07-09 09:21:11,113 - INFO - Movido 'Angel.docx' a 'Documentos'
+2025-07-09 09:21:11,128 - INFO - Movido 'archivodiapositiva_2023514182731.pptx' a 'Documentos'
+2025-07-09 09:21:11,140 - INFO - Movido 'CLASES MAYOR GENERAL.xlsx' a 'Documentos'
+2025-07-09 09:21:11,153 - INFO - Movido 'COSAS DE ANGEL.rar' a 'Otros'
+2025-07-09 09:21:11,168 - INFO - Movido 'Derecho.pdf' a 'PDFs'
+2025-07-09 09:21:11,183 - INFO - Movido 'Dialnet-LasRetencionesDelIVAYLaFuenteYSuIncidenciaEnElFunc-8219351.pdf' a 'PDFs'
+2025-07-09 09:21:11,199 - INFO - Movido 'economia ( trabajo investigativo) .pdf' a 'PDFs'
+2025-07-09 09:21:11,214 - INFO - Movido 'Economia.docx' a 'Documentos'
+2025-07-09 09:21:11,233 - INFO - Movido 'Exposicion .docx' a 'Documentos'
+2025-07-09 09:21:11,248 - INFO - Movido 'Exposicion.docx' a 'Documentos'
+2025-07-09 09:21:11,261 - INFO - Movido 'Exposición .pdf' a 'PDFs'
+2025-07-09 09:21:11,274 - INFO - Movido 'hoja de vida.pdf' a 'PDFs'
+2025-07-09 09:21:11,282 - INFO - Movido 'kardex(1).xlsx' a 'Documentos'
+2025-07-09 09:21:11,293 - INFO - Movido 'Libro DEVIES.docx' a 'Documentos'
+2025-07-09 09:21:11,303 - INFO - Movido 'Libro1.xlsx' a 'Documentos'
+2025-07-09 09:21:11,311 - INFO - Movido 'Libro2.xlsx' a 'Documentos'
+2025-07-09 09:21:11,322 - INFO - Movido 'Lista Angel.docx' a 'Documentos'
+2025-07-09 09:21:11,333 - INFO - Movido 'NAC-DGERCGC20-00000061.pdf' a 'PDFs'
+2025-07-09 09:21:11,346 - INFO - Movido 'photo_2024-10-06_18-34-33.jpg' a 'Fotos'
+2025-07-09 09:21:11,356 - INFO - Movido 'PLANTILLA TAREAS UNEMI - copia.docx' a 'Documentos'
+2025-07-09 09:21:11,367 - INFO - Movido 'PLANTILLA TAREAS UNEMI - Copy.docx' a 'Documentos'
+2025-07-09 09:21:11,378 - INFO - Movido 'Practico.pdf' a 'PDFs'
+2025-07-09 09:21:11,390 - INFO - Movido 'st.png' a 'Fotos'
+2025-07-09 09:21:11,402 - INFO - Movido 'TALLER 1.pdf' a 'PDFs'
+2025-07-09 09:21:11,415 - INFO - Movido 'TALLER 1.xlsx' a 'Documentos'
+2025-07-09 09:21:11,427 - INFO - Movido 'TALLER 2.xlsx' a 'Documentos'
+2025-07-09 09:21:11,438 - INFO - Movido 'TALLER PRACTICO - EXAMEN.docx' a 'Documentos'
+2025-07-09 09:21:11,449 - INFO - Movido 'Taller.pdf' a 'PDFs'
+2025-07-09 09:21:11,461 - INFO - Movido 'talleres.pdf' a 'PDFs'
+2025-07-09 09:21:11,485 - INFO - Movido 'Tarea 1 de mate.docx' a 'Documentos'
+2025-07-09 09:21:11,499 - INFO - Movido 'Tarea 1 de mate.pdf' a 'PDFs'
+2025-07-09 09:21:11,514 - INFO - Movido 'Tarea 1.pdf' a 'PDFs'
+2025-07-09 09:21:11,526 - INFO - Movido 'TAREA 2.docx' a 'Documentos'
+2025-07-09 09:21:11,535 - INFO - Movido 'TAREA 2.pdf' a 'PDFs'
+2025-07-09 09:21:11,544 - INFO - Movido 'Trabajo de investigacion .pdf' a 'PDFs'
+2025-07-09 09:21:11,557 - INFO - Movido 'Trabajo de investigacion edit.docx' a 'Documentos'
+2025-07-09 09:21:11,570 - INFO - Movido 'Trabajo de investigacion edit.pdf' a 'PDFs'
+2025-07-09 09:21:11,580 - INFO - Movido 'Trabajo experimental.docx' a 'Documentos'
+2025-07-09 09:21:11,592 - INFO - Movido 'Trabajo experimental.pdf' a 'PDFs'
+2025-07-09 09:21:11,602 - INFO - Movido 'Trabajo experimental.xlsx' a 'Documentos'
+2025-07-09 09:21:11,615 - INFO - Movido 'Trabajo investigativo economia.docx' a 'Documentos'
+2025-07-09 09:21:11,629 - INFO - Movido 'Trabajo investigativo economia.pdf' a 'PDFs'
+2025-07-09 09:21:11,640 - INFO - Movido 'Trabajo investigativo matematica.pdf' a 'PDFs'
+2025-07-09 09:21:11,657 - INFO - Movido 'Trabajo practivo experimental.docx' a 'Documentos'
+2025-07-09 09:21:11,671 - INFO - Movido 'TRABAJO PRÁCTICO.docx' a 'Documentos'
+2025-07-09 09:21:11,682 - INFO - Movido 'U1 TEMA 1 CUENTAS CONTABLES.pdf' a 'PDFs'
+2025-07-09 09:21:11,695 - INFO - Movido 'U1 TEMA 2 LA ECUACION CONTABLE.pdf' a 'PDFs'
+2025-07-09 09:21:11,712 - INFO - Movido 'U1 TEMA 3 REGISTROS CONTABLE.pdf' a 'PDFs'
+2025-07-09 09:21:11,723 - INFO - Movido 'WIN_20241127_11_25_30_Pro.jpg' a 'Fotos'
+2025-07-09 09:21:11,748 - INFO - Movido 'スティーブン.jpg' a 'Fotos'
+2025-07-09 09:21:11,759 - INFO - Organización de archivos completada.
+2025-07-09 09:21:12,290 - INFO - Gráfico generado como cadena base64.
+2025-07-09 09:21:12,302 - INFO - Organización de archivos completada exitosamente.
+2025-07-09 09:21:40,411 - INFO - Escaneando 8 archivos en busca de duplicados en C:\Users\villa\Downloads\COSAS DE ANGEL - copia (2)\Fotos
+2025-07-09 09:21:40,509 - INFO - Escaneo de duplicados completado. Encontrados 1 grupos de duplicados.
+2025-07-09 09:21:42,863 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (2)\Fotos\st - copia (3).png
+2025-07-09 09:21:42,864 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (2)\Fotos\st - copia (4).png
+2025-07-09 09:21:42,866 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (2)\Fotos\st - copia.png
+2025-07-09 09:21:42,867 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia (2)\Fotos\st.png
+2025-07-09 09:21:42,901 - INFO - Escaneando 4 archivos en busca de duplicados en C:\Users\villa\Downloads\COSAS DE ANGEL - copia (2)\Fotos
+2025-07-09 09:21:42,968 - INFO - Escaneo de duplicados completado. Encontrados 0 grupos de duplicados.
+2025-07-09 09:22:21,390 - INFO - Convertido photo_2024-10-06_18-34-33.jpg a jpeg
+2025-07-09 09:22:21,456 - INFO - Convertido st - copia (2).png a jpeg
+2025-07-09 09:22:21,487 - INFO - Convertido WIN_20241127_11_25_30_Pro.jpg a jpeg
+2025-07-09 09:22:21,545 - INFO - Convertido スティーブン.jpg a jpeg
+2025-07-09 09:22:21,562 - INFO - Conversión de imágenes completada. 4 archivos convertidos a jpeg.
+2025-07-09 09:23:22,932 - INFO - Redimensionado: photo_2024-10-06_18-34-33.jpeg -> 640x360
+2025-07-09 09:23:23,004 - INFO - Redimensionado: photo_2024-10-06_18-34-33.jpg -> 640x360
+2025-07-09 09:23:23,161 - INFO - Redimensionado: st - copia (2).jpeg -> 780x1000
+2025-07-09 09:23:23,426 - INFO - Redimensionado: st - copia (2).png -> 780x1000
+2025-07-09 09:23:23,482 - INFO - Redimensionado: WIN_20241127_11_25_30_Pro.jpeg -> 640x360
+2025-07-09 09:23:23,539 - INFO - Redimensionado: WIN_20241127_11_25_30_Pro.jpg -> 640x360
+2025-07-09 09:23:23,711 - INFO - Redimensionado: スティーブン.jpeg -> 780x1000
+2025-07-09 09:23:23,876 - INFO - Redimensionado: スティーブン.jpg -> 780x1000
+2025-07-09 09:23:23,891 - INFO - Redimensionamiento de imágenes completado.
+2025-07-09 09:25:48,256 - INFO - Directorio creado: C:\Users\villa\Downloads\HECTOR - copia\PDFs
+2025-07-09 09:25:48,258 - INFO - Directorio creado: C:\Users\villa\Downloads\HECTOR - copia\Música
+2025-07-09 09:25:48,259 - INFO - Directorio creado: C:\Users\villa\Downloads\HECTOR - copia\Fotos
+2025-07-09 09:25:48,260 - INFO - Directorio creado: C:\Users\villa\Downloads\HECTOR - copia\Documentos
+2025-07-09 09:25:48,261 - INFO - Directorio creado: C:\Users\villa\Downloads\HECTOR - copia\Videos
+2025-07-09 09:25:48,262 - INFO - Directorio creado: C:\Users\villa\Downloads\HECTOR - copia\Otros
+2025-07-09 09:25:48,265 - INFO - Iniciando organización de 48 archivos en C:\Users\villa\Downloads\HECTOR - copia
+2025-07-09 09:25:48,267 - INFO - Movido '2DO K CALIFICACIONES 1ER TRIMESTRE xlsx (1) (1).xlsx' a 'Documentos'
+2025-07-09 09:25:48,292 - INFO - Movido '2DO K CALIFICACIONES 1ER TRIMESTRE xlsx (1).xlsx' a 'Documentos'
+2025-07-09 09:25:48,308 - INFO - Movido '2k FOL REGISTRO DE NOTAS -.xlsx' a 'Documentos'
+2025-07-09 09:25:48,320 - INFO - Movido '2K.xlsx' a 'Documentos'
+2025-07-09 09:25:48,332 - INFO - Movido '3RO J.xlsx' a 'Documentos'
+2025-07-09 09:25:48,343 - INFO - Movido 'ACTA DE ENTREGA RECEPCION TEXTOS ESCOLARES - PRIMERA FASE - SEGUNDO BACHILLERATO - K Villamar.xls' a 'Otros'
+2025-07-09 09:25:48,353 - INFO - Movido 'ACTA_DE_SOCIALIZACIÓN_DE_CRITERIOS_E_INSUMOS_DE_EVALUACIÓN_yt_(1)[1].docx' a 'Documentos'
+2025-07-09 09:25:48,366 - INFO - Movido 'Caracteristicas para Laptos.docx' a 'Documentos'
+2025-07-09 09:25:48,377 - INFO - Movido 'Caracteristicas para Laptos.pdf' a 'PDFs'
+2025-07-09 09:25:48,387 - INFO - Movido 'Como Reparar un Refrigerador Reparación Rápida y de emergencia muy fácil reparar nevera Recalibrando.mp4' a 'Videos'
+2025-07-09 09:25:48,397 - INFO - Movido 'CONTROLES ELÉCTRICOS.docx' a 'Documentos'
+2025-07-09 09:25:48,407 - INFO - Movido 'Cuadro de 1ro y 3ro 2024-2025.rar' a 'Otros'
+2025-07-09 09:25:48,421 - INFO - Movido 'CUESTIONARIO DE REDES - SISTEMAS - RESUELTO.pdf' a 'PDFs'
+2025-07-09 09:25:48,434 - INFO - Movido 'CURSO DE Edición de Video con Capcut_y uso de canva_LABORES.docx' a 'Documentos'
+2025-07-09 09:25:48,445 - INFO - Movido 'DIPLOMA 2K (1).docx' a 'Documentos'
+2025-07-09 09:25:48,458 - INFO - Movido 'EGC_Electromecánica-Automotriz.pdf' a 'PDFs'
+2025-07-09 09:25:48,471 - INFO - Movido 'EGC_Instalaciones-Equipos-y-Máquinas-Eléctricas.pdf' a 'PDFs'
+2025-07-09 09:25:48,482 - INFO - Movido 'Figura de instalaciones electricas.docx' a 'Documentos'
+2025-07-09 09:25:48,493 - INFO - Movido 'FORMATO PPRESENTACIÓN INFORME PPP_CONVALIDACIÓN.docx' a 'Documentos'
+2025-07-09 09:25:48,503 - INFO - Movido 'FP_BT48E3.pdf' a 'PDFs'
+2025-07-09 09:25:48,515 - INFO - Movido 'Hector 1.docx' a 'Documentos'
+2025-07-09 09:25:48,527 - INFO - Movido 'Hector 2.docx' a 'Documentos'
+2025-07-09 09:25:48,537 - INFO - Movido 'Hector 3.docx' a 'Documentos'
+2025-07-09 09:25:48,548 - INFO - Movido 'Hector 4.docx' a 'Documentos'
+2025-07-09 09:25:48,561 - INFO - Movido 'Hector 5.docx' a 'Documentos'
+2025-07-09 09:25:48,571 - INFO - Movido 'Hector.docx' a 'Documentos'
+2025-07-09 09:25:48,583 - INFO - Movido 'HORARIO POR CURSO.pdf' a 'PDFs'
+2025-07-09 09:25:48,594 - INFO - Movido 'HORARIO POR DOCENTE.docx' a 'Documentos'
+2025-07-09 09:25:48,604 - INFO - Movido 'HORARIO POR DOCENTE.pdf' a 'PDFs'
+2025-07-09 09:25:48,614 - INFO - Movido 'informe.docx' a 'Documentos'
+2025-07-09 09:25:48,626 - INFO - Movido 'informe.pdf' a 'PDFs'
+2025-07-09 09:25:48,636 - INFO - Movido 'INSTALACIONES DOMOTICAS - 2024 (1).docx' a 'Documentos'
+2025-07-09 09:25:48,646 - INFO - Movido 'INSTALACIONES DOMOTICAS - 2024.docx' a 'Documentos'
+2025-07-09 09:25:48,655 - INFO - Movido 'INSTALACIONES.docx' a 'Documentos'
+2025-07-09 09:25:48,666 - INFO - Movido 'Interrupto diferencial.jpeg' a 'Fotos'
+2025-07-09 09:25:48,687 - INFO - Movido 'Modulo electrotecnia mecanica autromotriz.docx' a 'Documentos'
+2025-07-09 09:25:48,698 - INFO - Movido 'PLAN_6_se2ACCorto - Castillo.docx' a 'Documentos'
+2025-07-09 09:25:48,709 - INFO - Movido 'Producción de la energia electrica.docx' a 'Documentos'
+2025-07-09 09:25:48,719 - INFO - Movido 'PROMEDIOS 2DO K E.F ANUAL-1 (1).xlsx' a 'Documentos'
+2025-07-09 09:25:48,729 - INFO - Movido 'REGISTRO DE NOTAS 2K (1).xlsx' a 'Documentos'
+2025-07-09 09:25:48,739 - INFO - Movido 'REGISTRO DE NOTAS 2K.xlsx' a 'Documentos'
+2025-07-09 09:25:48,750 - INFO - Movido 'Respuesta de Copilot.docx' a 'Documentos'
+2025-07-09 09:25:48,761 - INFO - Movido 'simbologia_UNE_60617.pdf' a 'PDFs'
+2025-07-09 09:25:48,770 - INFO - Movido 'UEM ACTA DE COMPROMISO GENERAL 2025 ACT.docx' a 'Documentos'
+2025-07-09 09:25:48,781 - INFO - Movido 'UEM ACTA DE COMPROMISO GENERAL 2025 ACT2.docx' a 'Documentos'
+2025-07-09 09:25:48,793 - INFO - Movido 'UEM ficha-estudiantil-2025-2026.docx' a 'Documentos'
+2025-07-09 09:25:48,806 - INFO - Movido 'UEM ficha-estudiantil-2025-20262.docx' a 'Documentos'
+2025-07-09 09:25:48,819 - INFO - Movido '~$dulo electrotecnia mecanica autromotriz.docx' a 'Documentos'
+2025-07-09 09:25:48,826 - INFO - Organización de archivos completada.
+2025-07-09 09:25:49,348 - INFO - Gráfico generado como cadena base64.
+2025-07-09 09:25:49,363 - INFO - Organización de archivos completada exitosamente.
+2025-07-09 09:26:46,063 - INFO - Escaneando 13 archivos en busca de duplicados en C:\Users\villa\Downloads\HECTOR - copia\Fotos
+2025-07-09 09:26:46,281 - INFO - Escaneo de duplicados completado. Encontrados 3 grupos de duplicados.
+2025-07-09 09:27:00,140 - INFO - Archivo eliminado: C:\Users\villa\Downloads\HECTOR - copia\Fotos\Interrupto diferencial - copia (2).jpeg
+2025-07-09 09:27:00,142 - INFO - Archivo eliminado: C:\Users\villa\Downloads\HECTOR - copia\Fotos\Interrupto diferencial - copia (3).jpeg
+2025-07-09 09:27:00,143 - INFO - Archivo eliminado: C:\Users\villa\Downloads\HECTOR - copia\Fotos\Interrupto diferencial.jpeg
+2025-07-09 09:27:00,144 - INFO - Archivo eliminado: C:\Users\villa\Downloads\HECTOR - copia\Fotos\Imagen de WhatsApp 2025-05-26 a las 20.35.35_0771a197.jpg
+2025-07-09 09:27:00,145 - INFO - Archivo eliminado: C:\Users\villa\Downloads\HECTOR - copia\Fotos\Imagen de WhatsApp 2025-05-26 a las 20.35.35_faa62f64.jpg
+2025-07-09 09:27:00,169 - INFO - Escaneando 8 archivos en busca de duplicados en C:\Users\villa\Downloads\HECTOR - copia\Fotos
+2025-07-09 09:27:00,276 - INFO - Escaneo de duplicados completado. Encontrados 0 grupos de duplicados.
+2025-07-09 09:27:36,217 - INFO - Redimensionado: dadad.jpeg -> 590x547
+2025-07-09 09:27:36,384 - INFO - Redimensionado: Imagen de WhatsApp 2025-05-26 a las 20.32.28_1b49ddb1.jpg -> 800x600
+2025-07-09 09:27:36,516 - INFO - Redimensionado: Imagen de WhatsApp 2025-05-26 a las 20.32.28_534fc9dd.jpg -> 600x800
+2025-07-09 09:27:36,654 - INFO - Redimensionado: Imagen de WhatsApp 2025-05-26 a las 20.32.28_53e65af7.jpg -> 800x600
+2025-07-09 09:27:36,822 - INFO - Redimensionado: Imagen de WhatsApp 2025-05-26 a las 20.32.28_ed6b26ff.jpg -> 800x600
+2025-07-09 09:27:36,995 - INFO - Redimensionado: Imagen de WhatsApp 2025-05-26 a las 20.32.29_4d1e70b0.jpg -> 800x600
+2025-07-09 09:27:37,143 - INFO - Redimensionado: Imagen de WhatsApp 2025-05-26 a las 20.32.29_53630dfa.jpg -> 800x600
+2025-07-09 09:27:37,275 - INFO - Redimensionado: Imagen de WhatsApp 2025-05-26 a las 20.32.29_df49207f.jpg -> 800x600
+2025-07-09 09:27:37,289 - INFO - Redimensionamiento de imágenes completado.
+2025-07-09 09:28:07,331 - INFO - Convertido dadad.jpeg a png
+2025-07-09 09:28:07,550 - INFO - Convertido Imagen de WhatsApp 2025-05-26 a las 20.32.28_1b49ddb1.jpg a png
+2025-07-09 09:28:07,742 - INFO - Convertido Imagen de WhatsApp 2025-05-26 a las 20.32.28_534fc9dd.jpg a png
+2025-07-09 09:28:07,923 - INFO - Convertido Imagen de WhatsApp 2025-05-26 a las 20.32.28_53e65af7.jpg a png
+2025-07-09 09:28:08,117 - INFO - Convertido Imagen de WhatsApp 2025-05-26 a las 20.32.28_ed6b26ff.jpg a png
+2025-07-09 09:28:08,292 - INFO - Convertido Imagen de WhatsApp 2025-05-26 a las 20.32.29_4d1e70b0.jpg a png
+2025-07-09 09:28:08,486 - INFO - Convertido Imagen de WhatsApp 2025-05-26 a las 20.32.29_53630dfa.jpg a png
+2025-07-09 09:28:08,696 - INFO - Convertido Imagen de WhatsApp 2025-05-26 a las 20.32.29_df49207f.jpg a png
+2025-07-09 09:28:08,709 - INFO - Conversión de imágenes completada. 8 archivos convertidos a png.
+2025-07-09 09:30:03,494 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\PDFs
+2025-07-09 09:30:03,495 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Música
+2025-07-09 09:30:03,496 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos
+2025-07-09 09:30:03,497 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Documentos
+2025-07-09 09:30:03,498 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Videos
+2025-07-09 09:30:03,499 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Otros
+2025-07-09 09:30:03,503 - INFO - Iniciando organización de 54 archivos en C:\Users\villa\Downloads\COSAS DE ANGEL - copia
+2025-07-09 09:30:03,506 - INFO - Movido '010.NIC 1 Presentación de estados financieros (1).pdf' a 'PDFs'
+2025-07-09 09:30:03,568 - INFO - Movido '010.NIC 1 Presentación de estados financieros.pdf' a 'PDFs'
+2025-07-09 09:30:03,578 - INFO - Movido '109012024RDEV1103268080924.pdf' a 'PDFs'
+2025-07-09 09:30:03,604 - INFO - Movido 'Angel Referencia personal .docx' a 'Documentos'
+2025-07-09 09:30:03,628 - INFO - Movido 'Angel.docx' a 'Documentos'
+2025-07-09 09:30:03,666 - INFO - Movido 'archivodiapositiva_2023514182731.pptx' a 'Documentos'
+2025-07-09 09:30:03,683 - INFO - Movido 'CLASES MAYOR GENERAL.xlsx' a 'Documentos'
+2025-07-09 09:30:03,694 - INFO - Movido 'COSAS DE ANGEL.rar' a 'Otros'
+2025-07-09 09:30:03,710 - INFO - Movido 'Derecho.pdf' a 'PDFs'
+2025-07-09 09:30:03,721 - INFO - Movido 'Dialnet-LasRetencionesDelIVAYLaFuenteYSuIncidenciaEnElFunc-8219351.pdf' a 'PDFs'
+2025-07-09 09:30:03,738 - INFO - Movido 'economia ( trabajo investigativo) .pdf' a 'PDFs'
+2025-07-09 09:30:03,759 - INFO - Movido 'Economia.docx' a 'Documentos'
+2025-07-09 09:30:03,782 - INFO - Movido 'Exposicion .docx' a 'Documentos'
+2025-07-09 09:30:03,802 - INFO - Movido 'Exposicion.docx' a 'Documentos'
+2025-07-09 09:30:03,821 - INFO - Movido 'Exposición .pdf' a 'PDFs'
+2025-07-09 09:30:03,832 - INFO - Movido 'hoja de vida.pdf' a 'PDFs'
+2025-07-09 09:30:03,847 - INFO - Movido 'kardex(1).xlsx' a 'Documentos'
+2025-07-09 09:30:03,882 - INFO - Movido 'Libro DEVIES.docx' a 'Documentos'
+2025-07-09 09:30:03,899 - INFO - Movido 'Libro1.xlsx' a 'Documentos'
+2025-07-09 09:30:03,916 - INFO - Movido 'Libro2.xlsx' a 'Documentos'
+2025-07-09 09:30:03,932 - INFO - Movido 'Lista Angel.docx' a 'Documentos'
+2025-07-09 09:30:03,947 - INFO - Movido 'NAC-DGERCGC20-00000061.pdf' a 'PDFs'
+2025-07-09 09:30:03,984 - INFO - Movido 'photo_2024-10-06_18-34-33.jpg' a 'Fotos'
+2025-07-09 09:30:04,000 - INFO - Movido 'PLANTILLA TAREAS UNEMI - copia.docx' a 'Documentos'
+2025-07-09 09:30:04,017 - INFO - Movido 'PLANTILLA TAREAS UNEMI - Copy.docx' a 'Documentos'
+2025-07-09 09:30:04,031 - INFO - Movido 'Practico.pdf' a 'PDFs'
+2025-07-09 09:30:04,051 - INFO - Movido 'st.png' a 'Fotos'
+2025-07-09 09:30:04,070 - INFO - Movido 'TALLER 1.pdf' a 'PDFs'
+2025-07-09 09:30:04,086 - INFO - Movido 'TALLER 1.xlsx' a 'Documentos'
+2025-07-09 09:30:04,103 - INFO - Movido 'TALLER 2.xlsx' a 'Documentos'
+2025-07-09 09:30:04,121 - INFO - Movido 'TALLER PRACTICO - EXAMEN.docx' a 'Documentos'
+2025-07-09 09:30:04,155 - INFO - Movido 'Taller.pdf' a 'PDFs'
+2025-07-09 09:30:04,192 - INFO - Movido 'talleres.pdf' a 'PDFs'
+2025-07-09 09:30:04,209 - INFO - Movido 'Tarea 1 de mate.docx' a 'Documentos'
+2025-07-09 09:30:04,236 - INFO - Movido 'Tarea 1 de mate.pdf' a 'PDFs'
+2025-07-09 09:30:04,256 - INFO - Movido 'Tarea 1.pdf' a 'PDFs'
+2025-07-09 09:30:04,294 - INFO - Movido 'TAREA 2.docx' a 'Documentos'
+2025-07-09 09:30:04,307 - INFO - Movido 'TAREA 2.pdf' a 'PDFs'
+2025-07-09 09:30:04,336 - INFO - Movido 'Trabajo de investigacion .pdf' a 'PDFs'
+2025-07-09 09:30:04,366 - INFO - Movido 'Trabajo de investigacion edit.docx' a 'Documentos'
+2025-07-09 09:30:04,414 - INFO - Movido 'Trabajo de investigacion edit.pdf' a 'PDFs'
+2025-07-09 09:30:04,432 - INFO - Movido 'Trabajo experimental.docx' a 'Documentos'
+2025-07-09 09:30:04,468 - INFO - Movido 'Trabajo experimental.pdf' a 'PDFs'
+2025-07-09 09:30:04,485 - INFO - Movido 'Trabajo experimental.xlsx' a 'Documentos'
+2025-07-09 09:30:04,519 - INFO - Movido 'Trabajo investigativo economia.docx' a 'Documentos'
+2025-07-09 09:30:04,543 - INFO - Movido 'Trabajo investigativo economia.pdf' a 'PDFs'
+2025-07-09 09:30:04,569 - INFO - Movido 'Trabajo investigativo matematica.pdf' a 'PDFs'
+2025-07-09 09:30:04,599 - INFO - Movido 'Trabajo practivo experimental.docx' a 'Documentos'
+2025-07-09 09:30:04,637 - INFO - Movido 'TRABAJO PRÁCTICO.docx' a 'Documentos'
+2025-07-09 09:30:04,665 - INFO - Movido 'U1 TEMA 1 CUENTAS CONTABLES.pdf' a 'PDFs'
+2025-07-09 09:30:04,689 - INFO - Movido 'U1 TEMA 2 LA ECUACION CONTABLE.pdf' a 'PDFs'
+2025-07-09 09:30:04,727 - INFO - Movido 'U1 TEMA 3 REGISTROS CONTABLE.pdf' a 'PDFs'
+2025-07-09 09:30:04,775 - INFO - Movido 'WIN_20241127_11_25_30_Pro.jpg' a 'Fotos'
+2025-07-09 09:30:04,798 - INFO - Movido 'スティーブン.jpg' a 'Fotos'
+2025-07-09 09:30:04,810 - INFO - Organización de archivos completada.
+2025-07-09 09:30:05,322 - INFO - Gráfico generado como cadena base64.
+2025-07-09 09:30:05,339 - INFO - Organización de archivos completada exitosamente.
+2025-07-09 09:30:52,996 - INFO - Escaneando 9 archivos en busca de duplicados en C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos
+2025-07-09 09:30:53,141 - INFO - Escaneo de duplicados completado. Encontrados 1 grupos de duplicados.
+2025-07-09 09:31:03,197 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\スティーブン - copia (3).jpg
+2025-07-09 09:31:03,198 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\スティーブン - copia (4).jpg
+2025-07-09 09:31:03,199 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\スティーブン - copia (5).jpg
+2025-07-09 09:31:03,201 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\スティーブン - copia.jpg
+2025-07-09 09:31:03,202 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\スティーブン.jpg
+2025-07-09 09:31:03,234 - INFO - Escaneando 4 archivos en busca de duplicados en C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos
+2025-07-09 09:31:03,306 - INFO - Escaneo de duplicados completado. Encontrados 0 grupos de duplicados.
+2025-07-09 09:31:25,551 - INFO - Redimensionado: photo_2024-10-06_18-34-33.jpg -> 640x360
+2025-07-09 09:31:25,839 - INFO - Redimensionado: st.png -> 780x1000
+2025-07-09 09:31:25,897 - INFO - Redimensionado: WIN_20241127_11_25_30_Pro.jpg -> 640x360
+2025-07-09 09:31:26,107 - INFO - Redimensionado: スティーブン - copia (2).jpg -> 780x1000
+2025-07-09 09:31:26,126 - INFO - Redimensionamiento de imágenes completado.
+2025-07-09 09:31:55,681 - INFO - Convertido photo_2024-10-06_18-34-33.jpg a png
+2025-07-09 09:31:55,735 - INFO - Convertido st.png a png
+2025-07-09 09:31:55,840 - INFO - Convertido WIN_20241127_11_25_30_Pro.jpg a png
+2025-07-09 09:31:55,913 - INFO - Convertido スティーブン - copia (2).jpg a png
+2025-07-09 09:31:55,932 - INFO - Conversión de imágenes completada. 4 archivos convertidos a png.
+2025-07-09 09:35:53,430 - INFO - Escaneando 14 archivos en busca de duplicados en C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos
+2025-07-09 09:35:53,765 - INFO - Escaneo de duplicados completado. Encontrados 1 grupos de duplicados.
+2025-07-09 09:36:04,514 - INFO - Escaneando 14 archivos en busca de duplicados en C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos
+2025-07-09 09:36:04,819 - INFO - Escaneo de duplicados completado. Encontrados 1 grupos de duplicados.
+2025-07-09 09:50:22,974 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\photo_2024-10-06_18-34-33 - copia (2).png
+2025-07-09 09:50:22,974 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\photo_2024-10-06_18-34-33 - copia (3).png
+2025-07-09 09:50:22,975 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\photo_2024-10-06_18-34-33 - copia (4).png
+2025-07-09 09:50:22,975 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\photo_2024-10-06_18-34-33 - copia (6).png
+2025-07-09 09:50:22,976 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\photo_2024-10-06_18-34-33 - copia (7).png
+2025-07-09 09:50:22,976 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\photo_2024-10-06_18-34-33 - copia.png
+2025-07-09 09:50:22,977 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\photo_2024-10-06_18-34-33.png
+2025-07-09 09:50:22,985 - INFO - Escaneando 7 archivos en busca de duplicados en C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos
+2025-07-09 09:50:23,023 - INFO - Escaneo de duplicados completado. Encontrados 0 grupos de duplicados.
