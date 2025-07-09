@@ -1,19 +1,43 @@
-# Administrador de Archivos Multi-herramienta
+# 📁 Administrador de Archivos Multi-herramienta
 
-Este es un administrador de archivos basado en Flet que proporciona varias utilidades para organizar, limpiar y procesar tus archivos de manera eficiente.
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Flet](https://img.shields.io/badge/Flet-UI-purple?style=for-the-badge&logo=flet&logoColor=white)](https://flet.dev/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-## Características
+Este es un **Administrador de Archivos** completo desarrollado con **Flet**, diseñado para simplificar y automatizar diversas tareas de gestión de archivos en tu sistema. Desde la organización de tu librería multimedia hasta la limpieza de duplicados y el procesamiento de imágenes, esta herramienta centraliza varias utilidades esenciales en una interfaz de usuario intuitiva y moderna.
 
-* **Organizador de Archivos:** Categoriza y mueve automáticamente tus archivos en carpetas predefinidas (Música, Fotos, Documentos, Videos) o personalizadas basadas en sus extensiones.
-* **Eliminador de Duplicados:** Escanea un directorio en busca de archivos duplicados (basado en hash) y te permite previsualizarlos y eliminar los seleccionados.
-* **Redimensionador de Imágenes:** Procesa imágenes por lotes desde una carpeta de origen, permitiéndote redimensionarlas a un ancho/alto específico o a un porcentaje del tamaño original.
-* **Conversor de Imágenes:** Convierte lotes de imágenes a diferentes formatos (PNG, JPEG, GIF, BMP, WebP) manteniendo la calidad.
-* **Renombrador de Archivos:** Renombra archivos en un directorio con prefijos, sufijos y numeración secuencial, con una función de previsualización.
-* **Fusionador de PDFs:** Combina múltiples archivos PDF en un solo documento.
+## ✨ Características Principales
 
-## Estructura del Proyecto
+El programa ofrece las siguientes funcionalidades, accesibles a través de pestañas dedicadas:
 
-El proyecto está organizado en varios módulos para una mejor modularidad y mantenimiento:
+* **Organizador de Archivos:**
+    * Clasifica automáticamente archivos en carpetas predefinidas (Música, Fotos, Documentos, Videos) o categorías personalizadas basadas en sus extensiones.
+    * Genera un resumen textual y un gráfico visual de la distribución de archivos en el directorio procesado.
+    * Ideal para mantener tu directorio de descargas o cualquier carpeta grande ordenada.
+
+* **Eliminador de Duplicados:**
+    * Escanea un directorio para encontrar archivos idénticos utilizando la verificación de hash.
+    * Presenta una lista clara de duplicados, permitiéndote seleccionar cuáles deseas eliminar para liberar espacio en disco.
+
+* **Redimensionador de Imágenes:**
+    * Procesa lotes de imágenes, permitiendo redimensionarlas a dimensiones específicas (ancho/alto en píxeles) o a un porcentaje de su tamaño original.
+    * Útil para optimizar imágenes para la web o para colecciones personales.
+
+* **Conversor de Imágenes:**
+    * Convierte colecciones completas de imágenes de un formato a otro (ej., JPG a PNG, PNG a WebP).
+    * Soporta formatos comunes como PNG, JPEG, GIF, BMP y WebP.
+
+* **Renombrador de Archivos:**
+    * Renombra masivamente archivos en un directorio añadiendo prefijos, sufijos y una numeración secuencial.
+    * Ofrece una función de previsualización para asegurar que los nuevos nombres son los deseados antes de aplicar los cambios.
+
+* **Fusionador de PDFs:**
+    * Combina varios archivos PDF en un único documento consolidado.
+    * Perfecto para unir reportes, capítulos o cualquier conjunto de documentos PDF.
+
+## 📂 Estructura del Proyecto
+
+El proyecto está modularizado para una mejor organización y mantenimiento:
 
 .
 ├── project.py                # Archivo principal de la aplicación Flet
@@ -25,27 +49,49 @@ El proyecto está organizado en varios módulos para una mejor modularidad y man
 └── file_manager.log      # Archivo de registro de la aplicación
 
 
-## Requisitos
+## 🛠️ Requisitos e Instalación
 
-Asegúrate de tener Python 3.9 o superior instalado.
+Asegúrate de tener **Python 3.9 o superior** instalado en tu sistema.
 
-Para instalar las dependencias necesarias, ejecuta el siguiente comando:
+Para instalar las bibliotecas necesarias, ejecuta el siguiente comando en tu terminal:
 
 ```bash
-pip install -r requirements.txt
+pip install flet Pillow PyPDF2 matplotlib numpy
 
+flet: Framework para construir la interfaz de usuario.
+Pillow (PIL Fork): Biblioteca de procesamiento de imágenes.
+PyPDF2: Para la manipulación de archivos PDF (fusión).
+matplotlib: Para la generación de gráficos de resumen.
+numpy: Dependencia numérica de matplotlib.
 
-Uso
-Clona o descarga el repositorio.
+🚀 Uso
+Clona o descarga este repositorio en tu máquina local.
 
-Asegúrate de tener todas las dependencias instaladas (ver sección "Requisitos").
+Navega al directorio del proyecto en tu terminal.
 
 Ejecuta la aplicación principal:
 
 python main.py
 
-Cómo usar cada funcionalidad:
-1. Organizar Archivos
+Una ventana de la aplicación de escritorio se abrirá, presentándote la interfaz con todas las funcionalidades.
+
+
+Guía Rápida de Funcionalidades:
+Organizar Archivos: Selecciona la "Ruta de Origen", define tus preferencias de carpetas (por defecto o personalizadas) y haz clic en "Organizar Archivos".
+
+Eliminar Duplicados: Elige la "Carpeta para Duplicados", "Escanear Duplicados", revisa la lista y selecciona los archivos a "Eliminar Seleccionados".
+
+Redimensionar Imágenes: Especifica "Carpeta de Origen" y "Carpeta de Destino", introduce las dimensiones o porcentaje deseado y "Redimensionar Imágenes".
+
+Renombrar Archivos: Selecciona la "Carpeta a Renombrar", configura prefijos/sufijos/inicio numérico, "Previsualizar Renombrado" y luego "Realizar Renombrado".
+
+Fusionar PDFs: Haz clic en "Seleccionar PDFs para Fusionar", elige tus archivos, ingresa un "Nombre del PDF de Salida" y "Fusionar PDFs".
+
+Convertir Imágenes: Elige "Carpeta de Origen" y "Carpeta de Destino", selecciona el "Formato de Destino" y haz clic en "Convertir Imágenes".
+
+
+## Cómo usar cada funcionalidad:
+* *1. Organizar Archivos
 Ruta de Origen: Selecciona la carpeta que deseas organizar.
 
 Carpetas por Defecto: Puedes cambiar los nombres de las carpetas por defecto (Música, Fotos, Documentos, Videos).
@@ -105,8 +151,8 @@ Formato de Destino: Elige el formato al que deseas convertir las imágenes (ej. 
 
 Haz clic en "Convertir Imágenes".
 
-Registro de Actividades
-La aplicación registra sus actividades en un archivo file_manager.log dentro de la carpeta assets/. Esto es útil para depurar problemas o revisar las operaciones realizadas.
+📝 Registro de Actividades
+Todas las operaciones importantes y errores son registrados en el archivo assets/file_manager.log. Esto es útil para la depuración y para mantener un registro de las acciones realizadas por la aplicación.
 
-Licencia
-Este proyecto está bajo la licencia [SAVC16, MundoCode777].
+📄 Licencia
+Este proyecto está distribuido bajo la licencia [SAVC16, MundoCode777].
