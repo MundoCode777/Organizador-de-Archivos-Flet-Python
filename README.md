@@ -2,6 +2,8 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Flet](https://img.shields.io/badge/Flet-UI-purple?style=for-the-badge&logo=flet&logoColor=white)](https://flet.dev/)
+[![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge&logo=lock&logoColor=white)](./LICENSE)
+[![Copyright](https://img.shields.io/badge/Copyright-All%20Rights%20Reserved-grey?style=for-the-badge&logo=copyright&logoColor=white)](./LICENSE)
 
 Este es un **Administrador de Archivos** completo desarrollado con **Flet**, diseñado para simplificar y automatizar diversas tareas de gestión de archivos en tu sistema. Desde la organización de tu librería multimedia hasta la limpieza de duplicados y el procesamiento de imágenes, esta herramienta centraliza varias utilidades esenciales en una interfaz de usuario intuitiva y moderna.
 
@@ -146,7 +148,12 @@ El proyecto está modularizado para una mejor organización y mantenimiento:
 Todas las operaciones importantes y errores son registrados en el archivo assets/file_manager.log. Esto es útil para la depuración y para mantener un registro de las acciones realizadas por la aplicación.
 
 ## 📄 Licencia
-Este proyecto está distribuido bajo la licencia [SAVC16, MundoCode777].
+
+Este software es **privado y propietario**. Todos los derechos están reservados por SAVC16 y MundoCode777.
+
+La copia, modificación, distribución o cualquier uso de este software sin la **autorización expresa y por escrito** de los desarrolladores está estrictamente prohibida.
+
+Para cualquier consulta sobre licencias o colaboraciones, por favor, póngase en contacto directamente con los desarrolladores.
 
 ## 🛠️ Requisitos e Instalación
 

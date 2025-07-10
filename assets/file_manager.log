@@ -6073,3 +6073,156 @@ TypeError: SnackBar.__init__() got an unexpected keyword argument 'show_close_bu
 2025-07-09 09:50:22,977 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\photo_2024-10-06_18-34-33.png
 2025-07-09 09:50:22,985 - INFO - Escaneando 7 archivos en busca de duplicados en C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos
 2025-07-09 09:50:23,023 - INFO - Escaneo de duplicados completado. Encontrados 0 grupos de duplicados.
+2025-07-09 19:33:41,889 - INFO - Assets path configured: C:\Users\villa\OneDrive\Documentos\GitHub\Organizador-de-Archivos-Flet-Python\assets
+2025-07-09 19:33:42,256 - INFO - Starting up TCP server on localhost:61398
+2025-07-09 19:33:42,351 - INFO - Flet app has started...
+2025-07-09 19:33:42,429 - INFO - App URL: tcp://localhost:61398
+2025-07-09 19:33:42,429 - INFO - Starting Flet View app...
+2025-07-09 19:33:42,433 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 19:33:42,434 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 19:33:44,533 - INFO - App session started
+2025-07-09 19:34:21,414 - INFO - Carpeta personalizada añadida: PDFs con extensiones ['pdf']
+2025-07-09 19:34:23,584 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\PDFs
+2025-07-09 19:34:23,585 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Música
+2025-07-09 19:34:23,586 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos
+2025-07-09 19:34:23,586 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Documentos
+2025-07-09 19:34:23,587 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Videos
+2025-07-09 19:34:23,587 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Otros
+2025-07-09 19:34:23,592 - INFO - Iniciando organización de 54 archivos en C:\Users\villa\Downloads\COSAS DE ANGEL - copia
+2025-07-09 19:34:23,594 - INFO - Movido '010.NIC 1 Presentación de estados financieros (1).pdf' a 'PDFs'
+2025-07-09 19:34:23,600 - INFO - Movido '010.NIC 1 Presentación de estados financieros.pdf' a 'PDFs'
+2025-07-09 19:34:23,607 - INFO - Movido '109012024RDEV1103268080924.pdf' a 'PDFs'
+2025-07-09 19:34:23,613 - INFO - Movido 'Angel Referencia personal .docx' a 'Documentos'
+2025-07-09 19:34:23,620 - INFO - Movido 'Angel.docx' a 'Documentos'
+2025-07-09 19:34:23,626 - INFO - Movido 'archivodiapositiva_2023514182731.pptx' a 'Documentos'
+2025-07-09 19:34:23,633 - INFO - Movido 'CLASES MAYOR GENERAL.xlsx' a 'Documentos'
+2025-07-09 19:34:23,638 - INFO - Movido 'COSAS DE ANGEL.rar' a 'Otros'
+2025-07-09 19:34:23,645 - INFO - Movido 'Derecho.pdf' a 'PDFs'
+2025-07-09 19:34:23,651 - INFO - Movido 'Dialnet-LasRetencionesDelIVAYLaFuenteYSuIncidenciaEnElFunc-8219351.pdf' a 'PDFs'
+2025-07-09 19:34:23,658 - INFO - Movido 'economia ( trabajo investigativo) .pdf' a 'PDFs'
+2025-07-09 19:34:23,664 - INFO - Movido 'Economia.docx' a 'Documentos'
+2025-07-09 19:34:23,670 - INFO - Movido 'Exposicion .docx' a 'Documentos'
+2025-07-09 19:34:23,677 - INFO - Movido 'Exposicion.docx' a 'Documentos'
+2025-07-09 19:34:23,683 - INFO - Movido 'Exposición .pdf' a 'PDFs'
+2025-07-09 19:34:23,689 - INFO - Movido 'hoja de vida.pdf' a 'PDFs'
+2025-07-09 19:34:23,696 - INFO - Movido 'kardex(1).xlsx' a 'Documentos'
+2025-07-09 19:34:23,707 - INFO - Movido 'Libro DEVIES.docx' a 'Documentos'
+2025-07-09 19:34:23,714 - INFO - Movido 'Libro1.xlsx' a 'Documentos'
+2025-07-09 19:34:23,720 - INFO - Movido 'Libro2.xlsx' a 'Documentos'
+2025-07-09 19:34:23,726 - INFO - Movido 'Lista Angel.docx' a 'Documentos'
+2025-07-09 19:34:23,731 - INFO - Movido 'NAC-DGERCGC20-00000061.pdf' a 'PDFs'
+2025-07-09 19:34:23,741 - INFO - Movido 'photo_2024-10-06_18-34-33.jpg' a 'Fotos'
+2025-07-09 19:34:23,748 - INFO - Movido 'PLANTILLA TAREAS UNEMI - copia.docx' a 'Documentos'
+2025-07-09 19:34:23,756 - INFO - Movido 'PLANTILLA TAREAS UNEMI - Copy.docx' a 'Documentos'
+2025-07-09 19:34:23,768 - INFO - Movido 'Practico.pdf' a 'PDFs'
+2025-07-09 19:34:23,774 - INFO - Movido 'st.png' a 'Fotos'
+2025-07-09 19:34:23,784 - INFO - Movido 'TALLER 1.pdf' a 'PDFs'
+2025-07-09 19:34:23,794 - INFO - Movido 'TALLER 1.xlsx' a 'Documentos'
+2025-07-09 19:34:23,803 - INFO - Movido 'TALLER 2.xlsx' a 'Documentos'
+2025-07-09 19:34:23,811 - INFO - Movido 'TALLER PRACTICO - EXAMEN.docx' a 'Documentos'
+2025-07-09 19:34:23,819 - INFO - Movido 'Taller.pdf' a 'PDFs'
+2025-07-09 19:34:23,825 - INFO - Movido 'talleres.pdf' a 'PDFs'
+2025-07-09 19:34:23,832 - INFO - Movido 'Tarea 1 de mate.docx' a 'Documentos'
+2025-07-09 19:34:23,837 - INFO - Movido 'Tarea 1 de mate.pdf' a 'PDFs'
+2025-07-09 19:34:23,847 - INFO - Movido 'Tarea 1.pdf' a 'PDFs'
+2025-07-09 19:34:23,853 - INFO - Movido 'TAREA 2.docx' a 'Documentos'
+2025-07-09 19:34:23,860 - INFO - Movido 'TAREA 2.pdf' a 'PDFs'
+2025-07-09 19:34:23,866 - INFO - Movido 'Trabajo de investigacion .pdf' a 'PDFs'
+2025-07-09 19:34:23,872 - INFO - Movido 'Trabajo de investigacion edit.docx' a 'Documentos'
+2025-07-09 19:34:23,878 - INFO - Movido 'Trabajo de investigacion edit.pdf' a 'PDFs'
+2025-07-09 19:34:23,885 - INFO - Movido 'Trabajo experimental.docx' a 'Documentos'
+2025-07-09 19:34:23,892 - INFO - Movido 'Trabajo experimental.pdf' a 'PDFs'
+2025-07-09 19:34:23,899 - INFO - Movido 'Trabajo experimental.xlsx' a 'Documentos'
+2025-07-09 19:34:23,906 - INFO - Movido 'Trabajo investigativo economia.docx' a 'Documentos'
+2025-07-09 19:34:23,912 - INFO - Movido 'Trabajo investigativo economia.pdf' a 'PDFs'
+2025-07-09 19:34:23,919 - INFO - Movido 'Trabajo investigativo matematica.pdf' a 'PDFs'
+2025-07-09 19:34:23,931 - INFO - Movido 'Trabajo practivo experimental.docx' a 'Documentos'
+2025-07-09 19:34:23,938 - INFO - Movido 'TRABAJO PRÁCTICO.docx' a 'Documentos'
+2025-07-09 19:34:23,944 - INFO - Movido 'U1 TEMA 1 CUENTAS CONTABLES.pdf' a 'PDFs'
+2025-07-09 19:34:23,950 - INFO - Movido 'U1 TEMA 2 LA ECUACION CONTABLE.pdf' a 'PDFs'
+2025-07-09 19:34:23,957 - INFO - Movido 'U1 TEMA 3 REGISTROS CONTABLE.pdf' a 'PDFs'
+2025-07-09 19:34:23,962 - INFO - Movido 'WIN_20241127_11_25_30_Pro.jpg' a 'Fotos'
+2025-07-09 19:34:23,967 - INFO - Movido 'スティーブン.jpg' a 'Fotos'
+2025-07-09 19:34:23,971 - INFO - Organización de archivos completada.
+2025-07-09 19:34:24,277 - INFO - Gráfico generado como cadena base64.
+2025-07-09 19:34:24,282 - INFO - Organización de archivos completada exitosamente.
+2025-07-09 19:34:52,569 - INFO - Escaneando 4 archivos en busca de duplicados en C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos
+2025-07-09 19:34:52,621 - INFO - Escaneo de duplicados completado. Encontrados 0 grupos de duplicados.
+2025-07-09 19:35:03,619 - INFO - Escaneando 16 archivos en busca de duplicados en C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos
+2025-07-09 19:35:03,735 - INFO - Escaneo de duplicados completado. Encontrados 4 grupos de duplicados.
+2025-07-09 19:35:11,337 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\photo_2024-10-06_18-34-33 - copia (3).jpg
+2025-07-09 19:35:11,338 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\photo_2024-10-06_18-34-33 - copia.jpg
+2025-07-09 19:35:11,338 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\photo_2024-10-06_18-34-33.jpg
+2025-07-09 19:35:11,339 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\st - copia (3).png
+2025-07-09 19:35:11,339 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\st - copia.png
+2025-07-09 19:35:11,339 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\st.png
+2025-07-09 19:35:11,340 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\WIN_20241127_11_25_30_Pro - copia (3).jpg
+2025-07-09 19:35:11,340 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\WIN_20241127_11_25_30_Pro - copia.jpg
+2025-07-09 19:35:11,341 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\WIN_20241127_11_25_30_Pro.jpg
+2025-07-09 19:35:11,341 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\スティーブン - copia (3).jpg
+2025-07-09 19:35:11,341 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\スティーブン - copia.jpg
+2025-07-09 19:35:11,342 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\スティーブン.jpg
+2025-07-09 19:35:11,351 - INFO - Escaneando 4 archivos en busca de duplicados en C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos
+2025-07-09 19:35:11,370 - INFO - Escaneo de duplicados completado. Encontrados 0 grupos de duplicados.
+2025-07-09 19:35:35,867 - INFO - Redimensionado: photo_2024-10-06_18-34-33 - copia (2).jpg -> 1280x720
+2025-07-09 19:35:35,957 - INFO - Redimensionado: st - copia (2).png -> 1560x2000
+2025-07-09 19:35:35,974 - INFO - Redimensionado: WIN_20241127_11_25_30_Pro - copia (2).jpg -> 1280x720
+2025-07-09 19:35:36,010 - INFO - Redimensionado: スティーブン - copia (2).jpg -> 1560x2000
+2025-07-09 19:35:36,019 - INFO - Redimensionamiento de imágenes completado.
+2025-07-09 19:36:23,409 - INFO - Convertido photo_2024-10-06_18-34-33 - copia (2).jpg a png
+2025-07-09 19:36:23,490 - INFO - Convertido st - copia (2).png a png
+2025-07-09 19:36:23,672 - INFO - Convertido WIN_20241127_11_25_30_Pro - copia (2).jpg a png
+2025-07-09 19:36:23,789 - INFO - Convertido スティーブン - copia (2).jpg a png
+2025-07-09 19:36:23,796 - INFO - Conversión de imágenes completada. 4 archivos convertidos a png.
+2025-07-09 19:36:54,978 - INFO - Assets path configured: C:\Users\villa\OneDrive\Documentos\GitHub\Organizador-de-Archivos-Flet-Python\assets
+2025-07-09 19:36:54,980 - INFO - Starting up TCP server on localhost:61717
+2025-07-09 19:36:54,988 - INFO - Flet app has started...
+2025-07-09 19:36:54,993 - INFO - App URL: tcp://localhost:61717
+2025-07-09 19:36:54,994 - INFO - Starting Flet View app...
+2025-07-09 19:36:54,995 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 19:36:54,995 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 19:36:55,189 - INFO - App session started
+2025-07-09 19:37:13,620 - INFO - Assets path configured: C:\Users\villa\OneDrive\Documentos\GitHub\Organizador-de-Archivos-Flet-Python\assets
+2025-07-09 19:37:13,622 - INFO - Starting up TCP server on localhost:61755
+2025-07-09 19:37:13,631 - INFO - Flet app has started...
+2025-07-09 19:37:13,635 - INFO - App URL: tcp://localhost:61755
+2025-07-09 19:37:13,635 - INFO - Starting Flet View app...
+2025-07-09 19:37:13,637 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 19:37:13,637 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 19:37:13,832 - INFO - App session started
+2025-07-09 19:46:56,701 - INFO - Assets path configured: C:\Users\villa\OneDrive\Documentos\GitHub\Organizador-de-Archivos-Flet-Python\assets
+2025-07-09 19:46:56,703 - INFO - Starting up TCP server on localhost:62934
+2025-07-09 19:46:56,710 - INFO - Flet app has started...
+2025-07-09 19:46:56,714 - INFO - App URL: tcp://localhost:62934
+2025-07-09 19:46:56,714 - INFO - Starting Flet View app...
+2025-07-09 19:46:56,715 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 19:46:56,715 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 19:46:56,936 - INFO - App session started
+2025-07-09 19:47:33,306 - INFO - Assets path configured: C:\Users\villa\OneDrive\Documentos\GitHub\Organizador-de-Archivos-Flet-Python\assets
+2025-07-09 19:47:33,309 - INFO - Starting up TCP server on localhost:63021
+2025-07-09 19:47:33,317 - INFO - Flet app has started...
+2025-07-09 19:47:33,323 - INFO - App URL: tcp://localhost:63021
+2025-07-09 19:47:33,323 - INFO - Starting Flet View app...
+2025-07-09 19:47:33,325 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 19:47:33,326 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 19:47:33,516 - INFO - App session started
+2025-07-09 19:47:45,527 - INFO - Convertido 63f1ed9914137d31cb1d7ae4-hacker-programming-sticker-set-of-50.jpg a jpeg
+2025-07-09 19:47:45,913 - INFO - Convertido D_NQ_NP_2X_768188-MLA54464678535_032023-F.webp a jpeg
+2025-07-09 19:47:45,929 - INFO - Convertido FV3Il_0XEAIHBFE.jpeg a jpeg
+2025-07-09 19:47:45,934 - INFO - Convertido Pegatinas_ Tecnologada.jpeg a jpeg
+2025-07-09 19:47:45,937 - INFO - Conversión de imágenes completada. 4 archivos convertidos a jpeg.
+2025-07-09 19:48:22,708 - INFO - Assets path configured: C:\Users\villa\OneDrive\Documentos\GitHub\Organizador-de-Archivos-Flet-Python\assets
+2025-07-09 19:48:22,710 - INFO - Starting up TCP server on localhost:63112
+2025-07-09 19:48:22,716 - INFO - Flet app has started...
+2025-07-09 19:48:22,720 - INFO - App URL: tcp://localhost:63112
+2025-07-09 19:48:22,721 - INFO - Starting Flet View app...
+2025-07-09 19:48:22,721 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 19:48:22,722 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 19:48:22,901 - INFO - App session started
+2025-07-09 19:48:30,737 - INFO - Convertido 63f1ed9914137d31cb1d7ae4-hacker-programming-sticker-set-of-50.jpeg a png
+2025-07-09 19:48:30,824 - INFO - Convertido 63f1ed9914137d31cb1d7ae4-hacker-programming-sticker-set-of-50.jpg a png
+2025-07-09 19:48:30,939 - INFO - Convertido D_NQ_NP_2X_768188-MLA54464678535_032023-F.jpeg a png
+2025-07-09 19:48:31,107 - INFO - Convertido D_NQ_NP_2X_768188-MLA54464678535_032023-F.webp a png
+2025-07-09 19:48:31,179 - INFO - Convertido FV3Il_0XEAIHBFE.jpeg a png
+2025-07-09 19:48:31,193 - INFO - Convertido Pegatinas_ Tecnologada.jpeg a png
+2025-07-09 19:48:31,196 - INFO - Conversión de imágenes completada. 6 archivos convertidos a png.
