@@ -1,4 +1,3 @@
-# config.py
 # Define los tipo de archivos predeterminados en las carpetas
 # y la ruta del archivo de log centralizado.
 

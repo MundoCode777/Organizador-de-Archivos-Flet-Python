@@ -1,4 +1,3 @@
-# organizador_archivos.py
 import os
 import shutil
 import logging

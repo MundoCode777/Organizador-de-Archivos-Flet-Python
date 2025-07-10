@@ -1,4 +1,3 @@
-# buscador_duplicados.py
 import os
 import hashlib
 import asyncio
