@@ -6226,3 +6226,1041 @@ TypeError: SnackBar.__init__() got an unexpected keyword argument 'show_close_bu
 2025-07-09 19:48:31,179 - INFO - Convertido FV3Il_0XEAIHBFE.jpeg a png
 2025-07-09 19:48:31,193 - INFO - Convertido Pegatinas_ Tecnologada.jpeg a png
 2025-07-09 19:48:31,196 - INFO - Conversión de imágenes completada. 6 archivos convertidos a png.
+2025-07-09 20:50:48,059 - INFO - Assets path configured: C:\Users\villa\OneDrive\Documentos\GitHub\Organizador-de-Archivos-Flet-Python\assets
+2025-07-09 20:50:48,061 - INFO - Starting up TCP server on localhost:49220
+2025-07-09 20:50:48,069 - INFO - Flet app has started...
+2025-07-09 20:50:48,074 - INFO - App URL: tcp://localhost:49220
+2025-07-09 20:50:48,074 - INFO - Starting Flet View app...
+2025-07-09 20:50:48,075 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 20:50:48,075 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 20:50:48,264 - INFO - App session started
+2025-07-09 20:52:27,839 - INFO - Assets path configured: C:\Users\villa\OneDrive\Documentos\GitHub\Organizador-de-Archivos-Flet-Python\assets
+2025-07-09 20:52:27,841 - INFO - Starting up TCP server on localhost:49279
+2025-07-09 20:52:27,847 - INFO - Flet app has started...
+2025-07-09 20:52:27,851 - INFO - App URL: tcp://localhost:49279
+2025-07-09 20:52:27,851 - INFO - Starting Flet View app...
+2025-07-09 20:52:27,852 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 20:52:27,852 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 20:52:28,055 - INFO - App session started
+2025-07-09 21:03:10,095 - INFO - Assets path configured: C:\Users\villa\OneDrive\Documentos\GitHub\Organizador-de-Archivos-Flet-Python\assets
+2025-07-09 21:03:10,097 - INFO - Starting up TCP server on localhost:49922
+2025-07-09 21:03:10,105 - INFO - Flet app has started...
+2025-07-09 21:03:10,110 - INFO - App URL: tcp://localhost:49922
+2025-07-09 21:03:10,110 - INFO - Starting Flet View app...
+2025-07-09 21:03:10,111 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 21:03:10,111 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 21:03:10,360 - INFO - App session started
+2025-07-09 21:03:19,633 - INFO - Assets path configured: C:\Users\villa\OneDrive\Documentos\GitHub\Organizador-de-Archivos-Flet-Python\assets
+2025-07-09 21:03:19,635 - INFO - Starting up TCP server on localhost:49935
+2025-07-09 21:03:19,642 - INFO - Flet app has started...
+2025-07-09 21:03:19,646 - INFO - App URL: tcp://localhost:49935
+2025-07-09 21:03:19,646 - INFO - Starting Flet View app...
+2025-07-09 21:03:19,647 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 21:03:19,647 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 21:03:19,857 - INFO - App session started
+2025-07-09 21:04:05,793 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Música
+2025-07-09 21:04:05,794 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos
+2025-07-09 21:04:05,795 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Documentos
+2025-07-09 21:04:05,795 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Videos
+2025-07-09 21:04:05,796 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Otros
+2025-07-09 21:04:05,800 - INFO - Iniciando organización de 54 archivos en C:\Users\villa\Downloads\COSAS DE ANGEL - copia
+2025-07-09 21:04:05,801 - INFO - Movido '010.NIC 1 Presentación de estados financieros (1).pdf' a 'Documentos'
+2025-07-09 21:04:05,819 - INFO - Movido '010.NIC 1 Presentación de estados financieros.pdf' a 'Documentos'
+2025-07-09 21:04:05,824 - INFO - Movido '109012024RDEV1103268080924.pdf' a 'Documentos'
+2025-07-09 21:04:05,828 - INFO - Movido 'Angel Referencia personal .docx' a 'Documentos'
+2025-07-09 21:04:05,832 - INFO - Movido 'Angel.docx' a 'Documentos'
+2025-07-09 21:04:05,836 - INFO - Movido 'archivodiapositiva_2023514182731.pptx' a 'Documentos'
+2025-07-09 21:04:05,839 - INFO - Movido 'CLASES MAYOR GENERAL.xlsx' a 'Documentos'
+2025-07-09 21:04:05,844 - INFO - Movido 'COSAS DE ANGEL.rar' a 'Otros'
+2025-07-09 21:04:05,848 - INFO - Movido 'Derecho.pdf' a 'Documentos'
+2025-07-09 21:04:05,854 - INFO - Movido 'Dialnet-LasRetencionesDelIVAYLaFuenteYSuIncidenciaEnElFunc-8219351.pdf' a 'Documentos'
+2025-07-09 21:04:05,859 - INFO - Movido 'economia ( trabajo investigativo) .pdf' a 'Documentos'
+2025-07-09 21:04:05,862 - INFO - Movido 'Economia.docx' a 'Documentos'
+2025-07-09 21:04:05,866 - INFO - Movido 'Exposicion .docx' a 'Documentos'
+2025-07-09 21:04:05,870 - INFO - Movido 'Exposicion.docx' a 'Documentos'
+2025-07-09 21:04:05,875 - INFO - Movido 'Exposición .pdf' a 'Documentos'
+2025-07-09 21:04:05,880 - INFO - Movido 'hoja de vida.pdf' a 'Documentos'
+2025-07-09 21:04:05,886 - INFO - Movido 'kardex(1).xlsx' a 'Documentos'
+2025-07-09 21:04:05,890 - INFO - Movido 'Libro DEVIES.docx' a 'Documentos'
+2025-07-09 21:04:05,895 - INFO - Movido 'Libro1.xlsx' a 'Documentos'
+2025-07-09 21:04:05,901 - INFO - Movido 'Libro2.xlsx' a 'Documentos'
+2025-07-09 21:04:05,905 - INFO - Movido 'Lista Angel.docx' a 'Documentos'
+2025-07-09 21:04:05,908 - INFO - Movido 'NAC-DGERCGC20-00000061.pdf' a 'Documentos'
+2025-07-09 21:04:05,912 - INFO - Movido 'photo_2024-10-06_18-34-33.jpg' a 'Fotos'
+2025-07-09 21:04:05,915 - INFO - Movido 'PLANTILLA TAREAS UNEMI - copia.docx' a 'Documentos'
+2025-07-09 21:04:05,919 - INFO - Movido 'PLANTILLA TAREAS UNEMI - Copy.docx' a 'Documentos'
+2025-07-09 21:04:05,924 - INFO - Movido 'Practico.pdf' a 'Documentos'
+2025-07-09 21:04:05,927 - INFO - Movido 'st.png' a 'Fotos'
+2025-07-09 21:04:05,930 - INFO - Movido 'TALLER 1.pdf' a 'Documentos'
+2025-07-09 21:04:05,934 - INFO - Movido 'TALLER 1.xlsx' a 'Documentos'
+2025-07-09 21:04:05,939 - INFO - Movido 'TALLER 2.xlsx' a 'Documentos'
+2025-07-09 21:04:05,944 - INFO - Movido 'TALLER PRACTICO - EXAMEN.docx' a 'Documentos'
+2025-07-09 21:04:05,951 - INFO - Movido 'Taller.pdf' a 'Documentos'
+2025-07-09 21:04:05,955 - INFO - Movido 'talleres.pdf' a 'Documentos'
+2025-07-09 21:04:05,962 - INFO - Movido 'Tarea 1 de mate.docx' a 'Documentos'
+2025-07-09 21:04:05,969 - INFO - Movido 'Tarea 1 de mate.pdf' a 'Documentos'
+2025-07-09 21:04:05,974 - INFO - Movido 'Tarea 1.pdf' a 'Documentos'
+2025-07-09 21:04:05,978 - INFO - Movido 'TAREA 2.docx' a 'Documentos'
+2025-07-09 21:04:05,982 - INFO - Movido 'TAREA 2.pdf' a 'Documentos'
+2025-07-09 21:04:05,989 - INFO - Movido 'Trabajo de investigacion .pdf' a 'Documentos'
+2025-07-09 21:04:05,997 - INFO - Movido 'Trabajo de investigacion edit.docx' a 'Documentos'
+2025-07-09 21:04:06,003 - INFO - Movido 'Trabajo de investigacion edit.pdf' a 'Documentos'
+2025-07-09 21:04:06,011 - INFO - Movido 'Trabajo experimental.docx' a 'Documentos'
+2025-07-09 21:04:06,015 - INFO - Movido 'Trabajo experimental.pdf' a 'Documentos'
+2025-07-09 21:04:06,020 - INFO - Movido 'Trabajo experimental.xlsx' a 'Documentos'
+2025-07-09 21:04:06,027 - INFO - Movido 'Trabajo investigativo economia.docx' a 'Documentos'
+2025-07-09 21:04:06,031 - INFO - Movido 'Trabajo investigativo economia.pdf' a 'Documentos'
+2025-07-09 21:04:06,035 - INFO - Movido 'Trabajo investigativo matematica.pdf' a 'Documentos'
+2025-07-09 21:04:06,041 - INFO - Movido 'Trabajo practivo experimental.docx' a 'Documentos'
+2025-07-09 21:04:06,049 - INFO - Movido 'TRABAJO PRÁCTICO.docx' a 'Documentos'
+2025-07-09 21:04:06,054 - INFO - Movido 'U1 TEMA 1 CUENTAS CONTABLES.pdf' a 'Documentos'
+2025-07-09 21:04:06,061 - INFO - Movido 'U1 TEMA 2 LA ECUACION CONTABLE.pdf' a 'Documentos'
+2025-07-09 21:04:06,067 - INFO - Movido 'U1 TEMA 3 REGISTROS CONTABLE.pdf' a 'Documentos'
+2025-07-09 21:04:06,072 - INFO - Movido 'WIN_20241127_11_25_30_Pro.jpg' a 'Fotos'
+2025-07-09 21:04:06,079 - INFO - Movido 'スティーブン.jpg' a 'Fotos'
+2025-07-09 21:04:06,084 - INFO - Organización de archivos completada.
+2025-07-09 21:04:06,305 - INFO - Gráfico generado como cadena base64.
+2025-07-09 21:04:06,309 - INFO - Organización de archivos completada exitosamente.
+2025-07-09 21:04:08,182 - INFO - Carpeta personalizada añadida: PDFs con extensiones ['pdf']
+2025-07-09 21:04:25,081 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\PDFs
+2025-07-09 21:04:25,082 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Música
+2025-07-09 21:04:25,083 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos
+2025-07-09 21:04:25,083 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Documentos
+2025-07-09 21:04:25,084 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Videos
+2025-07-09 21:04:25,084 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Otros
+2025-07-09 21:04:25,089 - INFO - Iniciando organización de 54 archivos en C:\Users\villa\Downloads\COSAS DE ANGEL - copia
+2025-07-09 21:04:25,089 - INFO - Movido '010.NIC 1 Presentación de estados financieros (1).pdf' a 'PDFs'
+2025-07-09 21:04:25,096 - INFO - Movido '010.NIC 1 Presentación de estados financieros.pdf' a 'PDFs'
+2025-07-09 21:04:25,115 - INFO - Movido '109012024RDEV1103268080924.pdf' a 'PDFs'
+2025-07-09 21:04:25,121 - INFO - Movido 'Angel Referencia personal .docx' a 'Documentos'
+2025-07-09 21:04:25,128 - INFO - Movido 'Angel.docx' a 'Documentos'
+2025-07-09 21:04:25,135 - INFO - Movido 'archivodiapositiva_2023514182731.pptx' a 'Documentos'
+2025-07-09 21:04:25,143 - INFO - Movido 'CLASES MAYOR GENERAL.xlsx' a 'Documentos'
+2025-07-09 21:04:25,151 - INFO - Movido 'COSAS DE ANGEL.rar' a 'Otros'
+2025-07-09 21:04:25,156 - INFO - Movido 'Derecho.pdf' a 'PDFs'
+2025-07-09 21:04:25,162 - INFO - Movido 'Dialnet-LasRetencionesDelIVAYLaFuenteYSuIncidenciaEnElFunc-8219351.pdf' a 'PDFs'
+2025-07-09 21:04:25,167 - INFO - Movido 'economia ( trabajo investigativo) .pdf' a 'PDFs'
+2025-07-09 21:04:25,173 - INFO - Movido 'Economia.docx' a 'Documentos'
+2025-07-09 21:04:25,177 - INFO - Movido 'Exposicion .docx' a 'Documentos'
+2025-07-09 21:04:25,181 - INFO - Movido 'Exposicion.docx' a 'Documentos'
+2025-07-09 21:04:25,186 - INFO - Movido 'Exposición .pdf' a 'PDFs'
+2025-07-09 21:04:25,190 - INFO - Movido 'hoja de vida.pdf' a 'PDFs'
+2025-07-09 21:04:25,195 - INFO - Movido 'kardex(1).xlsx' a 'Documentos'
+2025-07-09 21:04:25,199 - INFO - Movido 'Libro DEVIES.docx' a 'Documentos'
+2025-07-09 21:04:25,205 - INFO - Movido 'Libro1.xlsx' a 'Documentos'
+2025-07-09 21:04:25,214 - INFO - Movido 'Libro2.xlsx' a 'Documentos'
+2025-07-09 21:04:25,219 - INFO - Movido 'Lista Angel.docx' a 'Documentos'
+2025-07-09 21:04:25,227 - INFO - Movido 'NAC-DGERCGC20-00000061.pdf' a 'PDFs'
+2025-07-09 21:04:25,234 - INFO - Movido 'photo_2024-10-06_18-34-33.jpg' a 'Fotos'
+2025-07-09 21:04:25,245 - INFO - Movido 'PLANTILLA TAREAS UNEMI - copia.docx' a 'Documentos'
+2025-07-09 21:04:25,251 - INFO - Movido 'PLANTILLA TAREAS UNEMI - Copy.docx' a 'Documentos'
+2025-07-09 21:04:25,259 - INFO - Movido 'Practico.pdf' a 'PDFs'
+2025-07-09 21:04:25,265 - INFO - Movido 'st.png' a 'Fotos'
+2025-07-09 21:04:25,271 - INFO - Movido 'TALLER 1.pdf' a 'PDFs'
+2025-07-09 21:04:25,275 - INFO - Movido 'TALLER 1.xlsx' a 'Documentos'
+2025-07-09 21:04:25,279 - INFO - Movido 'TALLER 2.xlsx' a 'Documentos'
+2025-07-09 21:04:25,283 - INFO - Movido 'TALLER PRACTICO - EXAMEN.docx' a 'Documentos'
+2025-07-09 21:04:25,289 - INFO - Movido 'Taller.pdf' a 'PDFs'
+2025-07-09 21:04:25,293 - INFO - Movido 'talleres.pdf' a 'PDFs'
+2025-07-09 21:04:25,298 - INFO - Movido 'Tarea 1 de mate.docx' a 'Documentos'
+2025-07-09 21:04:25,305 - INFO - Movido 'Tarea 1 de mate.pdf' a 'PDFs'
+2025-07-09 21:04:25,312 - INFO - Movido 'Tarea 1.pdf' a 'PDFs'
+2025-07-09 21:04:25,317 - INFO - Movido 'TAREA 2.docx' a 'Documentos'
+2025-07-09 21:04:25,320 - INFO - Movido 'TAREA 2.pdf' a 'PDFs'
+2025-07-09 21:04:25,324 - INFO - Movido 'Trabajo de investigacion .pdf' a 'PDFs'
+2025-07-09 21:04:25,328 - INFO - Movido 'Trabajo de investigacion edit.docx' a 'Documentos'
+2025-07-09 21:04:25,333 - INFO - Movido 'Trabajo de investigacion edit.pdf' a 'PDFs'
+2025-07-09 21:04:25,337 - INFO - Movido 'Trabajo experimental.docx' a 'Documentos'
+2025-07-09 21:04:25,342 - INFO - Movido 'Trabajo experimental.pdf' a 'PDFs'
+2025-07-09 21:04:25,350 - INFO - Movido 'Trabajo experimental.xlsx' a 'Documentos'
+2025-07-09 21:04:25,361 - INFO - Movido 'Trabajo investigativo economia.docx' a 'Documentos'
+2025-07-09 21:04:25,370 - INFO - Movido 'Trabajo investigativo economia.pdf' a 'PDFs'
+2025-07-09 21:04:25,378 - INFO - Movido 'Trabajo investigativo matematica.pdf' a 'PDFs'
+2025-07-09 21:04:25,387 - INFO - Movido 'Trabajo practivo experimental.docx' a 'Documentos'
+2025-07-09 21:04:25,395 - INFO - Movido 'TRABAJO PRÁCTICO.docx' a 'Documentos'
+2025-07-09 21:04:25,403 - INFO - Movido 'U1 TEMA 1 CUENTAS CONTABLES.pdf' a 'PDFs'
+2025-07-09 21:04:25,412 - INFO - Movido 'U1 TEMA 2 LA ECUACION CONTABLE.pdf' a 'PDFs'
+2025-07-09 21:04:25,420 - INFO - Movido 'U1 TEMA 3 REGISTROS CONTABLE.pdf' a 'PDFs'
+2025-07-09 21:04:25,425 - INFO - Movido 'WIN_20241127_11_25_30_Pro.jpg' a 'Fotos'
+2025-07-09 21:04:25,434 - INFO - Movido 'スティーブン.jpg' a 'Fotos'
+2025-07-09 21:04:25,439 - INFO - Organización de archivos completada.
+2025-07-09 21:04:25,656 - INFO - Gráfico generado como cadena base64.
+2025-07-09 21:04:25,662 - INFO - Organización de archivos completada exitosamente.
+2025-07-09 21:04:44,790 - INFO - Escaneando 2015 archivos en busca de duplicados en C:\Users\villa\Downloads
+2025-07-09 21:06:18,085 - INFO - Escaneo de duplicados completado. Encontrados 629 grupos de duplicados.
+2025-07-09 21:07:05,127 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,127 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,127 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,127 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,127 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,127 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,127 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,127 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,127 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,127 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,127 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,127 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,127 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,127 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,127 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,127 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,127 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,127 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,127 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,127 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,127 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,127 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,127 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,127 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,128 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,128 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,128 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,128 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,128 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,128 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,128 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,128 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,128 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,128 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,128 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,128 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,128 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,128 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,128 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,128 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,128 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,128 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,128 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,128 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,128 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,128 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,128 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,128 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,128 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,128 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,128 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,128 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,128 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,128 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,128 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,128 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,128 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,129 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,129 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,129 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,129 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,129 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,129 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,129 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,129 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,129 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,129 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,129 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,129 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,129 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,129 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,129 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,129 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,129 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,129 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,129 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,129 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,129 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,129 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,129 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,129 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,129 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,129 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,129 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,129 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,129 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,129 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,130 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,130 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,130 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,130 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,130 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,130 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,130 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,130 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,130 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,130 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,130 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,130 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,130 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,130 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,130 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,130 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,130 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,130 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,130 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,130 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,130 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,130 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,130 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,130 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,130 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,130 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,130 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,130 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,130 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,130 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,130 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,131 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,131 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,131 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,131 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,131 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,131 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,131 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,131 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,131 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,131 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,131 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,131 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,131 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,131 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,131 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,131 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,131 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,131 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,131 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,131 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,131 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,131 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,131 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,131 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,131 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,131 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,131 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,131 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,131 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,131 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,131 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,131 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,132 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,132 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,132 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,132 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,132 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,132 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,132 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,132 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,132 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,132 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,132 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,132 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,132 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,132 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,132 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,132 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,132 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,132 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,132 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,132 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,132 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,132 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,132 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,132 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,132 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,132 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,132 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,132 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,132 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,132 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,132 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,132 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,132 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,133 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,133 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,133 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,133 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,133 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,133 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,133 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,133 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,133 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,133 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,133 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,133 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,133 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,133 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,133 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,133 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,133 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,133 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,133 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,133 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,133 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,133 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,133 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,133 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,133 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,133 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,133 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,133 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,133 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,133 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,133 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,133 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,133 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,134 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,134 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,134 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,134 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,134 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,134 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,134 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,134 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,134 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,134 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,134 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,134 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,134 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,134 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,134 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,134 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,134 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,134 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,134 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,134 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,134 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,134 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,134 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,134 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,134 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,134 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,134 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,134 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,134 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,134 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,134 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,134 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,135 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,135 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,135 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,135 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,135 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,135 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,135 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,135 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,135 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,135 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,135 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,135 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,135 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,135 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,135 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,135 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,135 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,135 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,135 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,135 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,135 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,135 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,135 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,135 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,135 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,135 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,135 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,135 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,135 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,135 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,135 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,135 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,136 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,136 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,136 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,136 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,136 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,136 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,136 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,136 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,136 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,136 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,136 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,136 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,136 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,136 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,136 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,136 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,136 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,136 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,136 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,136 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,136 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,136 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,136 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,136 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,136 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,136 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,136 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,136 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,136 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,136 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,136 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,136 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,136 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,136 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,137 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,137 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,137 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,137 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,137 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,137 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,137 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,137 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,137 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,137 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,137 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,137 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,137 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,137 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,137 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,137 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,137 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,137 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,137 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,137 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,137 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,137 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,137 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,137 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,137 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,137 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,137 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,137 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,137 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,137 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,137 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,138 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,138 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,138 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,138 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,138 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,138 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,138 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,138 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,138 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,138 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,138 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,138 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,138 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,138 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,138 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,138 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,138 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,138 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,138 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,138 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,138 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,138 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,138 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,138 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,138 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,138 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,138 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,138 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,138 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,138 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,138 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,138 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,138 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,139 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,139 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,139 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,139 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,139 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,139 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,139 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,139 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,139 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,139 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,139 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,139 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,139 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,139 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,139 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,139 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,139 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,139 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,139 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,139 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,139 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,139 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,139 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,139 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,139 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,139 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,139 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,139 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,139 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,139 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,139 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,139 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,140 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,140 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,140 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,140 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,140 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,140 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,140 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,140 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,140 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,140 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,140 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,140 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,140 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,140 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,140 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,140 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,140 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,140 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,140 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,140 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,140 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,140 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,140 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,140 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,140 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,140 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,140 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,140 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,140 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,140 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,140 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,140 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,141 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,141 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,141 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,141 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,141 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,141 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,141 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,141 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,141 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,141 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,141 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,141 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,141 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,141 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,141 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,141 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,142 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,142 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,142 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,142 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,142 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,142 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,142 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,142 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,142 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,142 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,142 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,142 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,142 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,142 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,142 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,142 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,142 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,142 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,142 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,142 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,142 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,142 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,142 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,142 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,142 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,142 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,142 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,142 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,143 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,143 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,143 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,143 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,143 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,143 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,143 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,143 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,143 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,143 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,143 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,143 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,143 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,143 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,143 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,143 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,143 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,143 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,143 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,143 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,143 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,143 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,143 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,143 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,143 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,143 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,143 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,143 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,143 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,144 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,144 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,144 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,144 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,144 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,144 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,144 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,144 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,144 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,144 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,144 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,144 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,144 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,144 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,144 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,144 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,144 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,145 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,145 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,145 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,145 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,145 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,145 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,145 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,145 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,145 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,145 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,145 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,145 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,145 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,145 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,146 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,146 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,146 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,146 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,146 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,146 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,146 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,146 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,146 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,146 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,146 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,146 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,146 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,146 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,146 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,146 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,147 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,147 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,147 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,147 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,147 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,147 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,147 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,147 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,147 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,147 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,147 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,147 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,147 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,147 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,147 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,147 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,147 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,147 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,147 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,147 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,147 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,147 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,147 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,147 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,147 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,147 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,147 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,147 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,147 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,147 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,148 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,148 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,148 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,148 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,148 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,148 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,148 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,148 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,148 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,148 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,148 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,148 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,148 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,148 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,148 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,148 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,148 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,148 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,148 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,148 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,148 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,148 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,148 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,148 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,148 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,148 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,148 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,148 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,148 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,149 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,149 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,149 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,149 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,149 - WARNING - socket.send() raised exception.
+2025-07-09 21:07:05,149 - WARNING - socket.send() raised exception.
+2025-07-09 21:08:16,942 - INFO - Assets path configured: C:\Users\villa\OneDrive\Documentos\GitHub\Organizador-de-Archivos-Flet-Python\assets
+2025-07-09 21:08:16,945 - INFO - Starting up TCP server on localhost:50101
+2025-07-09 21:08:16,956 - INFO - Flet app has started...
+2025-07-09 21:08:16,965 - INFO - App URL: tcp://localhost:50101
+2025-07-09 21:08:16,965 - INFO - Starting Flet View app...
+2025-07-09 21:08:16,966 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 21:08:16,966 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 21:08:17,325 - INFO - App session started
+2025-07-09 21:08:24,680 - INFO - Escaneando 7 archivos en busca de duplicados en C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos
+2025-07-09 21:08:24,727 - INFO - Escaneo de duplicados completado. Encontrados 1 grupos de duplicados.
+2025-07-09 21:08:26,296 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\スティーブン - copia (3).jpg
+2025-07-09 21:08:26,297 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\スティーブン - copia.jpg
+2025-07-09 21:08:26,297 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\スティーブン.jpg
+2025-07-09 21:08:26,303 - INFO - Escaneando 4 archivos en busca de duplicados en C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos
+2025-07-09 21:08:26,323 - INFO - Escaneo de duplicados completado. Encontrados 0 grupos de duplicados.
+2025-07-09 21:08:59,366 - INFO - Redimensionado: photo_2024-10-06_18-34-33.jpg -> 1280x720
+2025-07-09 21:08:59,447 - INFO - Redimensionado: st.png -> 1560x2000
+2025-07-09 21:08:59,463 - INFO - Redimensionado: WIN_20241127_11_25_30_Pro.jpg -> 1280x720
+2025-07-09 21:08:59,502 - INFO - Redimensionado: スティーブン - copia (2).jpg -> 1560x2000
+2025-07-09 21:08:59,515 - INFO - Redimensionamiento de imágenes completado.
+2025-07-09 21:09:21,803 - INFO - Convertido photo_2024-10-06_18-34-33.jpg a png
+2025-07-09 21:09:21,897 - INFO - Convertido st.png a png
+2025-07-09 21:09:22,083 - INFO - Convertido WIN_20241127_11_25_30_Pro.jpg a png
+2025-07-09 21:09:22,209 - INFO - Convertido スティーブン - copia (2).jpg a png
+2025-07-09 21:09:22,216 - INFO - Conversión de imágenes completada. 4 archivos convertidos a png.
+2025-07-09 21:10:08,388 - INFO - Carpeta personalizada añadida: PDFs con extensiones ['pdf']
+2025-07-09 21:10:09,121 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\PDFs
+2025-07-09 21:10:09,122 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\
+2025-07-09 21:10:09,122 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos
+2025-07-09 21:10:09,123 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Documentos
+2025-07-09 21:10:09,123 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Videos
+2025-07-09 21:10:09,124 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Otros
+2025-07-09 21:10:09,128 - INFO - Iniciando organización de 54 archivos en C:\Users\villa\Downloads\COSAS DE ANGEL - copia
+2025-07-09 21:10:09,130 - INFO - Movido '010.NIC 1 Presentación de estados financieros (1).pdf' a 'PDFs'
+2025-07-09 21:10:09,137 - INFO - Movido '010.NIC 1 Presentación de estados financieros.pdf' a 'PDFs'
+2025-07-09 21:10:09,144 - INFO - Movido '109012024RDEV1103268080924.pdf' a 'PDFs'
+2025-07-09 21:10:09,152 - INFO - Movido 'Angel Referencia personal .docx' a 'Documentos'
+2025-07-09 21:10:09,161 - INFO - Movido 'Angel.docx' a 'Documentos'
+2025-07-09 21:10:09,173 - INFO - Movido 'archivodiapositiva_2023514182731.pptx' a 'Documentos'
+2025-07-09 21:10:09,179 - INFO - Movido 'CLASES MAYOR GENERAL.xlsx' a 'Documentos'
+2025-07-09 21:10:09,184 - INFO - Movido 'COSAS DE ANGEL.rar' a 'Otros'
+2025-07-09 21:10:09,189 - INFO - Movido 'Derecho.pdf' a 'PDFs'
+2025-07-09 21:10:09,193 - INFO - Movido 'Dialnet-LasRetencionesDelIVAYLaFuenteYSuIncidenciaEnElFunc-8219351.pdf' a 'PDFs'
+2025-07-09 21:10:09,197 - INFO - Movido 'economia ( trabajo investigativo) .pdf' a 'PDFs'
+2025-07-09 21:10:09,202 - INFO - Movido 'Economia.docx' a 'Documentos'
+2025-07-09 21:10:09,208 - INFO - Movido 'Exposicion .docx' a 'Documentos'
+2025-07-09 21:10:09,217 - INFO - Movido 'Exposicion.docx' a 'Documentos'
+2025-07-09 21:10:09,223 - INFO - Movido 'Exposición .pdf' a 'PDFs'
+2025-07-09 21:10:09,230 - INFO - Movido 'hoja de vida.pdf' a 'PDFs'
+2025-07-09 21:10:09,236 - INFO - Movido 'kardex(1).xlsx' a 'Documentos'
+2025-07-09 21:10:09,243 - INFO - Movido 'Libro DEVIES.docx' a 'Documentos'
+2025-07-09 21:10:09,249 - INFO - Movido 'Libro1.xlsx' a 'Documentos'
+2025-07-09 21:10:09,259 - INFO - Movido 'Libro2.xlsx' a 'Documentos'
+2025-07-09 21:10:09,272 - INFO - Movido 'Lista Angel.docx' a 'Documentos'
+2025-07-09 21:10:09,286 - INFO - Movido 'NAC-DGERCGC20-00000061.pdf' a 'PDFs'
+2025-07-09 21:10:09,294 - INFO - Movido 'photo_2024-10-06_18-34-33.jpg' a 'Fotos'
+2025-07-09 21:10:09,303 - INFO - Movido 'PLANTILLA TAREAS UNEMI - copia.docx' a 'Documentos'
+2025-07-09 21:10:09,315 - INFO - Movido 'PLANTILLA TAREAS UNEMI - Copy.docx' a 'Documentos'
+2025-07-09 21:10:09,324 - INFO - Movido 'Practico.pdf' a 'PDFs'
+2025-07-09 21:10:09,329 - INFO - Movido 'st.png' a 'Fotos'
+2025-07-09 21:10:09,336 - INFO - Movido 'TALLER 1.pdf' a 'PDFs'
+2025-07-09 21:10:09,343 - INFO - Movido 'TALLER 1.xlsx' a 'Documentos'
+2025-07-09 21:10:09,356 - INFO - Movido 'TALLER 2.xlsx' a 'Documentos'
+2025-07-09 21:10:09,367 - INFO - Movido 'TALLER PRACTICO - EXAMEN.docx' a 'Documentos'
+2025-07-09 21:10:09,378 - INFO - Movido 'Taller.pdf' a 'PDFs'
+2025-07-09 21:10:09,383 - INFO - Movido 'talleres.pdf' a 'PDFs'
+2025-07-09 21:10:09,398 - INFO - Movido 'Tarea 1 de mate.docx' a 'Documentos'
+2025-07-09 21:10:09,409 - INFO - Movido 'Tarea 1 de mate.pdf' a 'PDFs'
+2025-07-09 21:10:09,419 - INFO - Movido 'Tarea 1.pdf' a 'PDFs'
+2025-07-09 21:10:09,434 - INFO - Movido 'TAREA 2.docx' a 'Documentos'
+2025-07-09 21:10:09,448 - INFO - Movido 'TAREA 2.pdf' a 'PDFs'
+2025-07-09 21:10:09,462 - INFO - Movido 'Trabajo de investigacion .pdf' a 'PDFs'
+2025-07-09 21:10:09,470 - INFO - Movido 'Trabajo de investigacion edit.docx' a 'Documentos'
+2025-07-09 21:10:09,476 - INFO - Movido 'Trabajo de investigacion edit.pdf' a 'PDFs'
+2025-07-09 21:10:09,484 - INFO - Movido 'Trabajo experimental.docx' a 'Documentos'
+2025-07-09 21:10:09,494 - INFO - Movido 'Trabajo experimental.pdf' a 'PDFs'
+2025-07-09 21:10:09,508 - INFO - Movido 'Trabajo experimental.xlsx' a 'Documentos'
+2025-07-09 21:10:09,520 - INFO - Movido 'Trabajo investigativo economia.docx' a 'Documentos'
+2025-07-09 21:10:09,533 - INFO - Movido 'Trabajo investigativo economia.pdf' a 'PDFs'
+2025-07-09 21:10:09,541 - INFO - Movido 'Trabajo investigativo matematica.pdf' a 'PDFs'
+2025-07-09 21:10:09,554 - INFO - Movido 'Trabajo practivo experimental.docx' a 'Documentos'
+2025-07-09 21:10:09,570 - INFO - Movido 'TRABAJO PRÁCTICO.docx' a 'Documentos'
+2025-07-09 21:10:09,584 - INFO - Movido 'U1 TEMA 1 CUENTAS CONTABLES.pdf' a 'PDFs'
+2025-07-09 21:10:09,598 - INFO - Movido 'U1 TEMA 2 LA ECUACION CONTABLE.pdf' a 'PDFs'
+2025-07-09 21:10:09,606 - INFO - Movido 'U1 TEMA 3 REGISTROS CONTABLE.pdf' a 'PDFs'
+2025-07-09 21:10:09,615 - INFO - Movido 'WIN_20241127_11_25_30_Pro.jpg' a 'Fotos'
+2025-07-09 21:10:09,623 - INFO - Movido 'スティーブン.jpg' a 'Fotos'
+2025-07-09 21:10:09,629 - INFO - Organización de archivos completada.
+2025-07-09 21:10:09,822 - INFO - Gráfico generado como cadena base64.
+2025-07-09 21:10:09,832 - INFO - Organización de archivos completada exitosamente.
+2025-07-09 21:11:51,930 - INFO - Assets path configured: C:\Users\villa\OneDrive\Documentos\GitHub\Organizador-de-Archivos-Flet-Python\assets
+2025-07-09 21:11:51,932 - INFO - Starting up TCP server on localhost:50312
+2025-07-09 21:11:51,939 - INFO - Flet app has started...
+2025-07-09 21:11:51,942 - INFO - App URL: tcp://localhost:50312
+2025-07-09 21:11:51,942 - INFO - Starting Flet View app...
+2025-07-09 21:11:51,943 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 21:11:51,943 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 21:11:52,151 - INFO - App session started
+2025-07-09 21:12:21,431 - INFO - PDFs fusionados en: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\PDFs\PDFs Angel.pdf
+2025-07-09 21:13:01,203 - INFO - Previsualización de renombrado generada para 25 archivos.
+2025-07-09 21:13:12,496 - INFO - Previsualización de renombrado generada para 25 archivos.
+2025-07-09 21:13:17,042 - INFO - Previsualización de renombrado generada para 25 archivos.
+2025-07-09 21:13:17,904 - INFO - Previsualización de renombrado generada para 25 archivos.
+2025-07-09 21:13:28,651 - INFO - Previsualización de renombrado generada para 25 archivos.
+2025-07-09 21:13:34,951 - INFO - Previsualización de renombrado generada para 25 archivos.
+2025-07-09 21:13:40,798 - INFO - Renombrado '010.NIC 1 Presentación de estados financieros (1).pdf' a 'Doc_010.NIC 1 Presentación de estados financieros (1)_1_Vario.pdf'
+2025-07-09 21:13:40,799 - INFO - Renombrado '010.NIC 1 Presentación de estados financieros.pdf' a 'Doc_010.NIC 1 Presentación de estados financieros_2_Vario.pdf'
+2025-07-09 21:13:40,800 - INFO - Renombrado '109012024RDEV1103268080924.pdf' a 'Doc_109012024RDEV1103268080924_3_Vario.pdf'
+2025-07-09 21:13:40,801 - INFO - Renombrado 'Derecho.pdf' a 'Doc_Derecho_4_Vario.pdf'
+2025-07-09 21:13:40,801 - INFO - Renombrado 'Dialnet-LasRetencionesDelIVAYLaFuenteYSuIncidenciaEnElFunc-8219351.pdf' a 'Doc_Dialnet-LasRetencionesDelIVAYLaFuenteYSuIncidenciaEnElFunc-8219351_5_Vario.pdf'
+2025-07-09 21:13:40,802 - INFO - Renombrado 'economia ( trabajo investigativo) .pdf' a 'Doc_economia ( trabajo investigativo) _6_Vario.pdf'
+2025-07-09 21:13:40,803 - INFO - Renombrado 'Exposición .pdf' a 'Doc_Exposición _7_Vario.pdf'
+2025-07-09 21:13:40,804 - INFO - Renombrado 'hoja de vida.pdf' a 'Doc_hoja de vida_8_Vario.pdf'
+2025-07-09 21:13:40,805 - INFO - Renombrado 'NAC-DGERCGC20-00000061.pdf' a 'Doc_NAC-DGERCGC20-00000061_9_Vario.pdf'
+2025-07-09 21:13:40,806 - INFO - Renombrado 'PDFs Angel.pdf' a 'Doc_PDFs Angel_10_Vario.pdf'
+2025-07-09 21:13:40,807 - INFO - Renombrado 'Practico.pdf' a 'Doc_Practico_11_Vario.pdf'
+2025-07-09 21:13:40,808 - INFO - Renombrado 'TALLER 1.pdf' a 'Doc_TALLER 1_12_Vario.pdf'
+2025-07-09 21:13:40,809 - INFO - Renombrado 'Taller.pdf' a 'Doc_Taller_13_Vario.pdf'
+2025-07-09 21:13:40,809 - INFO - Renombrado 'talleres.pdf' a 'Doc_talleres_14_Vario.pdf'
+2025-07-09 21:13:40,810 - INFO - Renombrado 'Tarea 1 de mate.pdf' a 'Doc_Tarea 1 de mate_15_Vario.pdf'
+2025-07-09 21:13:40,811 - INFO - Renombrado 'Tarea 1.pdf' a 'Doc_Tarea 1_16_Vario.pdf'
+2025-07-09 21:13:40,812 - INFO - Renombrado 'TAREA 2.pdf' a 'Doc_TAREA 2_17_Vario.pdf'
+2025-07-09 21:13:40,812 - INFO - Renombrado 'Trabajo de investigacion .pdf' a 'Doc_Trabajo de investigacion _18_Vario.pdf'
+2025-07-09 21:13:40,813 - INFO - Renombrado 'Trabajo de investigacion edit.pdf' a 'Doc_Trabajo de investigacion edit_19_Vario.pdf'
+2025-07-09 21:13:40,814 - INFO - Renombrado 'Trabajo experimental.pdf' a 'Doc_Trabajo experimental_20_Vario.pdf'
+2025-07-09 21:13:40,815 - INFO - Renombrado 'Trabajo investigativo economia.pdf' a 'Doc_Trabajo investigativo economia_21_Vario.pdf'
+2025-07-09 21:13:40,816 - INFO - Renombrado 'Trabajo investigativo matematica.pdf' a 'Doc_Trabajo investigativo matematica_22_Vario.pdf'
+2025-07-09 21:13:40,817 - INFO - Renombrado 'U1 TEMA 1 CUENTAS CONTABLES.pdf' a 'Doc_U1 TEMA 1 CUENTAS CONTABLES_23_Vario.pdf'
+2025-07-09 21:13:40,818 - INFO - Renombrado 'U1 TEMA 2 LA ECUACION CONTABLE.pdf' a 'Doc_U1 TEMA 2 LA ECUACION CONTABLE_24_Vario.pdf'
+2025-07-09 21:13:40,818 - INFO - Renombrado 'U1 TEMA 3 REGISTROS CONTABLE.pdf' a 'Doc_U1 TEMA 3 REGISTROS CONTABLE_25_Vario.pdf'
+2025-07-09 21:13:40,822 - INFO - Renombrado de archivos completado.
+2025-07-09 21:13:40,828 - INFO - Previsualización de renombrado generada para 25 archivos.
+2025-07-09 21:18:19,632 - INFO - Assets path configured: C:\Users\villa\OneDrive\Documentos\GitHub\Organizador-de-Archivos-Flet-Python\assets
+2025-07-09 21:18:19,634 - INFO - Starting up TCP server on localhost:50616
+2025-07-09 21:18:19,641 - INFO - Flet app has started...
+2025-07-09 21:18:19,645 - INFO - App URL: tcp://localhost:50616
+2025-07-09 21:18:19,645 - INFO - Starting Flet View app...
+2025-07-09 21:18:19,646 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 21:18:19,647 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-09 21:18:19,859 - INFO - App session started
+2025-07-09 21:18:45,591 - INFO - Carpeta personalizada añadida: PDFs con extensiones ['pdf']
+2025-07-09 21:18:47,925 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\PDFs
+2025-07-09 21:18:47,925 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\
+2025-07-09 21:18:47,926 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos
+2025-07-09 21:18:47,926 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Documentos
+2025-07-09 21:18:47,928 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Videos
+2025-07-09 21:18:47,929 - INFO - Directorio creado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Otros
+2025-07-09 21:18:47,933 - INFO - Iniciando organización de 54 archivos en C:\Users\villa\Downloads\COSAS DE ANGEL - copia
+2025-07-09 21:18:47,934 - INFO - Movido '010.NIC 1 Presentación de estados financieros (1).pdf' a 'PDFs'
+2025-07-09 21:18:47,937 - INFO - Movido '010.NIC 1 Presentación de estados financieros.pdf' a 'PDFs'
+2025-07-09 21:18:47,941 - INFO - Movido '109012024RDEV1103268080924.pdf' a 'PDFs'
+2025-07-09 21:18:47,945 - INFO - Movido 'Angel Referencia personal .docx' a 'Documentos'
+2025-07-09 21:18:47,950 - INFO - Movido 'Angel.docx' a 'Documentos'
+2025-07-09 21:18:47,955 - INFO - Movido 'archivodiapositiva_2023514182731.pptx' a 'Documentos'
+2025-07-09 21:18:47,959 - INFO - Movido 'CLASES MAYOR GENERAL.xlsx' a 'Documentos'
+2025-07-09 21:18:47,962 - INFO - Movido 'COSAS DE ANGEL.rar' a 'Otros'
+2025-07-09 21:18:47,966 - INFO - Movido 'Derecho.pdf' a 'PDFs'
+2025-07-09 21:18:47,970 - INFO - Movido 'Dialnet-LasRetencionesDelIVAYLaFuenteYSuIncidenciaEnElFunc-8219351.pdf' a 'PDFs'
+2025-07-09 21:18:47,974 - INFO - Movido 'economia ( trabajo investigativo) .pdf' a 'PDFs'
+2025-07-09 21:18:47,981 - INFO - Movido 'Economia.docx' a 'Documentos'
+2025-07-09 21:18:47,985 - INFO - Movido 'Exposicion .docx' a 'Documentos'
+2025-07-09 21:18:47,989 - INFO - Movido 'Exposicion.docx' a 'Documentos'
+2025-07-09 21:18:47,994 - INFO - Movido 'Exposición .pdf' a 'PDFs'
+2025-07-09 21:18:47,999 - INFO - Movido 'hoja de vida.pdf' a 'PDFs'
+2025-07-09 21:18:48,004 - INFO - Movido 'kardex(1).xlsx' a 'Documentos'
+2025-07-09 21:18:48,007 - INFO - Movido 'Libro DEVIES.docx' a 'Documentos'
+2025-07-09 21:18:48,013 - INFO - Movido 'Libro1.xlsx' a 'Documentos'
+2025-07-09 21:18:48,017 - INFO - Movido 'Libro2.xlsx' a 'Documentos'
+2025-07-09 21:18:48,021 - INFO - Movido 'Lista Angel.docx' a 'Documentos'
+2025-07-09 21:18:48,024 - INFO - Movido 'NAC-DGERCGC20-00000061.pdf' a 'PDFs'
+2025-07-09 21:18:48,031 - INFO - Movido 'photo_2024-10-06_18-34-33.jpg' a 'Fotos'
+2025-07-09 21:18:48,036 - INFO - Movido 'PLANTILLA TAREAS UNEMI - copia.docx' a 'Documentos'
+2025-07-09 21:18:48,040 - INFO - Movido 'PLANTILLA TAREAS UNEMI - Copy.docx' a 'Documentos'
+2025-07-09 21:18:48,044 - INFO - Movido 'Practico.pdf' a 'PDFs'
+2025-07-09 21:18:48,049 - INFO - Movido 'st.png' a 'Fotos'
+2025-07-09 21:18:48,053 - INFO - Movido 'TALLER 1.pdf' a 'PDFs'
+2025-07-09 21:18:48,057 - INFO - Movido 'TALLER 1.xlsx' a 'Documentos'
+2025-07-09 21:18:48,062 - INFO - Movido 'TALLER 2.xlsx' a 'Documentos'
+2025-07-09 21:18:48,066 - INFO - Movido 'TALLER PRACTICO - EXAMEN.docx' a 'Documentos'
+2025-07-09 21:18:48,070 - INFO - Movido 'Taller.pdf' a 'PDFs'
+2025-07-09 21:18:48,073 - INFO - Movido 'talleres.pdf' a 'PDFs'
+2025-07-09 21:18:48,078 - INFO - Movido 'Tarea 1 de mate.docx' a 'Documentos'
+2025-07-09 21:18:48,082 - INFO - Movido 'Tarea 1 de mate.pdf' a 'PDFs'
+2025-07-09 21:18:48,086 - INFO - Movido 'Tarea 1.pdf' a 'PDFs'
+2025-07-09 21:18:48,089 - INFO - Movido 'TAREA 2.docx' a 'Documentos'
+2025-07-09 21:18:48,092 - INFO - Movido 'TAREA 2.pdf' a 'PDFs'
+2025-07-09 21:18:48,095 - INFO - Movido 'Trabajo de investigacion .pdf' a 'PDFs'
+2025-07-09 21:18:48,099 - INFO - Movido 'Trabajo de investigacion edit.docx' a 'Documentos'
+2025-07-09 21:18:48,102 - INFO - Movido 'Trabajo de investigacion edit.pdf' a 'PDFs'
+2025-07-09 21:18:48,105 - INFO - Movido 'Trabajo experimental.docx' a 'Documentos'
+2025-07-09 21:18:48,109 - INFO - Movido 'Trabajo experimental.pdf' a 'PDFs'
+2025-07-09 21:18:48,113 - INFO - Movido 'Trabajo experimental.xlsx' a 'Documentos'
+2025-07-09 21:18:48,118 - INFO - Movido 'Trabajo investigativo economia.docx' a 'Documentos'
+2025-07-09 21:18:48,121 - INFO - Movido 'Trabajo investigativo economia.pdf' a 'PDFs'
+2025-07-09 21:18:48,124 - INFO - Movido 'Trabajo investigativo matematica.pdf' a 'PDFs'
+2025-07-09 21:18:48,127 - INFO - Movido 'Trabajo practivo experimental.docx' a 'Documentos'
+2025-07-09 21:18:48,134 - INFO - Movido 'TRABAJO PRÁCTICO.docx' a 'Documentos'
+2025-07-09 21:18:48,139 - INFO - Movido 'U1 TEMA 1 CUENTAS CONTABLES.pdf' a 'PDFs'
+2025-07-09 21:18:48,142 - INFO - Movido 'U1 TEMA 2 LA ECUACION CONTABLE.pdf' a 'PDFs'
+2025-07-09 21:18:48,146 - INFO - Movido 'U1 TEMA 3 REGISTROS CONTABLE.pdf' a 'PDFs'
+2025-07-09 21:18:48,149 - INFO - Movido 'WIN_20241127_11_25_30_Pro.jpg' a 'Fotos'
+2025-07-09 21:18:48,153 - INFO - Movido 'スティーブン.jpg' a 'Fotos'
+2025-07-09 21:18:48,155 - INFO - Organización de archivos completada.
+2025-07-09 21:18:48,295 - INFO - Gráfico generado como cadena base64.
+2025-07-09 21:18:48,298 - INFO - Organización de archivos completada exitosamente.
+2025-07-09 21:19:13,071 - INFO - Escaneando 17 archivos en busca de duplicados en C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos
+2025-07-09 21:19:13,186 - INFO - Escaneo de duplicados completado. Encontrados 4 grupos de duplicados.
+2025-07-09 21:19:14,598 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\photo_2024-10-06_18-34-33 - copia (3).jpg
+2025-07-09 21:19:14,599 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\photo_2024-10-06_18-34-33 - copia.jpg
+2025-07-09 21:19:14,599 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\photo_2024-10-06_18-34-33.jpg
+2025-07-09 21:19:14,600 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\st - copia (3).png
+2025-07-09 21:19:14,600 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\st - copia.png
+2025-07-09 21:19:14,600 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\st.png
+2025-07-09 21:19:14,601 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\WIN_20241127_11_25_30_Pro - copia (3).jpg
+2025-07-09 21:19:14,601 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\WIN_20241127_11_25_30_Pro - copia.jpg
+2025-07-09 21:19:14,602 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\WIN_20241127_11_25_30_Pro.jpg
+2025-07-09 21:19:14,602 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\スティーブン - copia (3).jpg
+2025-07-09 21:19:14,602 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\スティーブン - copia (4).jpg
+2025-07-09 21:19:14,603 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\スティーブン - copia.jpg
+2025-07-09 21:19:14,604 - INFO - Archivo eliminado: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos\スティーブン.jpg
+2025-07-09 21:19:14,611 - INFO - Escaneando 4 archivos en busca de duplicados en C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos
+2025-07-09 21:19:14,623 - INFO - Escaneo de duplicados completado. Encontrados 0 grupos de duplicados.
+2025-07-09 21:19:28,346 - INFO - Redimensionado: photo_2024-10-06_18-34-33 - copia (2).jpg -> 1280x720
+2025-07-09 21:19:28,387 - INFO - Redimensionado: st - copia (2).png -> 1560x2000
+2025-07-09 21:19:28,396 - INFO - Redimensionado: WIN_20241127_11_25_30_Pro - copia (2).jpg -> 1280x720
+2025-07-09 21:19:28,411 - INFO - Redimensionado: スティーブン - copia (2).jpg -> 1560x2000
+2025-07-09 21:19:28,415 - INFO - Redimensionamiento de imágenes completado.
+2025-07-09 21:19:48,954 - INFO - Redimensionado: photo_2024-10-06_18-34-33 - copia (2).jpg -> 896x503
+2025-07-09 21:19:49,134 - INFO - Redimensionado: st - copia (2).png -> 1092x1400
+2025-07-09 21:19:49,167 - INFO - Redimensionado: WIN_20241127_11_25_30_Pro - copia (2).jpg -> 896x503
+2025-07-09 21:19:49,313 - INFO - Redimensionado: スティーブン - copia (2).jpg -> 1092x1400
+2025-07-09 21:19:49,324 - INFO - Redimensionamiento de imágenes completado.
+2025-07-09 21:20:17,841 - INFO - Previsualización de renombrado generada para 4 archivos en C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos.
+2025-07-09 21:20:17,845 - INFO - Previsualización de renombrado generada para 4 archivos.
+2025-07-09 21:20:22,633 - INFO - Previsualización de renombrado generada para 4 archivos en C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos.
+2025-07-09 21:20:22,637 - INFO - Previsualización de renombrado generada para 4 archivos.
+2025-07-09 21:20:28,015 - INFO - Renombrado 'WIN_20241127_11_25_30_Pro - copia (2).jpg' a 'Fotos_WIN_20241127_11_25_30_Pro - copia (2)_1.jpg'
+2025-07-09 21:20:28,016 - INFO - Renombrado 'photo_2024-10-06_18-34-33 - copia (2).jpg' a 'Fotos_photo_2024-10-06_18-34-33 - copia (2)_2.jpg'
+2025-07-09 21:20:28,017 - INFO - Renombrado 'st - copia (2).png' a 'Fotos_st - copia (2)_3.png'
+2025-07-09 21:20:28,018 - INFO - Renombrado 'スティーブン - copia (2).jpg' a 'Fotos_スティーブン - copia (2)_4.jpg'
+2025-07-09 21:20:28,024 - INFO - Renombrado de archivos completado.
+2025-07-09 21:20:28,025 - INFO - Previsualización de renombrado generada para 4 archivos en C:\Users\villa\Downloads\COSAS DE ANGEL - copia\Fotos.
+2025-07-09 21:20:28,031 - INFO - Previsualización de renombrado generada para 4 archivos.
+2025-07-09 21:20:58,935 - INFO - PDFs fusionados exitosamente en: C:\Users\villa\Downloads\COSAS DE ANGEL - copia\PDFs\PDFs Angel.pdf
+2025-07-09 21:21:27,641 - INFO - Convertido Fotos_photo_2024-10-06_18-34-33 - copia (2)_2.jpg a png
+2025-07-09 21:21:27,694 - INFO - Convertido Fotos_st - copia (2)_3.png a png
+2025-07-09 21:21:27,752 - INFO - Convertido Fotos_WIN_20241127_11_25_30_Pro - copia (2)_1.jpg a png
+2025-07-09 21:21:27,778 - INFO - Convertido Fotos_スティーブン - copia (2)_4.jpg a png
+2025-07-09 21:21:27,782 - INFO - Conversión de imágenes completada. 4 archivos convertidos a png.

@@ -14,7 +14,7 @@ from PIL import Image # Todavía necesario para Image.LANCZOS u otras operacione
 # Importar desde config.py
 from config import DEFAULT_FOLDERS, LOG_FILE_PATH
 
-# Importar las funciones de los nuevos módulos (nombres de archivo actualizados)
+# Importar las funciones de los módulos existentes
 from organizador_archivos import (
     obtener_carpetas_configuradas,
     organizar_archivos_en_directorio,
@@ -26,9 +26,18 @@ from buscador_duplicados import (
     encontrar_archivos_duplicados,
     eliminar_archivos,
 )
-from procesador_imagenes import ( # Nueva importación
+from procesador_imagenes import (
     redimensionar_imagenes,
     convertir_imagenes_formato
+)
+
+# --- Importar las funciones de los NUEVOS módulos ---
+from renombrador_archivos import (
+    previsualizar_renombrado_archivos,
+    realizar_renombrado_masivo
+)
+from fusionador_pdfs import (
+    fusionar_pdfs
 )
 
 # --- Configuración e Inicialización de Logs (centralizado aquí) ---
@@ -77,8 +86,7 @@ class AplicacionGestorArchivos:
 
         self.carpetas_personalizadas: list[tuple[str, list[str]]] = []
         self.archivos_seleccionados_para_fusion: list[str] = []
-        self.archivos_seleccionados_para_renombrar: list[str] = []
-        self.directorio_seleccionado_para_duplicados: str = ""
+        self.archivos_seleccionados_para_renombrar: list[str] = [] # Almacena las rutas originales para renombrar
         self.mapa_archivos_duplicados: dict[str, list[str]] = {}
 
     def _configurar_pagina(self):
@@ -89,7 +97,7 @@ class AplicacionGestorArchivos:
         self.pagina.window_min_width = ANCHO_VENTANA_POR_DEFECTO
         self.pagina.window_min_height = ALTO_VENTANA_POR_DEFECTO
         self.pagina.padding = 20
-        self.pagina.theme_mode = ft.ThemeMode.DARK
+        self.pagina.theme_mode = ft.ThemeMode.SYSTEM # Cambiado para seguir el tema del sistema
 
     def _inicializar_componentes_ui(self):
         """Inicializa todos los componentes de la interfaz de usuario."""
@@ -113,7 +121,7 @@ class AplicacionGestorArchivos:
         self._inicializar_ui_redimensionar()
         self._inicializar_ui_renombrar()
         self._inicializar_ui_fusion_pdf()
-        self._inicializar_ui_convertir_imagenes() # Nuevo: Inicializar UI para convertir imágenes
+        self._inicializar_ui_convertir_imagenes()
 
     def _inicializar_ui_organizacion(self):
         self.entrada_musica = ft.TextField(label="Carpeta Música", value="Música", width=150)
@@ -184,7 +192,6 @@ class AplicacionGestorArchivos:
             expand=True,
             on_focus=lambda e: self._abrir_dialogo_seleccion_carpeta(self.entrada_dir_redimensionar_origen)
         )
-        # Nuevo botón específico para el origen de redimensionado
         self.boton_seleccionar_redimensionar_origen = ft.ElevatedButton(
             "Seleccionar Carpeta",
             icon=ft.Icons.FOLDER_OPEN,
@@ -196,7 +203,6 @@ class AplicacionGestorArchivos:
             expand=True,
             on_focus=lambda e: self._abrir_dialogo_seleccion_carpeta(self.entrada_dir_redimensionar_destino)
         )
-        # Nuevo botón específico para el destino de redimensionado
         self.boton_seleccionar_redimensionar_destino = ft.ElevatedButton(
             "Seleccionar Carpeta",
             icon=ft.Icons.FOLDER_OPEN,
@@ -219,7 +225,7 @@ class AplicacionGestorArchivos:
             expand=True,
             on_focus=lambda e: self._abrir_dialogo_seleccion_carpeta(self.entrada_ruta_dir_renombrar)
         )
-        self.boton_seleccionar_renombrar = ft.ElevatedButton( # Nuevo botón
+        self.boton_seleccionar_renombrar = ft.ElevatedButton(
             "Seleccionar Carpeta",
             icon=ft.Icons.FOLDER_OPEN,
             on_click=lambda e: self._abrir_dialogo_seleccion_carpeta(self.entrada_ruta_dir_renombrar)
@@ -257,14 +263,14 @@ class AplicacionGestorArchivos:
         )
         self.texto_estado_fusion_pdf = ft.Text("Listo para fusionar PDFs.")
 
-    def _inicializar_ui_convertir_imagenes(self): # Nuevo método
+    def _inicializar_ui_convertir_imagenes(self):
         self.entrada_dir_convertir_origen = ft.TextField(
             label="Carpeta de Origen de Imágenes",
             read_only=True,
             expand=True,
             on_focus=lambda e: self._abrir_dialogo_seleccion_carpeta(self.entrada_dir_convertir_origen)
         )
-        self.boton_seleccionar_convertir_origen = ft.ElevatedButton( # Nuevo botón
+        self.boton_seleccionar_convertir_origen = ft.ElevatedButton(
             "Seleccionar Carpeta",
             icon=ft.Icons.FOLDER_OPEN,
             on_click=lambda e: self._abrir_dialogo_seleccion_carpeta(self.entrada_dir_convertir_origen)
@@ -275,7 +281,7 @@ class AplicacionGestorArchivos:
             expand=True,
             on_focus=lambda e: self._abrir_dialogo_seleccion_carpeta(self.entrada_dir_convertir_destino)
         )
-        self.boton_seleccionar_convertir_destino = ft.ElevatedButton( # Nuevo botón
+        self.boton_seleccionar_convertir_destino = ft.ElevatedButton(
             "Seleccionar Carpeta",
             icon=ft.Icons.FOLDER_OPEN,
             on_click=lambda e: self._abrir_dialogo_seleccion_carpeta(self.entrada_dir_convertir_destino)
@@ -294,7 +300,7 @@ class AplicacionGestorArchivos:
         self.boton_realizar_conversion = ft.ElevatedButton(
             "Convertir Imágenes",
             icon=ft.Icons.TRANSFORM,
-            on_click=self._al_hacer_click_convertir_imagenes # Nuevo controlador
+            on_click=self._al_hacer_click_convertir_imagenes
         )
         self.texto_estado_convertir = ft.Text("Listo para convertir imágenes.")
     
@@ -438,7 +444,7 @@ class AplicacionGestorArchivos:
                             padding=10
                         )
                     ),
-                    ft.Tab( # Nuevo Tab para Convertir Imágenes
+                    ft.Tab(
                         text="Convertir Imágenes",
                         icon=ft.Icons.TRANSFORM,
                         content=ft.Container(
@@ -458,6 +464,16 @@ class AplicacionGestorArchivos:
                     )
                 ],
                 expand=1,
+            ),
+            ft.Container( # Pie de página
+                content=ft.Text(
+                    "Desarrolladores: [SAVC16-S.A.V.C16, MundoCode777-Andres.dev] | Autores: [Steven Alexander Villamar Cevallos]",
+                    size=10,
+                    color=ft.Colors.GREY_500,
+                    text_align=ft.TextAlign.CENTER
+                ),
+                alignment=ft.alignment.center,
+                padding=ft.padding.only(top=10)
             )
         )
 
@@ -596,10 +612,8 @@ class AplicacionGestorArchivos:
         archivos_a_eliminar = []
         for contenedor_item in self.lista_archivos_duplicados_ui.controls:
             if isinstance(contenedor_item, ft.Container) and contenedor_item.content:
-                # Iterate through the controls within the content (which is a Column)
                 for control_in_column in contenedor_item.content.controls:
                     if isinstance(control_in_column, ft.Row):
-                        # Iterate through the controls within the Row to find the Checkbox
                         for inner_control in control_in_column.controls:
                             if isinstance(inner_control, ft.Checkbox):
                                 checkbox = inner_control
@@ -607,7 +621,7 @@ class AplicacionGestorArchivos:
                                     ruta_archivo = checkbox.label
                                     if ruta_archivo:
                                         archivos_a_eliminar.append(ruta_archivo)
-                                break # Assuming only one checkbox per row for a file
+                                break
         
         if not archivos_a_eliminar:
             self.texto_estado_duplicados.value = "No se seleccionaron archivos para eliminar."
@@ -624,7 +638,6 @@ class AplicacionGestorArchivos:
             self.texto_estado_duplicados.value = f"Se eliminaron {contador_eliminados} archivos."
             self._mostrar_snackbar(f"Se eliminaron {contador_eliminados} archivos.")
             
-            # Volver a escanear para actualizar la lista de duplicados
             await self._al_hacer_click_escanear_duplicados(None)
 
         except Exception as ex:
@@ -714,7 +727,7 @@ class AplicacionGestorArchivos:
             self.boton_redimensionar.disabled = False
             self.pagina.update()
 
-    # --- Métodos para Renombrar Archivos ---
+    # --- Métodos para Renombrar Archivos (actualizados para usar el nuevo módulo) ---
     async def _al_hacer_click_previsualizar_renombrar(self, e: ft.ControlEvent):
         directorio_origen = self.entrada_ruta_dir_renombrar.value
         if not directorio_origen or not os.path.isdir(directorio_origen):
@@ -732,35 +745,29 @@ class AplicacionGestorArchivos:
             return
 
         self.lista_previsualizacion_renombrar_ui.controls.clear()
-        self.archivos_seleccionados_para_renombrar = []
         
-        archivos_en_directorio = [f for f in os.listdir(directorio_origen) if os.path.isfile(os.path.join(directorio_origen, f))]
-        
-        if not archivos_en_directorio:
-            self.texto_estado_renombrar.value = "No hay archivos en el directorio seleccionado."
+        previsualizaciones, rutas_originales = await asyncio.to_thread(
+            previsualizar_renombrado_archivos, directorio_origen, prefijo, sufijo, inicio_numerico
+        )
+
+        self.archivos_seleccionados_para_renombrar = rutas_originales # Guardar las rutas originales
+
+        if not previsualizaciones:
+            self.texto_estado_renombrar.value = "No hay archivos en el directorio seleccionado o hubo un error."
             self._mostrar_snackbar("No hay archivos para previsualizar.")
             self.boton_realizar_renombrado.disabled = True
             self.pagina.update()
             return
 
-        for i, nombre_original in enumerate(archivos_en_directorio):
-            nombre_base, ext = os.path.splitext(nombre_original)
-            
-            num_str = str(inicio_numerico + i)
-            partes_nuevo_nombre_base = [parte for parte in [prefijo, nombre_base, num_str, sufijo] if parte]
-            nuevo_nombre_base = "_".join(partes_nuevo_nombre_base)
-            
-            nuevo_nombre_completo = f"{nuevo_nombre_base}{ext}"
-            
+        for original_name, new_name in previsualizaciones:
             self.lista_previsualizacion_renombrar_ui.controls.append(
-                ft.Text(f"{nombre_original}  ->  {nuevo_nombre_completo}")
+                ft.Text(f"{original_name}  ->  {new_name}")
             )
-            self.archivos_seleccionados_para_renombrar.append(os.path.join(directorio_origen, nombre_original))
         
-        self.texto_estado_renombrar.value = f"Previsualización generada para {len(archivos_en_directorio)} archivos."
+        self.texto_estado_renombrar.value = f"Previsualización generada para {len(previsualizaciones)} archivos."
         self.boton_realizar_renombrado.disabled = False
         self.pagina.update()
-        logger.info(f"Previsualización de renombrado generada para {len(archivos_en_directorio)} archivos.")
+        logger.info(f"Previsualización de renombrado generada para {len(previsualizaciones)} archivos.")
 
     async def _al_hacer_click_realizar_renombrado(self, e: ft.ControlEvent):
         directorio_origen = self.entrada_ruta_dir_renombrar.value
@@ -781,7 +788,7 @@ class AplicacionGestorArchivos:
         self.texto_estado_renombrar.value = "Renombrando archivos..."
         self.pagina.update()
 
-        archivos_a_renombrar_actual = []
+        archivos_a_renombrar_list = []
         for i, ruta_original in enumerate(self.archivos_seleccionados_para_renombrar):
             nombre_original = os.path.basename(ruta_original)
             nombre_base, ext = os.path.splitext(nombre_original)
@@ -791,22 +798,10 @@ class AplicacionGestorArchivos:
             nuevo_nombre_base = "_".join(partes_nuevo_nombre_base)
             nuevo_nombre_completo = f"{nuevo_nombre_base}{ext}"
             
-            archivos_a_renombrar_actual.append((ruta_original, os.path.join(directorio_origen, nuevo_nombre_completo)))
-
-        def realizar_renombrado_masivo(lista_renombrado):
-            contador = 0
-            for original_p, nuevo_p in lista_renombrado:
-                try:
-                    if original_p != nuevo_p:
-                        os.rename(original_p, nuevo_p)
-                        logger.info(f"Renombrado '{os.path.basename(original_p)}' a '{os.path.basename(nuevo_p)}'")
-                        contador += 1
-                except OSError as ex:
-                    logger.error(f"Error al renombrar {os.path.basename(original_p)} a {os.path.basename(nuevo_p)}: {ex}")
-            return contador
+            archivos_a_renombrar_list.append((ruta_original, os.path.join(directorio_origen, nuevo_nombre_completo)))
 
         try:
-            contador_renombrados = await asyncio.to_thread(realizar_renombrado_masivo, archivos_a_renombrar_actual)
+            contador_renombrados = await asyncio.to_thread(realizar_renombrado_masivo, archivos_a_renombrar_list)
             
             self.texto_estado_renombrar.value = f"Renombrado completado. Se renombraron {contador_renombrados} archivos."
             self._mostrar_snackbar(f"Se renombraron {contador_renombrados} archivos.")
@@ -819,10 +814,11 @@ class AplicacionGestorArchivos:
         finally:
             self.boton_realizar_renombrado.disabled = False
             self.boton_previsualizar_renombrar.disabled = False
-            await self._al_hacer_click_previsualizar_renombrar(None)
+            # Volver a generar la previsualización para reflejar los cambios
+            await self._al_hacer_click_previsualizar_renombrar(None) 
             self.pagina.update()
 
-    # --- Métodos para Fusionar PDFs ---
+    # --- Métodos para Fusionar PDFs (actualizados para usar el nuevo módulo) ---
     def _al_hacer_click_seleccionar_pdfs_fusion(self, e: ft.ControlEvent):
         self._selector_archivos.pick_files(
             allow_multiple=True,
@@ -854,22 +850,11 @@ class AplicacionGestorArchivos:
         self.pagina.update()
 
         try:
-            from PyPDF2 import PdfMerger
-
-            def realizar_fusion_pdf(lista_archivos, ruta_archivo_salida):
-                fusionador = PdfMerger()
-                for pdf in lista_archivos:
-                    fusionador.append(pdf)
-                fusionador.write(ruta_archivo_salida)
-                fusionador.close()
-                return True
-
-            exito = await asyncio.to_thread(realizar_fusion_pdf, self.archivos_seleccionados_para_fusion, ruta_salida)
+            exito = await asyncio.to_thread(fusionar_pdfs, self.archivos_seleccionados_para_fusion, ruta_salida)
 
             if exito:
                 self.texto_estado_fusion_pdf.value = f"PDFs fusionados exitosamente en: {ruta_salida}"
                 self._mostrar_snackbar("PDFs fusionados correctamente.")
-                logger.info(f"PDFs fusionados en: {ruta_salida}")
                 self.archivos_seleccionados_para_fusion.clear()
                 self.lista_pdfs_seleccionados_ui.controls.clear()
                 self.entrada_nombre_pdf_salida.value = ""
@@ -877,9 +862,6 @@ class AplicacionGestorArchivos:
                 self.texto_estado_fusion_pdf.value = "Error al fusionar PDFs."
                 self._mostrar_snackbar("Error al fusionar PDFs.")
 
-        except ImportError:
-            self.texto_estado_fusion_pdf.value = "Error: La librería 'PyPDF2' no está instalada. Ejecute 'pip install PyPDF2'."
-            self._mostrar_snackbar("PyPDF2 no instalado. Instálelo.")
         except Exception as ex:
             logger.error(f"Error al fusionar PDFs: {ex}")
             self.texto_estado_fusion_pdf.value = f"Error al fusionar PDFs: {ex}"
@@ -898,7 +880,7 @@ class AplicacionGestorArchivos:
             self.texto_estado_convertir.value = "Seleccione una carpeta de origen válida."
             self._mostrar_snackbar("Por favor, seleccione una carpeta de origen de imágenes.")
             return
-        if not output_dir: # No es necesario que exista, se creará
+        if not output_dir:
             self._mostrar_snackbar("Seleccione una carpeta de destino válida para las imágenes convertidas.")
             return
         if not target_format:
@@ -907,7 +889,7 @@ class AplicacionGestorArchivos:
             return
         
         try:
-            os.makedirs(output_dir, exist_ok=True) # Asegurarse de que el directorio de salida existe
+            os.makedirs(output_dir, exist_ok=True)
 
             self.texto_estado_convertir.value = f"Convirtiendo imágenes a {target_format}..."
             self.boton_realizar_conversion.disabled = True
