@@ -467,7 +467,7 @@ class AplicacionGestorArchivos:
             ),
             ft.Container( # Pie de página
                 content=ft.Text(
-                    "Desarrolladores: [SAVC16-S.A.V.C16, MundoCode777-Andres.dev] | Autores: [Steven Alexander Villamar Cevallos]",
+                    "Desarrolladores: [SAVC16-S.A.V.C16, MundoCode777-Andres.dev] | Autore: [Steven Alexander Villamar Cevallos]",
                     size=10,
                     color=ft.Colors.GREY_500,
                     text_align=ft.TextAlign.CENTER
