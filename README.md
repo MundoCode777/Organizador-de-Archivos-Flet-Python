@@ -1,8 +1,8 @@
 # 📁 Administrador de Archivos Multi-herramienta
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Flet](https://img.shields.io/badge/Flet-UI-purple?style=for-the-badge&logo=flet&logoColor=white)](https://flet.dev/)
-[![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge&logo=copyright&logoColor=white)](./LICENSE)
+[![Flet](https://img.shields.io/badge/Flet-UI-purple?style=for-the-badge&logoColor=white)](https://flet.dev/)
+[![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge&logo=lock&logoColor=white)](./LICENSE)
 
 Este es un **Administrador de Archivos** completo desarrollado con **Flet**, diseñado para simplificar y automatizar diversas tareas de gestión de archivos en tu sistema. Desde la organización de tu librería multimedia hasta la limpieza de duplicados y el procesamiento de imágenes, esta herramienta centraliza varias utilidades esenciales en una interfaz de usuario intuitiva y moderna.
 
