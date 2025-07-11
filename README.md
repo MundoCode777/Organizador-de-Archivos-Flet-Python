@@ -63,6 +63,18 @@ El proyecto está modularizado para una mejor organización y mantenimiento:
 
 └── file_manager.log      # Archivo de registro de la aplicación
 
+---
+
+## 🛠️ Requisitos e Instalación
+
+Asegúrate de tener **Python 3.9 o superior** instalado en tu sistema.
+
+Para instalar las bibliotecas necesarias, ejecuta el siguiente comando en tu terminal:
+
+```bash
+pip install -r requirements.txt
+
+---
 
 ## 🚀 Uso
 1.  **Clona o descarga** este repositorio en tu máquina local.
@@ -75,18 +87,21 @@ El proyecto está modularizado para una mejor organización y mantenimiento:
 
 ---
 
-
 ## Guía Rápida de Funcionalidades:
 
 * **Organizar Archivos:** Selecciona la **"Ruta de Origen"**, define tus preferencias de carpetas (por defecto o personalizadas) y haz clic en **"Organizar Archivos"**.
+
 * **Eliminar Duplicados:** Elige la **"Carpeta para Duplicados"**, **"Escanear Duplicados"**, revisa la lista y selecciona los archivos a **"Eliminar Seleccionados"**.
+
 * **Redimensionar Imágenes:** Especifica **"Carpeta de Origen"** y **"Carpeta de Destino"**, introduce las dimensiones o porcentaje deseado y **"Redimensionar Imágenes"**.
+
 * **Renombrar Archivos:** Selecciona la **"Carpeta a Renombrar"**, configura prefijos/sufijos/inicio numérico, **"Previsualizar Renombrado"** y luego **"Realizar Renombrado"**.
+
 * **Fusionar PDFs:** Haz clic en **"Seleccionar PDFs para Fusionar"**, elige tus archivos, ingresa un **"Nombre del PDF de Salida"** y **"Fusionar PDFs"**.
+
 * **Convertir Imágenes:** Elige **"Carpeta de Origen"** y **"Carpeta de Destino"**, selecciona el **"Formato de Destino"** y haz clic en **"Convertir Imágenes"**.
 
 ---
-
 
 ## Cómo usar cada funcionalidad:
 
@@ -131,12 +146,10 @@ El proyecto está modularizado para una mejor organización y mantenimiento:
 
 ---
 
-
 ## 📝 Registro de Actividades
 Todas las operaciones importantes y errores son registrados en el archivo `assets/file_manager.log`. Esto es útil para la depuración y para mantener un registro de las acciones realizadas por la aplicación.
 
 ---
-
 
 ## 📄 Licencia
 
@@ -147,13 +160,3 @@ La copia, modificación, distribución o cualquier uso de este software sin la *
 Para cualquier consulta sobre licencias o colaboraciones, por favor, póngase en contacto directamente con los desarrolladores.
 
 ---
-
-
-## 🛠️ Requisitos e Instalación
-
-Asegúrate de tener **Python 3.9 o superior** instalado en tu sistema.
-
-Para instalar las bibliotecas necesarias, ejecuta el siguiente comando en tu terminal:
-
-```bash
-pip install -r requirements.txt
