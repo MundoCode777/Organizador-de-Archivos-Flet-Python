@@ -8,6 +8,7 @@ Este es un **Administrador de Archivos** completo desarrollado con **Flet**, dis
 
 ---
 
+
 ## ✨ Características Principales
 
 El programa ofrece las siguientes funcionalidades, accesibles a través de pestañas dedicadas:
@@ -39,6 +40,7 @@ El programa ofrece las siguientes funcionalidades, accesibles a través de pesta
 
 ---
 
+
 ## 📂 Estructura del Proyecto
 
 El proyecto está modularizado para una mejor organización y mantenimiento:
@@ -65,16 +67,19 @@ El proyecto está modularizado para una mejor organización y mantenimiento:
 
 ---
 
+
 ## 🛠️ Requisitos e Instalación
 
 Asegúrate de tener **Python 3.9 o superior** instalado en tu sistema.
 
 Para instalar las bibliotecas necesarias, ejecuta el siguiente comando en tu terminal:
 
-```bash
-pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 ---
+
 
 ## 🚀 Uso
 1.  **Clona o descarga** este repositorio en tu máquina local.
@@ -86,6 +91,7 @@ pip install -r requirements.txt
     Una ventana de la aplicación de escritorio se abrirá, presentándote la interfaz con todas las funcionalidades.
 
 ---
+
 
 ## Guía Rápida de Funcionalidades:
 
@@ -102,6 +108,7 @@ pip install -r requirements.txt
 * **Convertir Imágenes:** Elige **"Carpeta de Origen"** y **"Carpeta de Destino"**, selecciona el **"Formato de Destino"** y haz clic en **"Convertir Imágenes"**.
 
 ---
+
 
 ## Cómo usar cada funcionalidad:
 
@@ -146,10 +153,12 @@ pip install -r requirements.txt
 
 ---
 
+
 ## 📝 Registro de Actividades
 Todas las operaciones importantes y errores son registrados en el archivo `assets/file_manager.log`. Esto es útil para la depuración y para mantener un registro de las acciones realizadas por la aplicación.
 
 ---
+
 
 ## 📄 Licencia
 
