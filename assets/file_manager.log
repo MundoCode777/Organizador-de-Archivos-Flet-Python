@@ -7395,3 +7395,123 @@ TypeError: SnackBar.__init__() got an unexpected keyword argument 'show_close_bu
 2025-07-10 09:34:17,245 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
 2025-07-10 09:34:17,573 - INFO - App session started
 2025-07-10 09:35:03,601 - INFO - PDFs fusionados exitosamente en: D:\PRACTICASPREPRO\Oficio de Practicas Pre-Profesionales.pdf
+2025-07-10 23:36:09,403 - INFO - Assets path configured: C:\Users\villa\OneDrive\Documentos\GitHub\Organizador-de-Archivos-Flet-Python\assets
+2025-07-10 23:36:09,407 - INFO - Starting up TCP server on localhost:55900
+2025-07-10 23:36:09,418 - INFO - Flet app has started...
+2025-07-10 23:36:09,426 - INFO - App URL: tcp://localhost:55900
+2025-07-10 23:36:09,426 - INFO - Starting Flet View app...
+2025-07-10 23:36:09,427 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-10 23:36:09,427 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-10 23:36:09,763 - INFO - App session started
+2025-07-10 23:36:38,020 - INFO - Assets path configured: C:\Users\villa\OneDrive\Documentos\GitHub\Organizador-de-Archivos-Flet-Python\assets
+2025-07-10 23:36:38,022 - INFO - Starting up TCP server on localhost:55936
+2025-07-10 23:36:38,030 - INFO - Flet app has started...
+2025-07-10 23:36:38,034 - INFO - App URL: tcp://localhost:55936
+2025-07-10 23:36:38,035 - INFO - Starting Flet View app...
+2025-07-10 23:36:38,036 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-10 23:36:38,036 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-10 23:36:38,311 - INFO - App session started
+2025-07-10 23:40:26,227 - INFO - Assets path configured: C:\Users\villa\OneDrive\Documentos\GitHub\Organizador-de-Archivos-Flet-Python\assets
+2025-07-10 23:40:26,230 - INFO - Starting up TCP server on localhost:56132
+2025-07-10 23:40:26,242 - INFO - Flet app has started...
+2025-07-10 23:40:26,246 - INFO - App URL: tcp://localhost:56132
+2025-07-10 23:40:26,247 - INFO - Starting Flet View app...
+2025-07-10 23:40:26,248 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-10 23:40:26,249 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-10 23:40:26,513 - INFO - App session started
+2025-07-10 23:49:41,133 - INFO - Assets path configured: C:\Users\villa\OneDrive\Documentos\GitHub\Organizador-de-Archivos-Flet-Python\assets
+2025-07-10 23:49:41,136 - INFO - Starting up TCP server on localhost:56412
+2025-07-10 23:49:41,151 - INFO - Flet app has started...
+2025-07-10 23:49:41,158 - INFO - App URL: tcp://localhost:56412
+2025-07-10 23:49:41,158 - INFO - Starting Flet View app...
+2025-07-10 23:49:41,160 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-10 23:49:41,160 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-10 23:49:41,466 - INFO - App session started
+2025-07-10 23:49:54,223 - INFO - Assets path configured: C:\Users\villa\OneDrive\Documentos\GitHub\Organizador-de-Archivos-Flet-Python\assets
+2025-07-10 23:49:54,226 - INFO - Starting up TCP server on localhost:56445
+2025-07-10 23:49:54,236 - INFO - Flet app has started...
+2025-07-10 23:49:54,241 - INFO - App URL: tcp://localhost:56445
+2025-07-10 23:49:54,241 - INFO - Starting Flet View app...
+2025-07-10 23:49:54,243 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-10 23:49:54,243 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-10 23:49:54,496 - INFO - App session started
+2025-07-10 23:53:14,039 - INFO - Assets path configured: C:\Users\villa\OneDrive\Documentos\GitHub\Organizador-de-Archivos-Flet-Python\assets
+2025-07-10 23:53:14,042 - INFO - Starting up TCP server on localhost:56571
+2025-07-10 23:53:14,053 - INFO - Flet app has started...
+2025-07-10 23:53:14,058 - INFO - App URL: tcp://localhost:56571
+2025-07-10 23:53:14,058 - INFO - Starting Flet View app...
+2025-07-10 23:53:14,060 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-10 23:53:14,060 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-10 23:53:14,358 - INFO - App session started
+2025-07-10 23:53:48,349 - INFO - Assets path configured: C:\Users\villa\OneDrive\Documentos\GitHub\Organizador-de-Archivos-Flet-Python\assets
+2025-07-10 23:53:48,352 - INFO - Starting up TCP server on localhost:56603
+2025-07-10 23:53:48,363 - INFO - Flet app has started...
+2025-07-10 23:53:48,367 - INFO - App URL: tcp://localhost:56603
+2025-07-10 23:53:48,367 - INFO - Starting Flet View app...
+2025-07-10 23:53:48,369 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-10 23:53:48,369 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-10 23:53:48,613 - INFO - App session started
+2025-07-10 23:54:00,447 - INFO - Assets path configured: C:\Users\villa\OneDrive\Documentos\GitHub\Organizador-de-Archivos-Flet-Python\assets
+2025-07-10 23:54:00,449 - INFO - Starting up TCP server on localhost:56636
+2025-07-10 23:54:00,459 - INFO - Flet app has started...
+2025-07-10 23:54:00,463 - INFO - App URL: tcp://localhost:56636
+2025-07-10 23:54:00,463 - INFO - Starting Flet View app...
+2025-07-10 23:54:00,464 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-10 23:54:00,464 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-10 23:54:00,696 - INFO - App session started
+2025-07-10 23:54:08,359 - INFO - Assets path configured: C:\Users\villa\OneDrive\Documentos\GitHub\Organizador-de-Archivos-Flet-Python\assets
+2025-07-10 23:54:08,361 - INFO - Starting up TCP server on localhost:56659
+2025-07-10 23:54:08,370 - INFO - Flet app has started...
+2025-07-10 23:54:08,374 - INFO - App URL: tcp://localhost:56659
+2025-07-10 23:54:08,374 - INFO - Starting Flet View app...
+2025-07-10 23:54:08,375 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-10 23:54:08,375 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-10 23:54:08,624 - INFO - App session started
+2025-07-10 23:57:29,648 - INFO - Assets path configured: C:\Users\villa\OneDrive\Documentos\GitHub\Organizador-de-Archivos-Flet-Python\assets
+2025-07-10 23:57:29,650 - INFO - Starting up TCP server on localhost:56950
+2025-07-10 23:57:29,659 - INFO - Flet app has started...
+2025-07-10 23:57:29,663 - INFO - App URL: tcp://localhost:56950
+2025-07-10 23:57:29,663 - INFO - Starting Flet View app...
+2025-07-10 23:57:29,664 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-10 23:57:29,664 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-10 23:57:29,944 - INFO - App session started
+2025-07-11 00:01:48,906 - INFO - Assets path configured: C:\Users\villa\OneDrive\Documentos\GitHub\Organizador-de-Archivos-Flet-Python\assets
+2025-07-11 00:01:48,908 - INFO - Starting up TCP server on localhost:57145
+2025-07-11 00:01:48,916 - INFO - Flet app has started...
+2025-07-11 00:01:48,919 - INFO - App URL: tcp://localhost:57145
+2025-07-11 00:01:48,919 - INFO - Starting Flet View app...
+2025-07-11 00:01:48,921 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-11 00:01:48,921 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-11 00:01:49,169 - INFO - App session started
+2025-07-11 00:02:05,319 - INFO - Assets path configured: C:\Users\villa\OneDrive\Documentos\GitHub\Organizador-de-Archivos-Flet-Python\assets
+2025-07-11 00:02:05,322 - INFO - Starting up TCP server on localhost:57174
+2025-07-11 00:02:05,331 - INFO - Flet app has started...
+2025-07-11 00:02:05,335 - INFO - App URL: tcp://localhost:57174
+2025-07-11 00:02:05,335 - INFO - Starting Flet View app...
+2025-07-11 00:02:05,336 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-11 00:02:05,337 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-11 00:02:05,579 - INFO - App session started
+2025-07-11 00:03:44,051 - INFO - Assets path configured: C:\Users\villa\OneDrive\Documentos\GitHub\Organizador-de-Archivos-Flet-Python\assets
+2025-07-11 00:03:44,054 - INFO - Starting up TCP server on localhost:57280
+2025-07-11 00:03:44,064 - INFO - Flet app has started...
+2025-07-11 00:03:44,069 - INFO - App URL: tcp://localhost:57280
+2025-07-11 00:03:44,070 - INFO - Starting Flet View app...
+2025-07-11 00:03:44,072 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-11 00:03:44,072 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-11 00:03:44,332 - INFO - App session started
+2025-07-11 00:04:44,026 - INFO - Assets path configured: C:\Users\villa\OneDrive\Documentos\GitHub\Organizador-de-Archivos-Flet-Python\assets
+2025-07-11 00:04:44,028 - INFO - Starting up TCP server on localhost:57333
+2025-07-11 00:04:44,037 - INFO - Flet app has started...
+2025-07-11 00:04:44,041 - INFO - App URL: tcp://localhost:57333
+2025-07-11 00:04:44,041 - INFO - Starting Flet View app...
+2025-07-11 00:04:44,043 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-11 00:04:44,043 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-11 00:04:44,288 - INFO - App session started
+2025-07-11 00:09:22,762 - INFO - Assets path configured: C:\Users\villa\OneDrive\Documentos\GitHub\Organizador-de-Archivos-Flet-Python\assets
+2025-07-11 00:09:22,765 - INFO - Starting up TCP server on localhost:57618
+2025-07-11 00:09:22,775 - INFO - Flet app has started...
+2025-07-11 00:09:22,780 - INFO - App URL: tcp://localhost:57618
+2025-07-11 00:09:22,780 - INFO - Starting Flet View app...
+2025-07-11 00:09:22,782 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-11 00:09:22,782 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-11 00:09:23,044 - INFO - App session started

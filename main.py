@@ -9,7 +9,7 @@ import io
 import base64
 import hashlib
 import asyncio
-from PIL import Image # Todavía necesario para Image.LANCZOS u otras operaciones directas, o mover todas las referencias.
+from PIL import Image 
 
 # Importar desde config.py
 from config import DEFAULT_FOLDERS, LOG_FILE_PATH
@@ -31,7 +31,6 @@ from procesador_imagenes import (
     convertir_imagenes_formato
 )
 
-# --- Importar las funciones de los NUEVOS módulos ---
 from renombrador_archivos import (
     previsualizar_renombrado_archivos,
     realizar_renombrado_masivo
@@ -90,14 +89,16 @@ class AplicacionGestorArchivos:
         self.mapa_archivos_duplicados: dict[str, list[str]] = {}
 
     def _configurar_pagina(self):
-        self.pagina.title = "Administrador de Archivos"
+        self.pagina.title = "Administrador de Archivos Inteligente"
         self.pagina.vertical_alignment = ft.CrossAxisAlignment.START
         self.pagina.window_width = ANCHO_VENTANA_POR_DEFECTO
         self.pagina.window_height = ALTO_VENTANA_POR_DEFECTO
         self.pagina.window_min_width = ANCHO_VENTANA_POR_DEFECTO
         self.pagina.window_min_height = ALTO_VENTANA_POR_DEFECTO
         self.pagina.padding = 20
-        self.pagina.theme_mode = ft.ThemeMode.SYSTEM # Cambiado para seguir el tema del sistema
+        self.pagina.theme_mode = ft.ThemeMode.SYSTEM
+        self.pagina.window_icon = os.path.abspath("assets/app.ico") # Icono de la app
+        self.pagina.window_center = True            # Centrar ventana al abrir
 
     def _inicializar_componentes_ui(self):
         """Inicializa todos los componentes de la interfaz de usuario."""
@@ -307,7 +308,7 @@ class AplicacionGestorArchivos:
     def _anadir_ui_a_pagina(self):
         """Añade los controles UI a la página de Flet."""
         self.pagina.add(
-            ft.AppBar(title=ft.Text("Administrador de Archivos"), center_title=True),
+            ft.AppBar(title=ft.Text("Administrador de Archivos Inteligente"), center_title=True),
             ft.Tabs(
                 selected_index=0,
                 animation_duration=300,
@@ -467,7 +468,7 @@ class AplicacionGestorArchivos:
             ),
             ft.Container( # Pie de página
                 content=ft.Text(
-                    "Desarrolladores: [SAVC16-S.A.V.C16, MundoCode777-Andres.dev] | Autore: [Steven Alexander Villamar Cevallos]",
+                    "Desarrolladores: [SAVC16-S.A.V.C16, MundoCode777-Andres.dev] | Autor: [Steven Alexander Villamar Cevallos]",
                     size=10,
                     color=ft.Colors.GREY_500,
                     text_align=ft.TextAlign.CENTER

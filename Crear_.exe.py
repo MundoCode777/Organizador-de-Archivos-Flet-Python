@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --icon=assets/app.ico --name "Administrador de Archivos Inteligente" main.py

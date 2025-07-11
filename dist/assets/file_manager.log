@@ -1,0 +1,16 @@
+2025-07-11 00:19:11,933 - INFO - Assets path configured: C:\Users\villa\AppData\Local\Temp\_MEI233482\assets
+2025-07-11 00:19:11,936 - INFO - Starting up TCP server on localhost:58286
+2025-07-11 00:19:11,949 - INFO - Flet app has started...
+2025-07-11 00:19:11,952 - INFO - App URL: tcp://localhost:58286
+2025-07-11 00:19:11,952 - INFO - Starting Flet View app...
+2025-07-11 00:19:11,952 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Temp\_MEI233482\flet_desktop\app\flet\flet.exe
+2025-07-11 00:19:11,952 - INFO - Downloading Flet v0.28.3 from https://github.com/flet-dev/flet/releases/download/v0.28.3/flet-windows.zip to C:\Users\villa\AppData\Local\Temp\flet-windows.zip
+2025-07-11 00:19:14,737 - INFO - Extracting flet.exe from archive to C:\Users\villa\.flet\bin\flet-0.28.3
+2025-07-11 00:19:17,407 - INFO - App session started
+2025-07-11 00:19:21,023 - INFO - Assets path configured: C:\Users\villa\AppData\Local\Temp\_MEI249602\assets
+2025-07-11 00:19:21,025 - INFO - Starting up TCP server on localhost:58324
+2025-07-11 00:19:21,040 - INFO - Flet app has started...
+2025-07-11 00:19:21,044 - INFO - App URL: tcp://localhost:58324
+2025-07-11 00:19:21,044 - INFO - Starting Flet View app...
+2025-07-11 00:19:21,045 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Temp\_MEI249602\flet_desktop\app\flet\flet.exe
+2025-07-11 00:19:21,431 - INFO - App session started
