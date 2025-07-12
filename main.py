@@ -378,11 +378,50 @@ class AplicacionGestorArchivos:
         )
         self.texto_estado_audio = ft.Text("Listo para extraer audio de videos.")
         self.barra_progreso_audio = ft.ProgressBar(value=0, visible=False, width=400)
+
+    def _crear_logo(self):
+        """Crea el widget del logo, intenta cargar desde archivo o usa icono por defecto."""
+        logo_path = "assets/logo.png"  # Ruta del logo
+        
+        # Verificar si existe el archivo de logo
+        if os.path.exists(logo_path):
+            # Si existe el archivo, usar la imagen
+            return ft.Image(
+                src=logo_path,
+                width=40,
+                height=40,
+                fit=ft.ImageFit.CONTAIN
+            )
+        else:
+            # Si no existe el archivo, usar un icono por defecto
+            return ft.Container(
+                content=ft.Icon(
+                    ft.Icons.FOLDER_SPECIAL,
+                    size=40,
+                    color=ft.Colors.PRIMARY
+                ),
+                width=40,
+                height=40
+            )
     
     def _anadir_ui_a_pagina(self):
         """Añade los controles UI a la página de Flet."""
+        # Crear logo - intentará cargar desde archivo, si no usa icono
+        logo_widget = self._crear_logo()
+        
         self.pagina.add(
-            ft.AppBar(title=ft.Text("Administrador de Archivos Inteligente"), center_title=True),
+            ft.AppBar(
+                title=ft.Row(
+                    [
+                        logo_widget,
+                        ft.Text("Administrador de Archivos Inteligente", size=20, weight=ft.FontWeight.BOLD)
+                    ],
+                    alignment=ft.MainAxisAlignment.CENTER,
+                    spacing=10
+                ),
+                center_title=True,
+                bgcolor=ft.Colors.PRIMARY_CONTAINER
+            ),
             ft.Tabs(
                 selected_index=0,
                 animation_duration=300,

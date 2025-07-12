@@ -12200,3 +12200,75 @@ UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f50d' in posit
 2025-07-11 22:23:04,928 - INFO - Flet View found in: C:\Users\ytpen\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flet_desktop\app\flet\flet.exe
 2025-07-11 22:23:05,146 - INFO - App session started
 2025-07-11 22:23:18,734 - INFO - Extracción de audio completada. 1 archivos convertidos a mp3.
+2025-07-11 22:27:23,681 - INFO - Extracción de audio completada. 1 archivos convertidos a mp3.
+2025-07-11 22:45:47,099 - INFO - Assets path configured: C:\Users\ytpen\Desktop\Organizador\Organizador-de-Archivos-Flet-Python\assets
+2025-07-11 22:45:47,099 - INFO - Starting up TCP server on localhost:51115
+2025-07-11 22:45:47,113 - INFO - Flet app has started...
+2025-07-11 22:45:47,122 - INFO - App URL: tcp://localhost:51115
+2025-07-11 22:45:47,122 - INFO - Starting Flet View app...
+2025-07-11 22:45:47,122 - INFO - Looking for Flet executable at: C:\Users\ytpen\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-11 22:45:47,122 - INFO - Flet View found in: C:\Users\ytpen\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-11 22:45:47,394 - INFO - App session started
+2025-07-11 22:46:01,922 - INFO - Directorio creado: C:\Users\ytpen\Downloads\Música
+2025-07-11 22:46:01,923 - INFO - Directorio creado: C:\Users\ytpen\Downloads\Fotos
+2025-07-11 22:46:01,924 - INFO - Directorio creado: C:\Users\ytpen\Downloads\Documentos
+2025-07-11 22:46:01,925 - INFO - Directorio creado: C:\Users\ytpen\Downloads\Videos
+2025-07-11 22:46:01,925 - INFO - Directorio creado: C:\Users\ytpen\Downloads\Otros
+2025-07-11 22:46:01,926 - INFO - Iniciando organización de 1 archivos en C:\Users\ytpen\Downloads
+2025-07-11 22:46:01,942 - INFO - Movido 'WhatsApp Video 2025-07-11 at 10.24.11 PM.mp4' a 'Videos'
+2025-07-11 22:46:01,951 - INFO - Organización de archivos completada.
+2025-07-11 22:46:02,695 - INFO - Gráfico generado como cadena base64.
+2025-07-11 22:46:02,705 - INFO - Organización de archivos completada exitosamente.
+2025-07-11 22:46:27,524 - INFO - Escaneando 14 archivos en busca de duplicados en C:\Users\ytpen\Desktop\2
+2025-07-11 22:46:39,220 - INFO - Escaneo de duplicados completado. Encontrados 7 grupos de duplicados.
+2025-07-11 22:46:46,677 - INFO - Archivo eliminado: C:\Users\ytpen\Desktop\2\1736115197271.png
+2025-07-11 22:46:46,833 - INFO - Archivo eliminado: C:\Users\ytpen\Desktop\2\2025-05-31 07-18-27.mkv
+2025-07-11 22:46:46,837 - INFO - Archivo eliminado: C:\Users\ytpen\Desktop\2\3.png
+2025-07-11 22:46:46,838 - INFO - Archivo eliminado: C:\Users\ytpen\Desktop\2\9b1cfe57-b54e-41b8-b312-4a63640b3274.png
+2025-07-11 22:46:46,841 - INFO - Archivo eliminado: C:\Users\ytpen\Desktop\2\AndresDev.png
+2025-07-11 22:46:46,844 - INFO - Archivo eliminado: C:\Users\ytpen\Desktop\2\f4806d78-7202-4721-b655-0e603530b6b7.png
+2025-07-11 22:46:47,050 - INFO - Archivo eliminado: C:\Users\ytpen\Desktop\2\video.mkv
+2025-07-11 22:46:47,079 - INFO - Escaneando 7 archivos en busca de duplicados en C:\Users\ytpen\Desktop\2
+2025-07-11 22:46:53,144 - INFO - Escaneo de duplicados completado. Encontrados 0 grupos de duplicados.
+2025-07-11 22:47:53,688 - INFO - Redimensionado: 1736115197271.jpg -> 480x480
+2025-07-11 22:47:54,756 - ERROR - Error al procesar 2.png para redimensionar: cannot identify image file 'C:\\Users\\ytpen\\Desktop\\1\\2.png'
+2025-07-11 22:47:55,319 - INFO - Redimensionado: 3.jpg -> 1800x2700
+2025-07-11 22:47:55,379 - INFO - Redimensionado: 9b1cfe57-b54e-41b8-b312-4a63640b3274.jpg -> 441x783
+2025-07-11 22:47:55,780 - INFO - Redimensionado: AndresDev.png -> 614x921
+2025-07-11 22:47:55,810 - INFO - Redimensionado: f4806d78-7202-4721-b655-0e603530b6b7.jpg -> 441x441
+2025-07-11 22:47:55,817 - INFO - Redimensionamiento de imágenes completado.
+2025-07-11 22:48:24,545 - INFO - Redimensionado: 1736115197271.jpg -> 500x500
+2025-07-11 22:48:24,546 - ERROR - Error al procesar 2.png para redimensionar: cannot identify image file 'C:\\Users\\ytpen\\Desktop\\1\\2.png'
+2025-07-11 22:48:24,991 - INFO - Redimensionado: 3.jpg -> 500x500
+2025-07-11 22:48:25,031 - INFO - Redimensionado: 9b1cfe57-b54e-41b8-b312-4a63640b3274.jpg -> 500x500
+2025-07-11 22:48:25,336 - INFO - Redimensionado: AndresDev.png -> 500x500
+2025-07-11 22:48:25,362 - INFO - Redimensionado: f4806d78-7202-4721-b655-0e603530b6b7.jpg -> 500x500
+2025-07-11 22:48:25,371 - INFO - Redimensionamiento de imágenes completado.
+2025-07-11 22:48:39,230 - INFO - Redimensionado: 1736115197271.jpg -> 800x800
+2025-07-11 22:48:39,232 - ERROR - Error al procesar 2.png para redimensionar: cannot identify image file 'C:\\Users\\ytpen\\Desktop\\1\\2.png'
+2025-07-11 22:48:39,637 - INFO - Redimensionado: 3.jpg -> 3000x4500
+2025-07-11 22:48:39,669 - INFO - Redimensionado: 9b1cfe57-b54e-41b8-b312-4a63640b3274.jpg -> 736x1306
+2025-07-11 22:48:40,449 - INFO - Redimensionado: AndresDev.png -> 1024x1536
+2025-07-11 22:48:40,465 - INFO - Redimensionado: f4806d78-7202-4721-b655-0e603530b6b7.jpg -> 736x736
+2025-07-11 22:48:40,486 - INFO - Redimensionamiento de imágenes completado.
+2025-07-11 22:49:03,870 - INFO - Redimensionado: 1736115197271.jpg -> 500x1000
+2025-07-11 22:49:03,873 - ERROR - Error al procesar 2.png para redimensionar: cannot identify image file 'C:\\Users\\ytpen\\Desktop\\1\\2.png'
+2025-07-11 22:49:04,351 - INFO - Redimensionado: 3.jpg -> 500x1000
+2025-07-11 22:49:04,394 - INFO - Redimensionado: 9b1cfe57-b54e-41b8-b312-4a63640b3274.jpg -> 500x1000
+2025-07-11 22:49:04,779 - INFO - Redimensionado: AndresDev.png -> 500x1000
+2025-07-11 22:49:04,815 - INFO - Redimensionado: f4806d78-7202-4721-b655-0e603530b6b7.jpg -> 500x1000
+2025-07-11 22:49:04,827 - INFO - Redimensionamiento de imágenes completado.
+2025-07-11 22:49:16,425 - INFO - Redimensionado: 1736115197271.jpg -> 1500x1000
+2025-07-11 22:49:16,427 - ERROR - Error al procesar 2.png para redimensionar: cannot identify image file 'C:\\Users\\ytpen\\Desktop\\1\\2.png'
+2025-07-11 22:49:17,022 - INFO - Redimensionado: 3.jpg -> 1500x1000
+2025-07-11 22:49:17,123 - INFO - Redimensionado: 9b1cfe57-b54e-41b8-b312-4a63640b3274.jpg -> 1500x1000
+2025-07-11 22:49:18,227 - INFO - Redimensionado: AndresDev.png -> 1500x1000
+2025-07-11 22:49:18,282 - INFO - Redimensionado: f4806d78-7202-4721-b655-0e603530b6b7.jpg -> 1500x1000
+2025-07-11 22:49:18,290 - INFO - Redimensionamiento de imágenes completado.
+2025-07-11 22:50:16,090 - INFO - Convertido 1736115197271.jpg a webp
+2025-07-11 22:50:16,092 - ERROR - Error al convertir 2.png: cannot identify image file 'C:\\Users\\ytpen\\Desktop\\1\\2.png'
+2025-07-11 22:50:20,388 - INFO - Convertido 3.jpg a webp
+2025-07-11 22:50:20,589 - INFO - Convertido 9b1cfe57-b54e-41b8-b312-4a63640b3274.jpg a webp
+2025-07-11 22:50:21,399 - INFO - Convertido AndresDev.png a webp
+2025-07-11 22:50:21,519 - INFO - Convertido f4806d78-7202-4721-b655-0e603530b6b7.jpg a webp
+2025-07-11 22:50:21,527 - INFO - Conversión de imágenes completada. 5 archivos convertidos a webp.
