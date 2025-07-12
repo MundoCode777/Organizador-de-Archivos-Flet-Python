@@ -7515,3 +7515,25 @@ TypeError: SnackBar.__init__() got an unexpected keyword argument 'show_close_bu
 2025-07-11 00:09:22,782 - INFO - Looking for Flet executable at: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
 2025-07-11 00:09:22,782 - INFO - Flet View found in: C:\Users\villa\AppData\Local\Programs\Python\Python313\Lib\site-packages\flet_desktop\app\flet\flet.exe
 2025-07-11 00:09:23,044 - INFO - App session started
+2025-07-11 19:36:59,841 - INFO - Assets path configured: C:\Users\ytpen\Desktop\Organizador\Organizador-de-Archivos-Flet-Python\assets
+2025-07-11 19:36:59,864 - INFO - Starting up TCP server on localhost:64911
+2025-07-11 19:36:59,879 - INFO - Flet app has started...
+2025-07-11 19:36:59,913 - INFO - App URL: tcp://localhost:64911
+2025-07-11 19:36:59,913 - INFO - Starting Flet View app...
+2025-07-11 19:36:59,921 - INFO - Looking for Flet executable at: C:\Users\ytpen\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-11 19:36:59,921 - INFO - Flet View found in: C:\Users\ytpen\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flet_desktop\app\flet\flet.exe
+2025-07-11 19:37:00,754 - INFO - App session started
+2025-07-11 19:37:29,230 - INFO - Convertido 1736115197271.jpg a gif
+2025-07-11 19:37:29,977 - ERROR - Error al convertir 2.png: cannot identify image file 'C:\\Users\\ytpen\\Desktop\\1\\2.png'
+2025-07-11 19:37:31,857 - INFO - Convertido 3.jpg a gif
+2025-07-11 19:37:32,006 - INFO - Convertido 9b1cfe57-b54e-41b8-b312-4a63640b3274.jpg a gif
+2025-07-11 19:37:32,348 - INFO - Convertido AndresDev.png a gif
+2025-07-11 19:37:32,445 - INFO - Convertido f4806d78-7202-4721-b655-0e603530b6b7.jpg a gif
+2025-07-11 19:37:32,449 - INFO - Conversión de imágenes completada. 5 archivos convertidos a gif.
+2025-07-11 19:38:00,659 - INFO - Convertido 1736115197271.jpg a gif
+2025-07-11 19:38:00,659 - ERROR - Error al convertir 2.png: cannot identify image file 'C:\\Users\\ytpen\\Desktop\\1\\2.png'
+2025-07-11 19:38:02,452 - INFO - Convertido 3.jpg a gif
+2025-07-11 19:38:02,568 - INFO - Convertido 9b1cfe57-b54e-41b8-b312-4a63640b3274.jpg a gif
+2025-07-11 19:38:02,913 - INFO - Convertido AndresDev.png a gif
+2025-07-11 19:38:02,992 - INFO - Convertido f4806d78-7202-4721-b655-0e603530b6b7.jpg a gif
+2025-07-11 19:38:02,992 - INFO - Conversión de imágenes completada. 5 archivos convertidos a gif.

@@ -942,3 +942,4 @@ def main(pagina: ft.Page):
 
 if __name__ == "__main__":
     ft.app(target=main)
+    
