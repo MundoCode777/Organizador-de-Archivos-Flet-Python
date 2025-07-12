@@ -10,6 +10,11 @@ import base64
 import hashlib
 import asyncio
 from PIL import Image 
+import subprocess
+import logging
+from pathlib import Path
+from typing import List, Tuple, Optional
+
 
 # Importar desde config.py
 from config import DEFAULT_FOLDERS, LOG_FILE_PATH
@@ -37,6 +42,15 @@ from renombrador_archivos import (
 )
 from fusionador_pdfs import (
     fusionar_pdfs
+)
+
+# Importar el nuevo módulo de audio
+from audio import (
+    extraer_audio_videos, 
+    validar_parametros_extraccion, 
+    verificar_ffmpeg, 
+    obtener_info_video,
+    FORMATOS_AUDIO_SOPORTADOS
 )
 
 # --- Configuración e Inicialización de Logs (centralizado aquí) ---
@@ -78,6 +92,9 @@ class AplicacionGestorArchivos:
         self._campo_texto_destino_actual: ft.TextField = None
         self._selector_archivos = ft.FilePicker(on_result=self._al_seleccionar_archivo_resultado)
         self.pagina.overlay.append(self._selector_archivos)
+
+        # Verificar FFmpeg al inicializar
+        self._verificar_ffmpeg_disponible()
 
         self._inicializar_componentes_ui()
         self._anadir_ui_a_pagina()
@@ -123,6 +140,7 @@ class AplicacionGestorArchivos:
         self._inicializar_ui_renombrar()
         self._inicializar_ui_fusion_pdf()
         self._inicializar_ui_convertir_imagenes()
+        self._inicializar_ui_extraer_audio()  # Nueva inicialización
 
     def _inicializar_ui_organizacion(self):
         self.entrada_musica = ft.TextField(label="Carpeta Música", value="Música", width=150)
@@ -304,6 +322,62 @@ class AplicacionGestorArchivos:
             on_click=self._al_hacer_click_convertir_imagenes
         )
         self.texto_estado_convertir = ft.Text("Listo para convertir imágenes.")
+
+    def _inicializar_ui_extraer_audio(self):
+        """Inicializa los componentes UI para extracción de audio."""
+        self.entrada_dir_audio_origen = ft.TextField(
+            label="Carpeta de Origen de Videos",
+            read_only=True,
+            expand=True,
+            on_focus=lambda e: self._abrir_dialogo_seleccion_carpeta(self.entrada_dir_audio_origen)
+        )
+        self.boton_seleccionar_audio_origen = ft.ElevatedButton(
+            "Seleccionar Carpeta",
+            icon=ft.Icons.FOLDER_OPEN,
+            on_click=lambda e: self._abrir_dialogo_seleccion_carpeta(self.entrada_dir_audio_origen)
+        )
+        self.entrada_dir_audio_destino = ft.TextField(
+            label="Carpeta de Destino para Audio",
+            read_only=True,
+            expand=True,
+            on_focus=lambda e: self._abrir_dialogo_seleccion_carpeta(self.entrada_dir_audio_destino)
+        )
+        self.boton_seleccionar_audio_destino = ft.ElevatedButton(
+            "Seleccionar Carpeta",
+            icon=ft.Icons.FOLDER_OPEN,
+            on_click=lambda e: self._abrir_dialogo_seleccion_carpeta(self.entrada_dir_audio_destino)
+        )
+        self.dropdown_formato_audio = ft.Dropdown(
+            label="Formato de Audio",
+            options=[
+                ft.dropdown.Option("mp3", "MP3"),
+                ft.dropdown.Option("wav", "WAV"),
+                ft.dropdown.Option("flac", "FLAC"),
+                ft.dropdown.Option("aac", "AAC"),
+                ft.dropdown.Option("ogg", "OGG"),
+                ft.dropdown.Option("m4a", "M4A"),
+            ],
+            value="mp3",
+            width=150
+        )
+        self.dropdown_calidad_audio = ft.Dropdown(
+            label="Calidad de Audio",
+            options=[
+                ft.dropdown.Option("128k", "128 kbps"),
+                ft.dropdown.Option("192k", "192 kbps"),
+                ft.dropdown.Option("256k", "256 kbps"),
+                ft.dropdown.Option("320k", "320 kbps"),
+            ],
+            value="192k",
+            width=150
+        )
+        self.boton_extraer_audio = ft.ElevatedButton(
+            "Extraer Audio",
+            icon=ft.Icons.AUDIOTRACK,
+            on_click=self._al_hacer_click_extraer_audio
+        )
+        self.texto_estado_audio = ft.Text("Listo para extraer audio de videos.")
+        self.barra_progreso_audio = ft.ProgressBar(value=0, visible=False, width=400)
     
     def _anadir_ui_a_pagina(self):
         """Añade los controles UI a la página de Flet."""
@@ -456,6 +530,66 @@ class AplicacionGestorArchivos:
                                     ft.Divider(),
                                     ft.Row([self.dropdown_formato_destino, self.boton_realizar_conversion]),
                                     self.texto_estado_convertir,
+                                ],
+                                scroll=ft.ScrollMode.ADAPTIVE,
+                                expand=True
+                            ),
+                            padding=10
+                        )
+                    ),
+                    # NUEVO TAB: Extraer Audio
+                    ft.Tab(
+                        text="🎵 Extraer Audio",
+                        icon=ft.Icons.AUDIOTRACK,
+                        content=ft.Container(
+                            content=ft.Column(
+                                [
+                                    ft.Text(
+                                        "Extracción de Audio de Videos",
+                                        size=20,
+                                        weight=ft.FontWeight.BOLD,
+                                        color=ft.Colors.PRIMARY
+                                    ),
+                                    ft.Divider(),
+                                    ft.Row([self.entrada_dir_audio_origen, self.boton_seleccionar_audio_origen]),
+                                    ft.Row([self.entrada_dir_audio_destino, self.boton_seleccionar_audio_destino]),
+                                    ft.Divider(),
+                                    ft.Text("Configuración de Audio:"),
+                                    ft.Row([self.dropdown_formato_audio, self.dropdown_calidad_audio]),
+                                    ft.Divider(),
+                                    self.boton_extraer_audio,
+                                    self.barra_progreso_audio,
+                                    self.texto_estado_audio,
+                                    ft.Container(
+                                        content=ft.Column([
+                                            ft.Text(
+                                                "ℹ️ Información:",
+                                                size=14,
+                                                weight=ft.FontWeight.W_500,
+                                                color=ft.Colors.PRIMARY
+                                            ),
+                                            ft.Text(
+                                                "• Formatos de video soportados: MP4, AVI, MOV, MKV, FLV, WMV, WebM y más",
+                                                size=12,
+                                                color=ft.Colors.GREY_600
+                                            ),
+                                            ft.Text(
+                                                "• Requiere FFmpeg instalado en el sistema",
+                                                size=12,
+                                                color=ft.Colors.GREY_600
+                                            ),
+                                            ft.Text(
+                                                "• Mayor calidad = archivos más grandes",
+                                                size=12,
+                                                color=ft.Colors.GREY_600
+                                            )
+                                        ]),
+                                        padding=15,
+                                        border=ft.border.all(1, ft.Colors.GREY_400),
+                                        border_radius=8,
+                                        bgcolor=ft.Colors.GREY_100,
+                                        margin=ft.margin.only(top=10)
+                                    )
                                 ],
                                 scroll=ft.ScrollMode.ADAPTIVE,
                                 expand=True
@@ -915,6 +1049,74 @@ class AplicacionGestorArchivos:
             self.boton_realizar_conversion.disabled = False
             self.pagina.update()
 
+    # --- Métodos y Controladores para Extraer Audio de Videos ---
+    async def _al_hacer_click_extraer_audio(self, e: ft.ControlEvent):
+        """Método para extraer audio de videos siguiendo el patrón del código existente."""
+        input_dir = self.entrada_dir_audio_origen.value
+        output_dir = self.entrada_dir_audio_destino.value
+        formato_audio = self.dropdown_formato_audio.value
+        calidad_audio = self.dropdown_calidad_audio.value or '192k'
+
+        if not input_dir or not os.path.isdir(input_dir):
+            self.texto_estado_audio.value = "Seleccione una carpeta de origen válida."
+            self._mostrar_snackbar("Por favor, seleccione una carpeta de origen con videos.")
+            return
+        
+        if not output_dir:
+            self._mostrar_snackbar("Seleccione una carpeta de destino válida para los archivos de audio.")
+            return
+        
+        if not formato_audio:
+            self.texto_estado_audio.value = "Seleccione un formato de audio."
+            self._mostrar_snackbar("Por favor, seleccione el formato de audio.")
+            return
+        
+        try:
+            # Validar parámetros usando la función del módulo audio
+            es_valido, mensaje_error = validar_parametros_extraccion(
+                input_dir, output_dir, formato_audio
+            )
+            
+            if not es_valido:
+                self.texto_estado_audio.value = mensaje_error
+                self._mostrar_snackbar(mensaje_error)
+                return
+            
+            # Crear directorio de destino
+            os.makedirs(output_dir, exist_ok=True)
+
+            # Actualizar UI
+            self.texto_estado_audio.value = f"Extrayendo audio en formato {formato_audio}..."
+            self.boton_extraer_audio.disabled = True
+            self.barra_progreso_audio.visible = True
+            self.barra_progreso_audio.value = 0
+            self.pagina.update()
+
+            # Ejecutar extracción de audio en hilo separado
+            archivos_extraidos = await asyncio.to_thread(
+                extraer_audio_videos,
+                input_dir,
+                output_dir,
+                formato_audio,
+                calidad_audio,
+                self._actualizar_progreso_audio
+            )
+
+            # Actualizar estado final
+            self.texto_estado_audio.value = f"Extracción completada. Se procesaron {archivos_extraidos} archivos."
+            self._mostrar_snackbar(f"Audio extraído exitosamente: {archivos_extraidos} archivos.")
+            logger.info(f"Extracción de audio completada. {archivos_extraidos} archivos convertidos a {formato_audio}.")
+
+        except Exception as ex:
+            logger.error(f"Error al extraer audio: {ex}")
+            self.texto_estado_audio.value = f"Error al extraer audio: {ex}"
+            self._mostrar_snackbar(f"Error al extraer audio: {ex}")
+        finally:
+            self.boton_extraer_audio.disabled = False
+            self.barra_progreso_audio.visible = False
+            self.barra_progreso_audio.value = 0
+            self.pagina.update()
+
     # --- Métodos de Actualización de UI y Utilidades ---
     def _actualizar_progreso_organizacion(self, actual, total):
         """Actualiza la barra de progreso de organización de archivos."""
@@ -925,6 +1127,22 @@ class AplicacionGestorArchivos:
         """Actualiza la barra de progreso de escaneo de duplicados."""
         self.barra_progreso_duplicados.value = actual / total
         self.pagina.update()
+
+    def _actualizar_progreso_audio(self, actual, total):
+        """Actualiza la barra de progreso de extracción de audio."""
+        self.barra_progreso_audio.value = actual / total
+        self.pagina.update()
+
+    def _verificar_ffmpeg_disponible(self):
+        """Verifica si FFmpeg está disponible y muestra advertencia si no lo está."""
+        if not verificar_ffmpeg():
+            self._mostrar_snackbar(
+                "FFmpeg no está disponible. La funcionalidad de extracción de audio no funcionará. "
+                "Por favor, instale FFmpeg para usar esta función."
+            )
+            logger.warning("FFmpeg no está disponible en el sistema.")
+            return False
+        return True
 
     def _mostrar_snackbar(self, mensaje: str):
         """Muestra un SnackBar en la página con el mensaje dado."""
@@ -942,4 +1160,3 @@ def main(pagina: ft.Page):
 
 if __name__ == "__main__":
     ft.app(target=main)
-    
