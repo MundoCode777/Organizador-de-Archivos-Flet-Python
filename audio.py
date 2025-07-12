@@ -5,6 +5,8 @@ from pathlib import Path
 from typing import List, Tuple, Optional
 import shutil
 
+#Libre de peso solo una funcion para poder verificar si ffmpeg esta instalado
+
 logger = logging.getLogger(__name__)
 
 # Formatos de audio soportados
